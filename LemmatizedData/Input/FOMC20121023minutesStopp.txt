@@ -1,0 +1,722 @@
+ Page 1
+ _____________________________________________________________________________________________
+ 
+ Minutes Federal Open Market Committee
+ October 23–24, 2012
+ meeting Federal Open Market Committee
+ held offices Board Governors
+ Federal Reserve System Washington, D.C.,
+ Tuesday, October 23, 2012, 1:00 p.m. continued
+ Wednesday, October 24, 2012, 9:00 a.m.
+ 
+ James A. Clouse, Deputy Director, Division Monetary Affairs, Board Governors
+ 
+ PRESENT:
+ Ben Bernanke, Chairman
+ William C. Dudley, Vice Chairman
+ Elizabeth Duke
+ Jeffrey M. Lacker
+ Dennis P. Lockhart
+ Sandra Pianalto
+ Jerome H. Powell
+ Sarah Bloom Raskin
+ Jeremy C. Stein
+ Daniel K. Tarullo
+ John C. Williams
+ Janet L. Yellen
+ 
+ Linda Robertson, Assistant Board, Office
+ Board Members, Board Governors
+ 
+ James Bullard, Charles L. Evans, Esther L. George,
+ Eric Rosengren, Alternate Members Federal
+ Open Market Committee
+ Richard W. Fisher, Narayana Kocherlakota,
+ Charles I. Plosser, Presidents Federal Reserve Banks Dallas, Minneapolis, Philadelphia, respectively
+ William B. English, Secretary Economist
+ Deborah J. Danker, Deputy Secretary
+ Matthew M. Luecke, Assistant Secretary
+ David W. Skidmore, Assistant Secretary
+ Michelle A. Smith, Assistant Secretary
+ Scott G. Alvarez, General Counsel
+ Thomas C. Baxter, Deputy General Counsel
+ Steven B. Kamin, Economist
+ David W. Wilcox, Economist
+ David Altig, Thomas A. Connors, Michael P. Leahy,
+ William Nelson, David Reifschneider, Mark S. Sniderman, William Wascher, Associate Economists
+ Simon Potter, Manager, System Open Market Account
+ Michael S. Gibson, Director, Division Banking Supervision Regulation, Board Governors
+ 
+ Andreas Lehnert, Deputy Director, Office Financial
+ Stability Policy Research, Board Governors
+ 
+ Thomas Laubach, Senior Adviser, Division Research
+ Statistics, Board Governors; Ellen E.
+ Meade, Stephen A. Meyer, Joyce K. Zickler,
+ Senior Advisers, Division Monetary Affairs,
+ Board Governors
+ Eric M. Engen, Michael T. Kiley, Michael G. Palumbo, Associate Directors, Division Research
+ Statistics, Board Governors
+ Joshua Gallin, Deputy Associate Director, Division
+ Research Statistics, Board Governors
+ Marnie Gillis DeBoer, Assistant Director, Division
+ Monetary Affairs, Board Governors
+ David H. Small, Project Manager, Division Monetary Affairs, Board Governors
+ Jeremy B. Rudd, Senior Economist, Division Research Statistics, Board Governors
+ Helen E. Holcomb, First Vice President, Federal Reserve Bank Dallas
+ Jeff Fuhrer Loretta J. Mester, Executive Vice Presidents, Federal Reserve Banks Boston Philadelphia, respectively
+ Troy Davig, Spencer Krane, Kevin Stiroh, Senior
+ Vice Presidents, Federal Reserve Banks Kansas
+ City, Chicago, New York, respectively
+ William Gavin, Evan F. Koenig, Lorie K. Logan,
+ Paolo A. Pesenti, Vice Presidents, Federal Reserve
+ Banks St. Louis, Dallas, New York, New
+ York, respectively
+ 
+ Page 2
+ Federal Open Market Committee
+ _____________________________________________________________________________________________
+ Thomas D. Tallarini, Jr., Assistant Vice President, Federal Reserve Bank Minneapolis
+ Andreas L. Hornstein, Senior Advisor, Federal Reserve
+ Bank Richmond
+ Eric T. Swanson, Senior Research Advisor, Federal
+ Reserve Bank San Francisco
+ Thresholds Forward Guidance
+ staff presentation focused potential effects
+ using specific threshold values inflation unemployment rate provide forward guidance regarding timing initial increase federal funds
+ rate. presentation reviewed simulations
+ staff macroeconomic model illustrate implications policy economy announcing various threshold values would need attained
+ Federal Open Market Committee (FOMC)
+ would consider increasing target federal
+ funds rate. Meeting participants discussed whether
+ thresholds might usefully replace perhaps augment date-based guidance provided
+ policy statements since August 2011. Participants generally favored use economic variables,
+ place conjunction calendar date,
+ Committee’s forward guidance, offered
+ different views whether quantitative qualitative
+ thresholds would effective. Many participants
+ view adopting quantitative thresholds
+ could, right conditions, help Committee
+ clearly communicate thinking
+ likely timing eventual increase federal funds
+ rate would shift response unanticipated changes
+ economic conditions outlook. Accordingly,
+ thresholds could increase probability market
+ reactions economic developments would move
+ longer-term interest rates manner consistent
+ Committee’s view regarding likely future path
+ short-term rates. number participants
+ judged communicating careful qualitative description indicators influencing Committee’s
+ thinking current future monetary policy,
+ providing information Committee’s
+ policy reaction function, would informative
+ either quantitative thresholds date-based forward guidance. Several participants concerned
+ quantitative thresholds could confuse public
+ giving impression FOMC focuses
+ small number economic variables setting monetary policy, Committee fact uses wide
+ 
+ range information. participants worried
+ public might mistakenly interpret quantitative
+ thresholds equivalent Committee’s longer-run
+ objectives triggers that, reached, would
+ prompt immediate rate increase; noted
+ Chairman’s postmeeting press conference
+ venues could used explain distinction
+ thresholds concepts.
+ Participants generally agreed Committee would
+ need resolve number practical issues deciding whether adopt quantitative thresholds
+ communicate thinking timing initial
+ increase federal funds rate. issues included whether specify thresholds terms
+ realized projected values inflation unemployment rate and, either case, values
+ thresholds would best balance Committee’s objectives promoting maximum employment price
+ stability. Another open question whether supplement thresholds expressed terms unemployment rate inflation additional indicators
+ economic financial conditions might signal
+ need either raise federal funds rate
+ threshold crossed delay well afterward.
+ final question whether statement also
+ provide forward guidance likely path
+ federal funds rate initial increase. noted
+ guidance could significant effects
+ financial conditions economy. conclusion discussion, Chairman asked staff
+ provide additional background material, taking
+ account range participants’ views.
+ Developments Financial Markets Federal Reserve’s Balance Sheet
+ Manager System Open Market Account
+ (SOMA) reported developments domestic
+ foreign financial markets period since
+ FOMC met September 12–13, 2012. Manager
+ also reported System open market operations
+ intermeeting period, focusing ongoing reinvestment agency-guaranteed mortgage-backed securities (MBS) principal payments received
+ SOMA holdings agency debt agency-guaranteed
+ MBS purchases MBS authorized September FOMC meeting. unanimous vote,
+ Committee ratified Desk’s domestic transactions
+ intermeeting period. intervention operations foreign currencies System’s
+ account intermeeting period.
+ 
+ Minutes Meeting October 23–24, 2012
+ Page 3
+ _____________________________________________________________________________________________
+ Staff Review Economic Situation
+ information reviewed October 23–24 meeting suggested economic activity continued increase moderate pace recent months. unemployment rate declined still elevated. Consumer price inflation picked up, reflecting higher consumer energy costs, longer-run inflation expectations remained stable.
+ Private nonfarm employment expanded modestly
+ September, government employment increased.
+ unemployment rate fell 7.8 percent,
+ labor force participation rate rose slightly. share
+ workers employed part time economic reasons increased somewhat continued elevated,
+ rate long-duration unemployment edged
+ remained high. indicators labor
+ market conditions, surveys firms’ job openings hiring plans initial claims unemployment insurance, show decided improvement
+ intermeeting period.
+ Manufacturing production declined third quarter,
+ rate manufacturing capacity utilization edged
+ down. Automakers’ schedules pointed similar rate
+ motor vehicle assemblies fourth quarter
+ third quarter. Broader indicators factory production, diffusion indexes new orders
+ national regional manufacturing surveys, remained subdued recent months levels consistent
+ tepid increases manufacturing output
+ near term.
+ Real personal consumption expenditures rose solid
+ pace August. September, nominal retail sales,
+ excluding purchases motor vehicle parts outlets,
+ increased considerably. Light motor vehicle sales also
+ expanded. Recent data factors tend support
+ household spending mixed. Real disposable income declined August, largely reflecting effect
+ higher consumer energy prices. contrast, consumer
+ sentiment rose September early October,
+ continued modest increases house prices added
+ households’ net worth.
+ Housing market conditions improved generally
+ recent months. Starts permits new singlefamily homes multifamily units picked August September. However, construction activity
+ remained relatively low level, reflecting restraint
+ imposed tight credit standards mortgage borrowing large inventory foreclosed distressed properties. Sales existing homes continued
+ 
+ expand, balance, recent months, new
+ home sales flat.
+ Real business expenditures equipment software
+ appeared edge third quarter. Nominal
+ shipments nondefense capital goods excluding aircraft continued decrease August; backlog
+ unfilled orders capital goods also declined.
+ forward-looking indicators, subdued
+ readings surveys business conditions capital spending plans, also pointed toward roughly flat real
+ expenditures business equipment near term.
+ Nominal business spending new nonresidential
+ construction decreased August. Meanwhile,
+ inventories industries line
+ sales. farm sector, however, drought conditions
+ likely reduced inventory accumulation last quarter
+ subtracted overall economic growth.
+ Real federal government purchases appeared edge
+ third quarter, data nominal federal
+ spending August September pointed slight
+ increase real defense expenditures. Real state
+ local government purchases likely moved essentially
+ sideways third quarter. State local government payrolls expanded, nominal construction
+ spending continued decline recent months.
+ U.S. international trade deficit widened August,
+ imports fell less exports. Imports edged down,
+ net, higher purchases services petroleum products offset declines
+ major categories. Across export categories, exports industrial supplies posted particularly large
+ decline, volume petroleum product exports
+ dropped sharply.
+ Consumer prices picked August September,
+ primarily reflecting sharp increases retail gasoline
+ prices. However, survey data indicated retail gasoline prices flat early October. Consumer
+ food prices rose modestly recent months.
+ somewhat better-than-expected crop harvest caused
+ spot futures prices farm commodities retrace
+ rise summer; however, farm
+ commodity prices remained elevated continued
+ point toward temporary upward pressures
+ retail food prices later year. Increases consumer
+ prices excluding food energy subdued August September. Near-term inflation expectations
+ Thomson Reuters/University Michigan
+ Surveys Consumers declined September early
+ October, longer-term inflation expectations
+ 
+ Page 4
+ Federal Open Market Committee
+ _____________________________________________________________________________________________
+ survey moved near lower end
+ narrow range remained time.
+ Available measures labor compensation indicated
+ increases nominal wages stayed relatively modest. gains average hourly earnings employees third quarter subdued.
+ Foreign economic growth remained sluggish, restrained
+ weak activity Europe associated spillovers—including trade—to rest world.
+ Euro-area production indicators signaled continued
+ contraction, area’s unemployment rate August stayed historical high. Japan, exports
+ output declined summer months, growth
+ real gross domestic product (GDP) first half
+ year revised significantly. Data exports emerging market economies, especially
+ Asia, showed drop, although recently released data
+ China indicated pickup economic activity
+ third quarter. Foreign inflation rose slightly
+ emerging market economies response higher food
+ prices still generally well contained. Monetary
+ policy remained accommodative advanced
+ emerging market economies.
+ Staff Review Financial Situation
+ Market participants reportedly read September
+ FOMC statement pointing significant increase
+ monetary policy accommodation. result, financial
+ conditions generally eased appreciably early intermeeting period. However, toward end
+ period investor sentiment deteriorated somewhat,
+ part concerns corporate profitability.
+ Short- medium-term nominal Treasury yields
+ ended intermeeting period slightly, longterm yields unchanged net.
+ time, real yields Treasury inflation-protected securities (TIPS) decreased somewhat, leaving inflation compensation higher. part, rise inflation compensation may reflected upward pressure nominal
+ Treasury yields associated unwinding
+ safe-haven demands.
+ expected path federal funds rate based
+ money market futures little changed
+ September October FOMC meetings. Marketbased measures uncertainty path
+ federal funds rate medium-to-long horizons declined period. survey primary dealers
+ conducted prior October meeting showed
+ expected size SOMA end 2013
+ risen significantly.
+ 
+ Indicators condition domestic financial institutions mixed intermeeting period. Indexes equity prices institutions modestly lower. spreads credit default swaps
+ large financial institutions declined recent months,
+ third-quarter earnings large bank holding companies reported time FOMC
+ meeting generally line expectations.
+ Conditions unsecured dollar funding markets appeared improve some. secured funding markets,
+ rates repurchase agreements spiked around quarterend subsequently retraced move,
+ ending intermeeting period slightly.
+ Broad equity price indexes little lower, balance, gains following September FOMC meeting
+ generally better-than-expected economic data releases offset concerns corporate profitability. Option-implied volatility S&P
+ 500 index fell noticeably following September
+ FOMC meeting increased, net, intermeeting period.
+ Yields investment-grade corporate bonds reached
+ record low level, spreads yields comparable-maturity Treasury securities narrowed net.
+ Yields spreads speculative-grade corporate
+ bonds also decreased.
+ pace investment- speculative-grade bond
+ issuance nonfinancial firms picked significantly
+ September already robust pace previous
+ months. syndicated leveraged loan market, issuance first three quarters 2012 lagged
+ period 2011 nonetheless remained solid. pace gross public equity issuance
+ nonfinancial firms moved September
+ subdued levels observed prior months,
+ overall issuance third quarter stayed low compared first half 2012.
+ Financial conditions commercial real estate sector remained weak amid elevated vacancy delinquency rates. However, indicators pointed
+ modest improvement sector, issuance
+ commercial mortgage-backed securities solid
+ third quarter.
+ Residential mortgage rates declined intermeeting period. decline mortgage rates reflected
+ sizable drop MBS yields following September
+ FOMC statement. Refinancing activity increased September early October. House prices
+ continued rise, indicators credit quality
+ 
+ Minutes Meeting October 23–24, 2012
+ Page 5
+ _____________________________________________________________________________________________
+ residential real estate loans improved. fraction
+ seriously delinquent existing mortgages remained
+ elevated, rate mortgages entered delinquency continued trend July.
+ Consumer credit expanded briskly August. Nonrevolving credit continued increase robust pace,
+ mainly reflecting growth student auto loans.
+ Revolving credit also rose August little
+ changed, balance, past months. Delinquency rates consumer credit remained low,
+ issuance consumer asset-backed securities
+ strong third quarter, close pace seen earlier
+ year.
+ Bank credit continued expand moderate rate
+ third quarter, growth loans augmented larger gains securities holdings. Results
+ October Senior Loan Officer Opinion Survey
+ Bank Lending Practices indicated modest fractions domestic banks, net, continued report
+ eased lending standards categories business household loans. addition,
+ second straight quarter, reports stronger demand
+ relatively widespread many types loans.
+ M2 growth picked somewhat September,
+ strong growth liquid deposits currency offset
+ ongoing declines small time deposits retail money market funds.
+ staff’s broad nominal index foreign exchange value dollar little changed, net,
+ intermeeting period. dollar rose
+ currencies advanced economies declined euro Asian emerging market currencies. note, Chinese renminbi appreciated dollar. number central
+ banks eased monetary policy period, including Australia, Brazil, Japan, Korea, Thailand. Foreign equity indexes, generally rose following September FOMC statement, ended
+ intermeeting period higher markets, although
+ stock prices euro area net. Tenyear sovereign yields Germany United Kingdom moved basis points. declining significantly late July early September,
+ yield spread 10-year sovereign debt Italy
+ comparable German bunds declined slightly intermeeting period, Spanish sovereign spread edged up.
+ 
+ Staff Economic Outlook
+ economic forecast prepared staff
+ October FOMC meeting, real GDP growth near
+ term revised relative previous projection.
+ upward revision near-term forecast primarily
+ reflected better-than-expected incoming information
+ consumer spending, residential construction,
+ labor market conditions offset recent data business fixed investment industrial
+ production weaker anticipated.
+ staff’s medium-term projection real GDP growth
+ also revised up, mostly reflecting monetary
+ policy actions announced FOMC September meeting resulting improved outlook
+ financial conditions. Nonetheless, fiscal policy
+ assumed tighter next year year, staff
+ anticipated real GDP growth would materially
+ exceed increases potential output 2013. 2014,
+ economic activity projected accelerate gradually,
+ supported lessening fiscal policy restraint, gains
+ consumer business confidence, improvements financial conditions credit availability, accommodative monetary policy. Progress
+ reducing unemployment projection period
+ expected relatively slow.
+ staff’s near-term forecast inflation little
+ changed, balance, projection prepared
+ September FOMC meeting, notwithstanding recent
+ increases consumer energy prices. staff’s projection inflation medium term also
+ essentially unchanged. Crude oil prices anticipated decline slowly current levels,
+ boost retail food prices drought expected temporary relatively small, longrun inflation expectations assumed remain stable, significant resource slack projected
+ persist projection period. result, staff
+ continued forecast inflation would subdued
+ 2014.
+ Participants’ Views Current Conditions
+ Economic Outlook
+ discussion economic situation
+ outlook, meeting participants viewed information
+ received since Committee met September indicating economic activity continued expand
+ moderate pace. Employment still rising slowly,
+ unemployment rate remained elevated.
+ Household spending advanced quickly recent
+ months spring, housing activity
+ showed signs improvement. However, business fixed investment slowed noticeably. Inflation re-
+ 
+ Page 6
+ Federal Open Market Committee
+ _____________________________________________________________________________________________
+ cently picked somewhat, reflecting higher energy
+ prices, longer-run inflation expectations remained
+ stable.
+ Participants generally saw economic outlook little changed, balance, projections prepared September Summary Economic Projections (SEP), agreeing pace economic
+ recovery likely stay moderate coming quarters. recent news household spending, consumer sentiment, housing market encouraging, participants expected highly accommodative monetary policy would provide support
+ recovery period ahead. However, many
+ participants saw uncertainty attending unresolved U.S. fiscal situation ongoing fiscal
+ financial strains euro area factors likely restrain pace economic growth coming months.
+ Moreover, many participants cited significant downside
+ risks outlook might arise widespread weakness global economic activity intensification strains global financial markets. Regarding inflation, recent run-up consumer energy
+ prices expected subside next
+ months, effects drought likely
+ show retail food prices. medium
+ term, participants anticipated inflation would
+ run Committee’s 2 percent objective.
+ Concerning developments household sector,
+ participants observed recent news consumer spending confidence positive,
+ surveys reporting households become noticeably optimistic outlook unemployment income. Sales motor vehicles remained
+ area strength, part due favorable credit conditions. increase consumer spending appeared
+ relatively broadly based across country, although
+ retailers areas reported seen
+ slower sales recently expressed concerns
+ near-term outlook. Among factors mentioned
+ might support consumer confidence continuation
+ somewhat stronger pace spending
+ expected decline retail energy prices continued
+ gradual improvement labor market conditions.
+ addition, lower mortgage rates spurred rise
+ refinancing activity, which, along increases
+ household wealth attributable higher home values
+ equity prices, would provide support consumer
+ spending going forward.
+ Participants generally agreed recovery housing
+ activity appeared way, citing increases
+ 
+ house prices, sales, construction many areas.
+ saw low levels mortgage interest rates
+ important factor contributing increased housing demand. Although recovery housing sector
+ appeared taking hold, several participants cited
+ obstacles rapid improvement. example,
+ several participants reported lenders’ capacity
+ processing home-purchase mortgages tight
+ backlogs long, part due current heavy
+ pace refinancings. participants also noted
+ underwriting standards remained quite tight, particularly borrowers lower credit quality.
+ contrast favorable news consumer
+ spending housing, contacts generally reported
+ slower activity business sector. participants expressed concern weaker manufacturing
+ output new orders recent months, particularly
+ capital goods industries, although several pointed
+ manufacturers’ expectations future orders
+ production positive. participants
+ noted shipping activity down, one participant added energy production decelerated.
+ contrast, participants received reports
+ pickup nonresidential construction, one indicated high-tech firms expecting gains business going forward. many instances, participants’
+ business contacts stated delaying cutting back hiring capital spending
+ uncertain outlook government spending, taxes,
+ regulatory policies. One participant, however, reported
+ contacts said insufficient demand remained
+ principal concern. Several participants mentioned
+ cautious posture businesses apparent
+ national regional surveys plans large
+ small firms. participants noted outlook
+ business spending would likely difficult assess
+ direction U.S. fiscal policy becomes clearer.
+ suggested possibility near-term resolution fiscal situation might lead significant
+ increase spending projects deferred
+ undertaken; another worried uncertainty
+ attending outlook fiscal policy might weigh
+ business planning time. addition
+ uncertainty fiscal outlook, manufacturing
+ contacts attributed weakness orders production softer export demand; one participant added
+ agricultural exports also softened. Several participants noted contacts concerned
+ economic slowdown Europe, also
+ whether recent slowing economic activity
+ Asia might persist.
+ 
+ Minutes Meeting October 23–24, 2012
+ Page 7
+ _____________________________________________________________________________________________
+ comments labor market developments, participants generally viewed recent decline unemployment rate continued modest gains payroll
+ employment, taken together, consistent gradually improving job market. However, economic
+ growth anticipated stay moderate, participants
+ expressed concern pace job creation would
+ generate slow decline joblessness. Several
+ pointed steep drop index hiring plans
+ small businesses. couple participants mentioned
+ firms planned increase use parttime temporary workers rather full-time permanent employees, least partly order limit
+ health insurance costs.
+ Participants saw recent price developments consistent inflation remaining Committee’s 2 percent objective medium run. Although energy prices risen sharply recent
+ months, reflecting earlier increases crude oil costs
+ supply disruptions, gasoline prices anticipated
+ move back coming months pressures eased. Similarly, effects drought expected show retail food prices
+ next quarters subside. various estimates, underlying inflation trends remained subdued,
+ indicators longer-term inflation expectations
+ generally viewed stable.
+ discussion financial developments
+ intermeeting period, participants commented
+ effects policy actions taken September
+ meeting strengthen Committee’s forward guidance purchase additional MBS. initial effects generally viewed consistent marked
+ easing financial conditions. example, yields
+ MBS dropped noticeably, leading decline mortgage interest rates, corporate bond yields generally
+ moved lower. Yields nominal Treasury securities
+ little changed. participants suggested
+ time would required assess ultimate effects additional MBS purchases primary
+ mortgage rates financial conditions broadly. stability nominal Treasury yields, paired
+ decline TIPS yields, implied modest increase
+ inflation compensation, net, intermeeting
+ period. couple participants saw increase
+ sign open-ended asset purchases posed risk
+ stability longer-term inflation expectations.
+ However, others saw effect expected inflation
+ relatively muted likely result reduced risks
+ undesirably low inflation. Participants remained concerned risks financial markets associated
+ 
+ situation euro area uncertain U.S. fiscal
+ prospects, couple noted measures financial
+ market uncertainty still relatively low. Several
+ participants pointed recent policy announcements European Central Bank received
+ favorably markets. number participants mentioned signs greater optimism financial markets, including rise merger acquisition activity
+ moderation pressures large U.S. financial
+ institutions. participants observed low interest rates increased demand riskier financial
+ products, couple participants saw risk
+ holding interest rates low prolonged period could
+ lead financial imbalances imprudent risk-taking.
+ One participant, however, commented risk aversion still seemed quite high, citing low yields
+ longer-term TIPS large estimated risk premium equity markets.
+ Participants also discussed efficacy potential
+ costs Committee’s asset purchases. number
+ participants offered assessment Committee’s policy actions, date, effective making financial conditions accommodative
+ lower interest rates providing support aggregate
+ spending, notably areas housing, autos,
+ consumer durables. particular,
+ pointed favorable developments mortgage markets intermeeting period suggested
+ MBS purchases likely reinforce
+ nascent recovery housing market. Several added
+ that, based experience earlier asset purchases, broader effects economic activity
+ more-accommodative financial conditions likely
+ accrue time. Looking ahead, number participants indicated additional asset purchases
+ would likely appropriate next year conclusion maturity extension program order
+ achieve substantial improvement labor market.
+ regard, couple participants noted likely
+ usefulness clarifying range indicators
+ would evaluated assessing outlook
+ labor market. Participants generally agreed determining appropriate size, pace, composition
+ purchases, would need carefully assess efficacy asset purchases fostering stronger
+ economic activity consider potential risks
+ costs purchases. Several participants questioned effectiveness current purchases
+ whether continuation would warranted
+ recent moderate pace economic recovery
+ sustained. addition, several participants expressed
+ 
+ Page 8
+ Federal Open Market Committee
+ _____________________________________________________________________________________________
+ concerns sizable asset purchases might eventually
+ adverse consequences functioning asset
+ markets might complicate Committee’s
+ ability remove policy accommodation appropriate time normalize size composition
+ Federal Reserve’s balance sheet. couple participants noted extended period policy accommodation posed upside risk inflation.
+ Committee Policy Action
+ Members viewed information U.S. economic
+ activity received intermeeting period suggesting economy was, balance, expanding
+ moderately, pickup household spending
+ improvement housing markets offset
+ extent slowdown business sector.
+ Although unemployment rate declined recent
+ months, monthly gains nonfarm payroll jobs remained modest, many members noted that, without sufficient policy accommodation, economic growth
+ might strong enough generate sustained improvement labor market. Inflation rose recently
+ temporary run-up energy prices. However, longer-term inflation expectations stable,
+ medium run, inflation anticipated
+ run Committee’s 2 percent objective.
+ discussion monetary policy period
+ ahead, Committee members generally agreed
+ overall assessments economic outlook little
+ changed since previous meeting. Accordingly,
+ one member judged maintaining current,
+ highly accommodative stance monetary policy
+ warranted order foster stronger economic recovery context price stability. Committee
+ judged continuing purchases MBS
+ pace $40 billion per month existing program
+ extend average maturity Treasury securities
+ holdings remained appropriate. Committee also
+ agreed maintain policy reinvesting principal
+ payments holdings agency debt agency
+ MBS agency MBS. One member opposed
+ asset purchases viewed unlikely
+ help Committee achieve goals
+ thought purchases MBS represented inappropriate credit allocation. Many members saw adjustments Committee’s forward guidance
+ September meeting effective communicating intention maintain highly accommodative stance monetary policy considerable
+ time economic recovery strengthens
+ judged guidance remained appropriate
+ meeting. However, one member continued object
+ 
+ calendar-date-based forward guidance federal funds rate. respect statement
+ released following meeting, members made
+ relatively small modifications update description
+ recent developments consumer business
+ spending inflation. economic outlook
+ little changed, agreed remainder
+ statement would reiterate policy actions intentions adopted September meeting.
+ conclusion discussion, Committee
+ voted authorize direct Federal Reserve Bank
+ New York, instructed otherwise, execute transactions System Account accordance
+ following domestic policy directive:
+ “The Federal Open Market Committee seeks
+ monetary financial conditions foster price stability promote sustainable
+ growth output. long-run objectives, Committee seeks conditions reserve markets consistent federal funds
+ trading range 0 ¼ percent.
+ Committee directs Desk continue
+ maturity extension program announced
+ June purchase Treasury securities remaining maturities 6 years 30 years
+ total face value $267 billion
+ end December 2012, sell redeem
+ Treasury securities remaining maturities
+ approximately 3 years less total
+ face value $267 billion. duration program, Committee directs
+ Desk suspend policy rolling
+ maturing Treasury securities new issues.
+ Committee directs Desk maintain
+ existing policy reinvesting principal payments agency debt agency mortgagebacked securities System Open Market
+ Account agency mortgage-backed securities.
+ Desk also directed continue purchasing agency mortgage-backed securities
+ pace $40 billion per month.
+ Committee directs Desk engage dollar
+ roll coupon swap transactions necessary
+ facilitate settlement Federal Reserve’s
+ agency MBS transactions. System Open
+ Market Account Manager Secretary
+ keep Committee informed ongoing
+ developments regarding System’s balance
+ sheet could affect attainment
+ time Committee’s objectives maximum employment price stability.”
+ 
+ Minutes Meeting October 23–24, 2012
+ Page 9
+ _____________________________________________________________________________________________
+ vote encompassed approval statement released 2:15 p.m.:
+ “Information received since Federal Open
+ Market Committee met September suggests
+ economic activity continued expand
+ moderate pace recent months. Growth
+ employment slow, unemployment rate remains elevated. Household
+ spending advanced bit quickly,
+ growth business fixed investment
+ slowed. housing sector shown
+ signs improvement, albeit
+ depressed level. Inflation recently picked
+ somewhat, reflecting higher energy prices.
+ Longer-term inflation expectations remained stable.
+ Consistent statutory mandate,
+ Committee seeks foster maximum employment price stability. Committee remains concerned that, without sufficient policy
+ accommodation, economic growth might
+ strong enough generate sustained improvement labor market conditions. Furthermore, strains global financial markets
+ continue pose significant downside risks
+ economic outlook. Committee also
+ anticipates inflation medium term
+ likely would run 2 percent objective.
+ support stronger economic recovery
+ help ensure inflation, time,
+ rate consistent dual mandate,
+ Committee continue purchasing additional agency mortgage-backed securities
+ pace $40 billion per month. Committee also continue end
+ year program extend average maturity
+ holdings Treasury securities,
+ maintaining existing policy reinvesting
+ principal payments holdings agency
+ debt agency mortgage-backed securities
+ agency mortgage-backed securities. actions, together increase Committee’s holdings longer-term securities
+ $85 billion month end
+ year, put downward pressure
+ longer-term interest rates, support mortgage
+ markets, help make broader financial
+ conditions accommodative.
+ 
+ Committee closely monitor incoming
+ information economic financial developments coming months. outlook
+ labor market improve substantially, Committee continue purchases
+ agency mortgage-backed securities, undertake additional asset purchases, employ
+ policy tools appropriate improvement achieved context price
+ stability. determining size, pace,
+ composition asset purchases, Committee will, always, take appropriate account
+ likely efficacy costs purchases.
+ support continued progress toward maximum employment price stability,
+ Committee expects highly accommodative stance monetary policy remain appropriate considerable time economic recovery strengthens. particular,
+ Committee also decided today keep target range federal funds rate 0
+ ¼ percent currently anticipates exceptionally low levels federal funds rate
+ likely warranted least mid2015.”
+ Voting action: Ben Bernanke, William C.
+ Dudley, Elizabeth Duke, Dennis P. Lockhart, Sandra
+ Pianalto, Jerome H. Powell, Sarah Bloom Raskin, Jeremy C. Stein, Daniel K. Tarullo, John C. Williams,
+ Janet L. Yellen.
+ Voting action: Jeffrey M. Lacker.
+ Mr. Lacker dissented reasons cited
+ September FOMC meeting, including view
+ likely ineffectiveness asset purchases
+ potential inflationary effects, well inappropriateness credit allocation inherent purchasing
+ MBS. also continued disagree description time period highly accommodative stance monetary policy would remain appropriate exceptionally low levels federal funds
+ rate likely warranted.
+ Discussion Communications regarding Economic Projections
+ staff presentation reviewed results consensus forecast experiments Committee conducted conjunction August September
+ meetings. briefing highlighted important role
+ assumed path monetary policy construct-
+ 
+ Page 10
+ Federal Open Market Committee
+ _____________________________________________________________________________________________
+ ing consensus forecast reviewed several alternative approaches setting path. possible
+ alternative consensus forecast, staff presentation also discussed potential enhancements SEP.
+ discussion, participants agreed FOMC
+ communications could enhanced clarifying
+ linkage participants’ economic forecasts, including underlying policy assumptions,
+ Committee’s policy decision expressed postmeeting statement. However, participants judged
+ that, given diversity views economy’s structure dynamics, would difficult
+ Committee agree fully specified longer-term
+ path monetary policy incorporate quantitative consensus forecast timely manner, especially
+ present conditions policy decision
+ comprises several elements. Participants agreed continue explore ways increase transparency clarity Committee’s policy communications,
+ indicated willingness look modifications
+ SEP. end discussion, Chairman asked
+ 
+ subcommittee communications explore potential approaches providing information
+ Committee’s collective judgment regarding
+ economic outlook appropriate monetary policy
+ SEP.
+ agreed next meeting Committee
+ would held Tuesday–Wednesday, December 11–
+ 12, 2012. meeting adjourned 12:50 p.m. October 24, 2012.
+ Notation Vote
+ notation vote completed October 3, 2012,
+ Committee unanimously approved minutes
+ FOMC meeting held September 12–13, 2012.
+ 
+ _____________________________
+ William B. English
+ Secretary
+ 
+ 

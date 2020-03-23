@@ -1,0 +1,2174 @@
+ Page 1
+ _____________________________________________________________________________________________
+ 
+ Minutes Federal Open Market Committee
+ June 21–22, 2011
+ joint meeting Federal Open Market Committee Board Governors Federal Reserve
+ System held offices Board Governors Washington, D.C., Tuesday, June 21, 2011,
+ 10:30 a.m. continued Wednesday, June 22,
+ 2011, 9:00 a.m.
+ PRESENT:
+ Ben Bernanke, Chairman
+ William C. Dudley, Vice Chairman
+ Elizabeth Duke
+ Charles L. Evans
+ Richard W. Fisher
+ Narayana Kocherlakota
+ Charles I. Plosser
+ Sarah Bloom Raskin
+ Daniel K. Tarullo
+ Janet L. Yellen
+ Jeffrey M. Lacker, Dennis P. Lockhart, Sandra Pianalto, John C. Williams, Alternate Members Federal Open Market Committee
+ James Bullard, Thomas M. Hoenig, Eric Rosengren, Presidents Federal Reserve
+ Banks St. Louis, Kansas City, Boston,
+ respectively
+ William B. English, Secretary Economist
+ Deborah J. Danker, Deputy Secretary
+ Matthew M. Luecke, Assistant Secretary
+ David W. Skidmore, Assistant Secretary
+ Michelle A. Smith, Assistant Secretary
+ Scott G. Alvarez, General Counsel
+ David J. Stockton, Economist
+ James A. Clouse, Thomas A. Connors, Steven B.
+ Kamin, Loretta J. Mester, David Reifschneider,
+ Harvey Rosenblum, Daniel G. Sullivan, David
+ W. Wilcox, Kei-Mu Yi, Associate Economists
+ Brian Sack, Manager, System Open Market Account
+ Jennifer J. Johnson, Secretary Board, Office
+ Secretary, Board Governors
+ 
+ Nellie Liang, Director, Office Financial Stability
+ Policy Research, Board Governors
+ Robert deV. Frierson, Deputy Secretary, Office
+ Secretary, Board Governors
+ William Nelson, Deputy Director, Division
+ Monetary Affairs, Board Governors
+ Linda Robertson, Assistant Board, Office
+ Board Members, Board Governors
+ Charles S. Struckmeyer, Deputy Staff Director,
+ Office Staff Director, Board Governors
+ Seth B. Carpenter, Senior Associate Director, Division Monetary Affairs, Board Governors;
+ Michael Foley, Senior Associate Director, Division Banking Supervision Regulation,
+ Board Governors; Lawrence Slifman
+ William Wascher, Senior Associate Directors,
+ Division Research Statistics, Board
+ Governors
+ Andrew T. Levin, Senior Adviser, Office Board
+ Members, Board Governors
+ Joyce K. Zickler, Visiting Senior Adviser, Division
+ Monetary Affairs, Board Governors
+ Daniel M. Covitz Eric M. Engen, Associate
+ Directors, Division Research Statistics,
+ Board Governors; Trevor A. Reeve, Associate Director, Division International
+ Finance, Board Governors
+ Egon Zakrajšek, Deputy Associate Director, Division Monetary Affairs, Board Governors
+ Beth Anne Wilson, Assistant Director, Division
+ International Finance, Board Governors
+ David H. Small, Project Manager, Division
+ Monetary Affairs, Board Governors
+ Brahima Coulibaly, Senior Economist, Division
+ International Finance, Board Governors;
+ 
+ Page 2
+ Federal Open Market Committee
+ _____________________________________________________________________________________________
+ Louise Sheiner, Senior Economist, Division
+ Research Statistics, Board Governors
+ Jean-Philippe Laforte,¹ Economist, Division Research Statistics, Board Governors
+ Penelope A. Beattie, Assistant Secretary, Office Secretary, Board Governors
+ Randall A. Williams, Records Management Analyst,
+ Division Monetary Affairs, Board Governors
+ Jeff Fuhrer, Executive Vice President, Federal Reserve Bank Boston
+ David Altig, Glenn D. Rudebusch, Mark E.
+ Schweitzer, Senior Vice Presidents, Federal
+ Reserve Banks Atlanta, San Francisco,
+ Cleveland, respectively
+ Michael Dotsey,¹ William Gavin, Andreas L.
+ Hornstein, Edward S. Knotek II, Vice
+ Presidents, Federal Reserve Banks Philadelphia, St. Louis, Richmond, Kansas City,
+ respectively
+ Marco Del Negro,¹ Joshua L. Frost, Deborah L.
+ Leonard, Jonathan P. McCarthy, Assistant
+ Vice Presidents, Federal Reserve Bank New
+ York
+ Jeff Campbell,¹ Senior Economist, Federal Reserve
+ Bank Chicago
+ _______________________
+ ¹ Attended portion meeting relating
+ dynamic stochastic general equilibrium models.
+ Developments Financial Markets Federal Reserve’s Balance Sheet
+ manager System Open Market Account
+ (SOMA) reported developments domestic
+ foreign financial markets period since
+ Federal Open Market Committee (FOMC) met
+ April 26–27, 2011. also reported System open
+ market operations, including continuing reinvestment longer-term Treasury securities principal
+ payments received SOMA’s holdings agency
+ debt agency-guaranteed mortgage-backed securities, well ongoing purchases additional
+ Treasury securities authorized November 2–3,
+ 
+ 2010, FOMC meeting. Since November, purchases
+ Open Market Desk Federal Reserve Bank
+ New York increased SOMA’s holdings
+ nearly full $600 billion authorized.
+ light ongoing strains foreign financial
+ markets, Committee considered proposal extend dollar liquidity swap arrangements foreign
+ central banks past August 1, 2011. Following discussion, members unanimously approved following
+ resolution:
+ Federal Open Market Committee directs
+ Federal Reserve Bank New York
+ extend existing temporary reciprocal currency arrangements (“swap arrangements”)
+ System Open Market Account
+ Bank Canada, Bank England,
+ European Central Bank, Bank Japan, Swiss National Bank. swap
+ arrangements shall terminate August 1, 2012, unless extended
+ Committee.
+ Dynamic Stochastic General Equilibrium Models
+ staff presentation provided overview ongoing
+ Federal Reserve research dynamic stochastic general
+ equilibrium (DSGE) models. DSGE models attempt
+ capture dynamics overall economy
+ way consistent historical data
+ optimizing behavior forward-looking households firms. presentation began discussing
+ general features DSGE models considering
+ advantages limitations relative approaches analyzing macroeconomic dynamics;
+ regard latter, presentation noted
+ current generation DSGE models still somewhat limited range policy issues models
+ address, advances modeling increase usefulness DSGE models forecasting
+ policy analysis. presentation reviewed
+ specific features DSGE models currently studied Federal Reserve Board
+ Federal Reserve Banks New York, Philadelphia,
+ Chicago. review included four models’
+ characterizations forces affecting economy
+ recent years models’ current forecasts real
+ economic activity, inflation, short-term interest
+ rates. discussing staff presentation, meeting participants expressed view DSGE models
+ useful addition wide range analytical approaches traditionally used Federal Reserve,
+ part provide internally consistent way
+ 
+ Minutes Meeting June 21-22, 2011
+ Page 3
+ _____________________________________________________________________________________________
+ exploring behavior economic agents
+ might change response systematic adjustments
+ policy. participants also expressed interest
+ seeing regular basis projections key macroeconomic variables products DSGE
+ models developed System. Finally, participants
+ encouraged staff work improve models
+ by, example, expanding range questions
+ used address.
+ Exit Strategy Principles
+ Committee discussed strategies normalizing
+ stance conduct monetary policy, following
+ discussion topic April meeting.
+ Participants stressed Committee’s discussions
+ topic undertaken part prudent planning imply move toward normalization would necessarily begin sometime soon.
+ concreteness, Committee considered set
+ specific principles would guide strategy normalizing stance conduct monetary policy.
+ Participants discussed several specific elements
+ principles, including characterize
+ monetary policy framework Committee would
+ adopt conduct policy returned normal
+ whether principles encompass possible timing normalization steps.
+ conclusion discussion, one participants agreed following key elements
+ strategy expect follow becomes
+ appropriate begin normalizing stance conduct monetary policy:
+ 
+ 
+ Committee determine timing pace
+ policy normalization promote statutory
+ mandate maximum employment price stability.
+ 
+ 
+ 
+ begin process policy normalization,
+ Committee likely first cease reinvesting
+ payments principal securities holdings SOMA.
+ 
+ 
+ 
+ time sometime thereafter,
+ Committee modify forward guidance
+ path federal funds rate initiate temporary reserve-draining operations aimed supporting implementation increases federal funds rate appropriate.
+ 
+ 
+ 
+ economic conditions warrant, Committee’s next step process policy normalization begin raising target federal
+ funds rate, point on, changing
+ 
+ level range federal funds rate target
+ primary means adjusting stance
+ monetary policy.
+ normalization
+ process, adjustments interest rate excess
+ reserves level reserves banking
+ system used bring funds rate toward
+ target.
+ 
+ 
+ Sales agency securities SOMA likely commence sometime first increase
+ target federal funds rate. timing
+ pace sales communicated public advance; pace anticipated relatively gradual steady, could adjusted
+ response material changes
+ economic outlook financial conditions.
+ 
+ 
+ 
+ sales begin, pace sales expected
+ aimed eliminating SOMA’s holdings
+ agency securities period three five
+ years, thereby minimizing extent
+ SOMA portfolio might affect allocation
+ credit across sectors economy. Sales
+ pace would expected normalize size
+ SOMA securities portfolio period two
+ three years. particular, size securities portfolio associated quantity bank
+ reserves expected reduced smallest
+ levels would consistent efficient
+ implementation monetary policy.
+ 
+ 
+ 
+ Committee prepared make adjustments
+ exit strategy necessary light economic
+ financial developments.
+ 
+ Staff Review Economic Situation
+ information reviewed June 21–22 meeting
+ indicated pace economic recovery
+ slowed recent months conditions
+ labor market softened. Measures inflation
+ picked year, reflecting part higher prices
+ commodities imported goods. Longer-run
+ inflation expectations, however, remained stable.
+ expansion private nonfarm payroll employment
+ May markedly average pace job
+ gains previous months year. Initial claims
+ unemployment insurance rose, net,
+ first half April first half June. unemployment rate moved April rose
+ 9.1 percent May, labor force participation rate remained unchanged. long-duration unemployment share workers employed part
+ time economic reasons continued elevated.
+ 
+ Page 4
+ Federal Open Market Committee
+ _____________________________________________________________________________________________
+ Total industrial production expanded bit
+ April May rising solid pace first
+ quarter. Shortages specialized components imported
+ Japan contributed decline output
+ motor vehicles parts. Manufacturing production
+ outside motor vehicles sector increased moderately, balance, past two months.
+ manufacturing capacity utilization rate remained close
+ first-quarter level, still well
+ longer-run average. Forward-looking indicators industrial activity, new orders diffusion indexes national regional manufacturing surveys, weakened noticeably intermeeting period levels consistent tepid gains factory
+ output coming months. However, motor vehicle
+ assemblies scheduled rise notably third
+ quarter levels recent months, bottlenecks parts supplies anticipated ease.
+ Growth consumer spending declined recent
+ months already modest pace first quarter. Total real personal consumption expenditures
+ edged April. Nominal retail sales, excluding purchases motor vehicles parts outlets, increased
+ somewhat May, sales new light motor vehicles
+ declined markedly. Labor income rose moderately,
+ aggregate hours worked trended up, total real disposable income remained flat March April,
+ increases consumer prices offset gains nominal
+ income. addition, consumer sentiment stayed relatively low early June.
+ Activity housing market remained depressed,
+ weak demand sizable inventory foreclosed distressed properties continued hold back
+ new construction. Starts permits new singlefamily homes essentially unchanged April
+ May, stayed near low levels seen since
+ middle last year. Sales new existing
+ homes remained subdued levels recent months,
+ measures home prices fell further.
+ available indicators suggested real business
+ investment equipment software rising bit
+ slowly second quarter solid pace
+ seen first quarter. Nominal orders shipments nondefense capital goods declined April.
+ Business purchases light motor vehicles edged
+ April dropped May, spending medium
+ heavy trucks continued increase recent
+ months. Survey measures business conditions
+ sentiment weakened intermeeting period.
+ Business expenditures office commercial build-
+ 
+ ings remained depressed elevated vacancy rates, low
+ prices commercial real estate, tight credit conditions construction loans. contrast, outlays
+ drilling mining structures continued lifted
+ high energy prices.
+ Real nonfarm inventory investment rose moderately
+ first quarter, data April suggested
+ pace inventory accumulation slowed. Bookvalue inventory-to-sales ratios April similar
+ pre-recession norms, survey data also suggested inventory positions generally remained
+ comfortable range.
+ available data government spending indicated
+ real federal purchases increased recent months,
+ led rebound outlays defense April
+ May unusually low levels first quarter.
+ contrast, real expenditures state local governments appeared declined further, outlays
+ construction projects fell March April, state
+ local employment continued contract April
+ May.
+ U.S. international trade deficit widened slightly
+ March narrowed April level
+ average first quarter. Exports rose strongly
+ months, increases widespread across major
+ categories March, gains April concentrated industrial supplies capital goods. Imports grew robustly March, fell slightly
+ April, drop automotive imports Japan
+ together decline imports petroleum
+ products offset increases imported
+ products.
+ Headline consumer price inflation, risen
+ first quarter, edged bit April May,
+ prices consumer food energy decelerated
+ pace seen previous months. recently,
+ survey data middle June pointed declines retail gasoline prices, prices food commodities appeared decreased somewhat. Excluding food energy, core consumer price inflation
+ picked April May, pushing 12-month
+ change core consumer price index May
+ level year earlier. Upward pressures
+ core consumer prices appeared reflect elevated
+ prices commodities imports, along
+ notable increases motor vehicle prices likely arising
+ effects recent supply chain disruptions
+ resulting extremely low level automobile inventories. However, near-term inflation expectations
+ Thomson Reuters/University Michigan Surveys
+ 
+ Minutes Meeting June 21-22, 2011
+ Page 5
+ _____________________________________________________________________________________________
+ Consumers moved little May early
+ June high level seen April, longer-term
+ inflation expectations remained within range
+ generally prevailed preceding years.
+ Available measures labor compensation showed
+ labor cost pressures still subdued, wage increases continued restrained large amount
+ slack labor market. first quarter, unit
+ labor costs edged up, modest rise hourly
+ compensation nonfarm business sector
+ mostly offset gains productivity.
+ recently, average hourly earnings employees rose
+ April May, average rate increase
+ preceding 12 months remained quite low.
+ Global economic activity appeared increased
+ slowly second quarter first
+ quarter. rate growth emerging market
+ economies stepped rapid pace
+ first quarter, although remained generally solid.
+ Japanese economy contracted sharply following
+ earthquake March, associated supply chain
+ disruptions weighed economies many Japan’s trading partners. pace economic growth
+ euro area remained uneven, Germany
+ France posting moderate gains economic activity,
+ peripheral European economies continued
+ struggle. Recent declines prices oil
+ commodities contributed easing inflationary
+ pressures abroad.
+ Staff Review Financial Situation
+ Investors appeared adopt cautious attitude
+ toward risk, particularly later intermeeting period.
+ shift investors’ sentiment likely reflected
+ weak tone incoming economic data United
+ States along concerns outlook global
+ economic growth potential spillovers
+ possible deterioration situation peripheral Europe.
+ decisions FOMC April meeting
+ continue asset purchase program maintain
+ 0 ¼ percent target range federal funds
+ rate generally line market expectations.
+ accompanying statement subsequent press
+ briefing Chairman prompted modest decline
+ nominal yields, market participants reportedly perceived somewhat less optimistic tone Committee’s economic outlook. remainder
+ intermeeting period, expected path federal
+ funds rate, along yields nominal Treasury securities, moved appreciably further, bulk
+ 
+ incoming economic data downbeat
+ market participants apparently anticipated.
+ Consistent weaker-than-expected economic
+ data recent decline prices oil
+ commodities, measures inflation compensation
+ next 5 years 5 10 years ahead based nominal inflation-protected Treasury securities decreased considerably intermeeting period.
+ Market quotes suggest expectations significant movements nominal Treasury yields following
+ anticipated completion asset purchase program Federal Reserve end June. Although discussions federal debt ceiling attracted attention financial markets, judging
+ Treasury yields asset prices, investors seemed
+ anticipate debt ceiling would increased
+ time avoid significant market disruptions.
+ Yields corporate bonds stepped modestly,
+ net, intermeeting period, less
+ decline yields comparable-maturity Treasury securities, leaving credit risk spreads little wider.
+ secondary market syndicated loans, conditions
+ little changed, average bid prices leveraged
+ loans holding steady.
+ Broad U.S. stock price indexes declined, net,
+ intermeeting period, apparently response
+ downbeat economic data. Stock prices financial
+ firms underperformed broader market, reflecting
+ weaker economic outlook, potential credit rating
+ downgrades, heightened concerns anticipated capital surcharge systemically important financial institutions. Option-adjusted volatility
+ S&P 500 index rose somewhat net.
+ June 2011 Senior Credit Officer Opinion Survey
+ Dealer Financing Terms, dealers pointed continued gradual easing previous three months
+ credit terms applicable major classes counterparties across types transactions covered survey. Dealers also reported demand funding
+ increased period broad range
+ securities, exception equities. recently, however, backdrop disappointing
+ economic data, heightened uncertainty situation Europe, and, possibly, concerns U.S.
+ federal debt ceiling, market participants reported general pullback risk-taking decline liquidity
+ range financial markets.
+ Net debt financing nonfinancial corporations
+ strong April May. Gross issuance in-
+ 
+ Page 6
+ Federal Open Market Committee
+ _____________________________________________________________________________________________
+ vestment- speculative-grade bonds nonfinancial
+ corporations hit record high May slowing
+ somewhat June, outstanding amounts commercial industrial (C&I) loans nonfinancial
+ commercial paper increased. Gross public equity issuance nonfinancial firms maintained solid pace
+ intermeeting period, indicators
+ business credit quality improved further.
+ Commercial mortgage markets continued show tentative signs stabilization. recent months, delinquency rates commercial real estate loans edged
+ previous peaks. However, commercial real estate markets remained weak. Property sales
+ tepid, prices remained depressed levels.
+ Issuance commercial mortgage-backed securities
+ slowed somewhat second quarter.
+ Conditions residential mortgage markets little
+ changed overall remained strained. Rates conforming fixed-rate residential mortgages declined
+ line 10-year Treasury yields intermeeting period. Mortgage refinancing activity picked up,
+ net, intermeeting period still relatively
+ subdued. Outstanding residential mortgage debt contracted first quarter. Rates serious
+ delinquency subprime prime mortgages
+ little changed elevated levels. rate new delinquencies prime mortgages ticked April
+ remained well level months ago.
+ March April, delinquencies mortgages backed
+ Federal Housing Administration declined noticeably.
+ Federal Reserve continued competitive sales
+ non-agency residential mortgage-backed securities held
+ Maiden Lane II LLC intermeeting period.
+ Although initial offerings securities
+ well received, investor demand recent sales
+ strong, development consistent
+ declines prices non-agency residential mortgage-backed securities intermeeting period.
+ Conditions consumer credit markets continued
+ improve. Growth total consumer credit picked
+ April, gain nonrevolving credit offset contraction revolving credit. Delinquency rates consumer debt edged
+ recent months, delinquency rates categories moving back pre-crisis levels. Issuance consumer asset-backed securities remained robust
+ intermeeting period.
+ 
+ Bank credit flat, balance, April May.
+ Core loans—the sum C&I, real estate, consumer
+ loans—continued contract modestly, pulled
+ ongoing decline commercial residential real
+ estate loans. contrast, C&I loans increased brisk
+ pace April May. recent Survey
+ Terms Business Lending conducted May indicated
+ banks eased lending terms C&I loans.
+ survey responses also suggested average
+ size loan commitments average maturity
+ trended recent quarters.
+ M2 expanded robust pace April May. Liquid deposits, largest component M2, maintained
+ solid rate expansion, likely reflecting low
+ opportunity costs holding deposits. Currency
+ continued advance, supported strong demand
+ U.S. bank notes abroad.
+ broad nominal index U.S. dollar fluctuated
+ intermeeting period response changes
+ investors’ assessment outlook U.S. economy situation peripheral European
+ economies. Since April FOMC meeting, dollar
+ rose modestly, net, depreciating preceding several months. Headline equity indexes abroad
+ foreign benchmark sovereign yields declined
+ intermeeting period apparent response signs
+ slowdown pace global economic activity
+ reduced demand risky assets. Concerns
+ possibility restructuring Greek government
+ debt drove spreads yields sovereign debts
+ Greece, Ireland, Portugal record highs relative
+ yields German bunds.
+ advanced foreign economies, central banks
+ left policy rates unchanged, anticipated
+ pace monetary policy tightening indicated money
+ market futures quotes pared back. However, central banks several emerging market economies continued tighten policy, monetary authorities
+ China increased required reserve ratios further.
+ Staff Economic Outlook
+ recent data spending, income, production,
+ labor market conditions mostly weaker
+ staff anticipated time April FOMC
+ meeting, near-term projection rate increase real gross domestic product (GDP) revised down. effects disaster Japan
+ higher commodity prices rate increase real
+ consumer spending expected hold U.S.
+ real GDP growth near term, effects
+ anticipated transitory. However, staff
+ 
+ Minutes Meeting June 21-22, 2011
+ Page 7
+ _____________________________________________________________________________________________
+ also read incoming economic data suggesting
+ underlying pace recovery softer
+ previously anticipated, marked
+ outlook economic growth medium
+ term. Nevertheless, staff still projected real GDP
+ increase moderate rate second half
+ 2011 2012, ongoing recovery activity
+ receiving continued support accommodative
+ monetary policy, increases credit availability,
+ anticipated improvements household business confidence. average pace real GDP
+ growth expected sufficient bring unemployment rate slowly projection
+ period, jobless rate anticipated remain
+ elevated end 2012.
+ Although increases consumer food energy prices
+ slowed bit recent months, continued step-up
+ core consumer price inflation led staff raise
+ slightly projection core inflation coming
+ quarters. However, headline inflation still expected
+ recede medium term, increases food
+ energy prices non-oil import prices
+ anticipated ease further. previous forecasts,
+ staff continued project core consumer price
+ inflation would remain relatively subdued projection period, reflecting stable long-term inflation
+ expectations persistent slack labor product
+ markets.
+ Participants’ Views Current Conditions
+ Economic Outlook
+ conjunction FOMC meeting, meeting
+ participants—the five members Board Governors presidents 12 Federal Reserve
+ Banks—provided projections output growth,
+ unemployment rate, inflation year
+ 2011 2013 longer run. Longerrun projections represent participant’s assessment
+ rate variable would expected
+ converge, time, appropriate monetary policy
+ absence shocks economy.
+ Participants’ forecasts described Summary
+ Economic Projections, attached addendum minutes.
+ discussion economic situation outlook, meeting participants agreed economic
+ information received intermeeting period
+ indicated economic recovery continuing
+ moderate pace, though somewhat slowly
+ anticipated time April meeting.
+ Participants noted several transitory factors
+ 
+ restraining growth, including global supply chain
+ disruptions wake Japanese earthquake,
+ unusually severe weather parts United
+ States, drop defense spending, effects
+ increases oil commodity prices year
+ household purchasing power spending. Participants expected expansion would gain strength
+ influence temporary factors waned.
+ Nonetheless, participants judged pace
+ economic recovery likely somewhat slower coming quarters projected
+ April. judgment reflected persistent weakness
+ housing market, ongoing efforts
+ households reduce debt burdens, recent sluggish
+ growth income consumption, fiscal contraction levels government, effects uncertainty regarding economic outlook future
+ tax regulatory policies willingness firms
+ hire invest. Moreover, recovery remained
+ subject downside risks, possibility
+ extended period weak activity declining prices housing sector, chance largerthan-expected near-term fiscal tightening, potential
+ financial economic spillovers situation peripheral Europe deteriorate further. Participants still projected unemployment rate would
+ decline gradually toward levels saw consistent
+ Committee’s dual mandate,
+ gradual pace forecast April.
+ higher prices energy commodities
+ boosted inflation year, commodity prices expected change little going forward longer-term
+ inflation expectations stable, participants anticipated inflation would subside levels
+ consistent Committee’s dual mandate.
+ Activity business sector appeared slowed
+ somewhat intermeeting period. Although
+ effects Japanese disaster U.S. motor vehicle
+ production accounted much deceleration
+ industrial production since March, recent
+ readings various regional manufacturing surveys
+ suggested slowing pace manufacturing activity broadly. However, business contacts
+ sectors—most notably energy high tech—reported
+ activity business sentiment strengthened
+ recent months. Business investment
+ equipment software generally remained robust,
+ growth new orders nondefense capital goods—
+ though volatile month month—appeared
+ slowed. FOMC participants expected
+ rebound investment motor vehicles boost capi-
+ 
+ Page 8
+ Federal Open Market Committee
+ _____________________________________________________________________________________________
+ tal outlays coming months, also noted
+ indicators current planned business investment
+ equipment software weakened somewhat,
+ surveys showed deterioration business
+ sentiment. Business contacts regions reported
+ reducing capital budgets response
+ less certain economic outlook, parts
+ country, contacts noted business sentiment
+ remained firm footing, supported part strong
+ export demand. Compared relatively robust
+ outlook business sector, meeting participants
+ noted housing sector, including residential construction home sales, remained depressed. Despite
+ efforts aimed mitigation, foreclosures continued
+ add already large inventory vacant
+ homes, putting downward pressure home prices
+ housing construction.
+ Meeting participants generally noted recent data employment disappointing,
+ new claims unemployment insurance remained elevated. recent deterioration labor market conditions particular concern FOMC participants
+ prospects job growth seen
+ important source uncertainty economic outlook, particularly outlook consumer spending. Several participants reported feedback business contacts delaying hiring economic regulatory outlook became certain
+ indicated expected meet near-term
+ increase demand products without
+ boosting employment; participants noted risk
+ cautious attitudes toward hiring could slow
+ pace unemployment rate normalized.
+ Wage gains generally reported subdued, although wages skilled job categories
+ workers short supply said increasing
+ relatively rapidly.
+ Changes financial market conditions since April
+ meeting suggested investors become
+ concerned risk. Equity markets seen broad
+ selloff, risk spreads many corporate borrowers
+ widened noticeably. Large businesses
+ access capital markets continued enjoy ready
+ access credit—including syndicated loans—on relatively attractive terms; however, credit conditions remained tight smaller, bank-dependent firms. Bankers reported gradual improvements credit quality generally weak loan demand. identifying
+ possible risks financial stability, participants
+ expressed concern credit conditions sectors—most notably agriculture sector—might
+ 
+ eased much amid signs investors markets aggressively taking leverage risk
+ order obtain higher returns. Meeting participants
+ also noted escalation fiscal difficulties
+ Greece spreading concerns peripheral
+ European countries could cause significant financial
+ strains United States. pointed
+ U.S. money market mutual funds significant
+ exposures financial institutions core European
+ countries, which, turn, substantial exposures
+ Greek sovereign debt. Participants also concerned possible effect financial markets
+ failure raise statutory federal debt ceiling
+ timely manner. admitting difficult
+ know precise effects development
+ would be, participants emphasized even short
+ delay payment principal interest
+ Treasury Department’s debt obligations would likely
+ cause severe market disruptions could also
+ lasting effect U.S. borrowing costs.
+ Participants noted several factors contributed
+ increase inflation year. run-up
+ energy prices, well increase prices
+ commodities imported goods, boosted
+ headline core inflation. time, extremely
+ low motor vehicle inventories resulting global
+ supply disruptions wake Japanese earthquake—by contributing higher motor vehicle prices—had significantly raised inflation, although participants anticipated temporary pressures would
+ lessen motor vehicle inventories rebuilt. Participants also observed crude oil prices fell
+ intermeeting period commodity prices also
+ moderated, developments likely damp
+ headline inflation consumer level going forward.
+ However, number participants pointed
+ recent faster pace price increases widespread
+ across many categories spending evident
+ inflation measures trimmed means medians,
+ exclude extreme price movements
+ period. discussion core inflation similar indicators reflected view expressed participants measures useful forecasting
+ path inflation medium run. addition,
+ reports business contacts indicated
+ already passed on, intending try pass
+ on, least portion higher costs customers
+ order maintain profit margins.
+ participants expected much rise
+ headline inflation year would prove transitory
+ inflation medium term would subdued
+ 
+ Minutes Meeting June 21-22, 2011
+ Page 9
+ _____________________________________________________________________________________________
+ long commodity prices continue rise
+ rapidly longer-term inflation expectations remained
+ stable. Nevertheless, number participants judged
+ risks outlook inflation tilted upside. Moreover, participants saw continuation
+ current stance monetary policy posing
+ upside risk inflation expectations actual
+ inflation time. However, participants observed measures longer-term inflation compensation derived financial instruments remained
+ stable late, survey-based measures
+ longer-term inflation expectations also changed
+ appreciably, net, recent months. participants noted labor costs rising slowly,
+ persistent slack labor product markets
+ would likely limit upward pressures prices coming
+ quarters. Participants agreed would important pay close attention evolution inflation inflation expectations. participants
+ noted adoption Committee explicit numerical inflation objective could help keep longerterm inflation expectations well anchored. Another
+ participant, however, expressed concern adoption objective could, effect, alter relative importance two components Committee’s dual mandate.
+ Participants also discussed medium-term outlook
+ monetary policy. participants noted
+ economic growth remained slow make satisfactory progress toward reducing unemployment rate
+ inflation returned relatively low levels
+ effects recent transitory shocks dissipated, would
+ appropriate provide additional monetary policy
+ accommodation. Others, however, saw recent configuration slower growth higher inflation suggesting might less slack labor
+ product markets thought. Several participants observed necessity reallocating labor across sectors recovery proceeds, well
+ loss skills caused high levels long-term unemployment permanent separations, may
+ temporarily reduced economy’s level potential
+ output. case, withdrawal monetary accommodation may need begin sooner currently
+ anticipated financial markets. participants
+ expressed uncertainty efficacy monetary
+ policy current circumstances disagreed
+ implications future policy.
+ Committee Policy Action
+ discussion monetary policy period
+ ahead, members agreed Committee
+ 
+ complete $600 billion asset purchase program
+ end month changes target
+ range federal funds rate warranted
+ meeting. information received intermeeting period indicated economic recovery
+ continuing moderate pace, though somewhat
+ slowly Committee expected,
+ labor market weaker anticipated. Inflation
+ increased recent months result higher
+ prices commodities, well supply chain
+ disruptions related tragic events Japan. Nonetheless, members saw pace economic expansion picking coming quarters
+ unemployment rate resuming gradual decline toward
+ levels consistent Committee’s dual mandate.
+ Moreover, longer-term inflation expectations stable, members expected inflation would subside
+ levels consistent Committee’s dual mandate effects past energy
+ commodity price increases dissipate. However,
+ many members saw outlook employment
+ inflation unusually uncertain. backdrop, members agreed appropriate maintain Committee’s current policy stance accumulate information regarding outlook
+ growth inflation deciding next policy
+ step. one hand, members noted that,
+ depending economic conditions evolve,
+ Committee might consider providing additional
+ monetary policy stimulus, especially economic
+ growth remained slow meaningfully reduce
+ unemployment rate medium run.
+ hand, members viewed increase inflation
+ risks suggesting economic conditions might well
+ evolve way would warrant Committee taking steps begin removing policy accommodation
+ sooner currently anticipated.
+ statement released following meeting,
+ members agreed appropriate acknowledge recovery slower Committee expected time April meeting
+ note factors currently weighing
+ economic growth boosting inflation. Committee agreed statement briefly describe
+ current projections unemployment inflation
+ relative levels variables members
+ see consistent Committee’s dual mandate.
+ discussion inflation statement, members decided reference inflation—meaning overall
+ inflation—rather underlying inflation inflation
+ trends, order clear Committee’s objec-
+ 
+ Page 10
+ Federal Open Market Committee
+ _____________________________________________________________________________________________
+ tive level overall inflation medium term.
+ Committee also decided reiterate economic
+ conditions likely warrant exceptionally low levels federal funds rate extended period;
+ addition, Committee noted would review
+ regularly size composition securities holdings, prepared adjust holdings
+ appropriate.
+ conclusion discussion, Committee
+ voted authorize direct Federal Reserve Bank
+ New York, instructed otherwise, execute transactions System Account accordance
+ following domestic policy directive:
+ “The Federal Open Market Committee seeks
+ monetary financial conditions
+ foster price stability promote sustainable
+ growth output. long-run
+ objectives, Committee seeks conditions
+ reserve markets consistent federal
+ funds trading range 0 ¼ percent.
+ Committee directs Desk complete
+ purchases $600 billion longer-term
+ Treasury securities end month.
+ Committee also directs Desk
+ maintain existing policy reinvesting
+ principal payments domestic securities
+ System Open Market Account
+ Treasury securities order maintain
+ total face value domestic securities approximately $2.6 trillion. System Open
+ Market Account Manager Secretary
+ keep Committee informed ongoing developments regarding System’s balance sheet could affect attainment
+ time Committee’s objectives
+ maximum employment price stability.”
+ vote encompassed approval statement released 12:30 p.m.:
+ “Information received since Federal
+ Open Market Committee met April indicates economic recovery continuing moderate pace, though somewhat
+ slowly Committee expected. Also, recent labor market indicators
+ weaker anticipated.
+ slower pace recovery reflects part
+ factors likely temporary, including damping effect higher food
+ energy prices consumer purchasing
+ power spending well supply chain
+ 
+ disruptions associated tragic events
+ Japan. Household spending business
+ investment equipment software continue expand. However, investment
+ nonresidential structures still weak,
+ housing sector continues depressed.
+ Inflation picked recent months,
+ mainly reflecting higher prices
+ commodities imported goods, well
+ recent supply chain disruptions. However, longer-term inflation expectations
+ remained stable.
+ Consistent statutory mandate,
+ Committee seeks foster maximum employment price stability. unemployment rate remains elevated; however,
+ Committee expects pace recovery
+ pick coming quarters unemployment rate resume gradual decline
+ toward levels Committee judges
+ consistent dual mandate. Inflation moved recently, Committee anticipates inflation subside
+ levels consistent
+ Committee’s dual mandate effects
+ past energy commodity price increases dissipate. However, Committee
+ continue pay close attention
+ evolution inflation inflation expectations.
+ promote ongoing economic recovery
+ help ensure inflation, time,
+ levels consistent mandate,
+ Committee decided today keep target
+ range federal funds rate 0
+ ¼ percent. Committee continues anticipate economic conditions—including
+ low rates resource utilization subdued outlook inflation medium
+ run—are likely warrant exceptionally low
+ levels federal funds rate extended period. Committee complete purchases $600 billion longerterm Treasury securities end
+ month maintain existing policy
+ reinvesting principal payments securities holdings. Committee regularly review size composition
+ securities holdings prepared adjust
+ holdings appropriate.
+ 
+ Minutes Meeting June 21-22, 2011
+ Page 11
+ _____________________________________________________________________________________________
+ Committee monitor economic
+ outlook financial developments
+ act needed best foster maximum employment price stability.”
+ Voting action: Ben Bernanke, William C.
+ Dudley, Elizabeth Duke, Charles L. Evans, Richard W.
+ Fisher, Narayana Kocherlakota, Charles I. Plosser, Sarah Bloom Raskin, Daniel K. Tarullo, Janet L. Yellen.
+ Voting action: None.
+ External Communications
+ follow-up discussions January meeting,
+ Committee turned consideration policies aimed
+ supporting effective communication public
+ regarding outlook economy monetary
+ policy. subcommittee communication, chaired
+ Governor Yellen composed Governor Duke
+ Presidents Fisher Rosengren, proposed policies Committee participants Federal Reserve System staff follow communications
+ public order reinforce public’s con-
+ 
+ fidence transparency integrity monetary policy process. unanimous vote, Committee approved policies.2 Participants supported
+ policies, several emphasized
+ policy staff, particular, applied
+ judgment common sense avoid interfering
+ legitimate research.
+ agreed next meeting Committee
+ would held Tuesday, August 9, 2011. meeting adjourned 12:10 p.m. June 22, 2011.
+ Notation Vote
+ notation vote completed May 17, 2011,
+ Committee unanimously approved minutes
+ FOMC meeting held April 26–27, 2011.
+ 
+ _____________________________
+ William B. English
+ Secretary
+ 
+ 2
+ 
+ policies available http://www.federalreserve.go
+ v/monetarypolicy/files/FOMC_ExtCommunicationPartici
+ pants.pdf http://www.federalreserve.gov/monetarypol
+ icy/files/FOMC_ExtCommunicationStaff.pdf .
+ 
+ Page 1
+ _____________________________________________________________________________________________
+ 
+ Summary Economic Projections
+ conjunction June 21–22, 2011, Federal
+ Open Market Committee (FOMC) meeting, members Board Governors presidents
+ Federal Reserve Banks, participate
+ deliberations FOMC, submitted projections
+ growth real output, unemployment rate,
+ inflation years 2011 2013 longer
+ run. projections based information available time meeting participant’s assumptions factors likely affect economic outcomes, including assessment
+ appropriate monetary policy. “Appropriate monetary
+ policy” defined future path policy
+ participant deems likely foster outcomes
+ economic activity inflation best satisfy
+ interpretation Federal Reserve’s dual objectives maximum employment stable prices.
+ Longer-run projections represent participant’s
+ assessment rate variable would
+ expected converge time appropriate
+ monetary policy absence shocks.
+ depicted figure 1, FOMC participants expected
+ economic recovery continue moderate pace,
+ growth real gross domestic product (GDP)
+ year 2010 strengthening 2012 2013. pace economic
+ growth modestly exceeding estimates longer-run sustainable rate increase real GDP, un-
+ 
+ employment rate projected trend gradually lower
+ projection period. However, participants anticipated that, end 2013, unemployment
+ rate would still well estimates unemployment rate see consistent,
+ longer run, Committee’s dual mandate maximum employment price stability. participants marked projections inflation 2011
+ light increase inflation first half
+ year, projected increase transitory,
+ overall inflation moving back line core
+ inflation 2012 2013 remaining bit
+ rates see consistent, longer
+ run, Committee’s dual mandate. Participants
+ generally saw rate core inflation likely stay
+ roughly next two years year.
+ balance, indicated table 1, participants anticipated somewhat lower real GDP growth near
+ term relative projections April left
+ projections inflation mostly unchanged since
+ April meeting. Participants made noticeable downward
+ revisions projections GDP growth year
+ next, made little change projection
+ 2013 change longer-run projections.
+ Meeting participants revised projections
+ unemployment rate forecast period, although continue expect gradual decline
+ unemployment rate time. Participants’ projections
+ 
+ Table 1. Economic projections Federal Reserve Board members Federal Reserve Bank presidents, June 2011
+ Percent
+ Variable
+ 
+ Central tendency1
+ 
+ Range2
+ 
+ 2011
+ 
+ 2012
+ 
+ 2013
+ 
+ Longer run
+ 
+ 2011
+ 
+ 2012
+ 
+ 2013
+ 
+ Longer run
+ 
+ Change real GDP. . . . . .
+ April projection. . . . . .
+ 
+ 2.7 2.9
+ 3.1 3.3
+ 
+ 3.3 3.7
+ 3.5 4.2
+ 
+ 3.5 4.2
+ 3.5 4.3
+ 
+ 2.5 2.8
+ 2.5 2.8
+ 
+ 2.5 3.0
+ 2.9 3.7
+ 
+ 2.2 4.0
+ 2.9 4.4
+ 
+ 3.0 4.5
+ 3.0 5.0
+ 
+ 2.4 3.0
+ 2.4 3.0
+ 
+ Unemployment rate. . . . . .
+ April projection. . . . . .
+ 
+ 8.6 8.9
+ 8.4 8.7
+ 
+ 7.8 8.2
+ 7.6 7.9
+ 
+ 7.0 7.5
+ 6.8 7.2
+ 
+ 5.2 5.6
+ 5.2 5.6
+ 
+ 8.4 9.1
+ 8.1 8.9
+ 
+ 7.5 8.7
+ 7.1 8.4
+ 
+ 6.5 8.3
+ 6.0 8.4
+ 
+ 5.0 6.0
+ 5.0 6.0
+ 
+ PCE inflation. . . . . . . . . . .
+ April projection. . . . . .
+ 
+ 2.3 2.5
+ 2.1 2.8
+ 
+ 1.5 2.0
+ 1.2 2.0
+ 
+ 1.5 2.0
+ 1.4 2.0
+ 
+ 1.7 2.0
+ 1.7 2.0
+ 
+ 2.1 3.5
+ 2.0 3.6
+ 
+ 1.2 2.8
+ 1.0 2.8
+ 
+ 1.3 2.5
+ 1.2 2.5
+ 
+ 1.5 2.0
+ 1.5 2.0
+ 
+ Core PCE inflation3. . . . . .
+ April projection. . . . . .
+ 
+ 1.5 1.8
+ 1.3 1.6
+ 
+ 1.4 2.0
+ 1.3 1.8
+ 
+ 1.4 2.0
+ 1.4 2.0
+ 
+ 1.5 2.3
+ 1.1 2.0
+ 
+ 1.2 2.5
+ 1.1 2.0
+ 
+ 1.3 2.5
+ 1.2 2.0
+ 
+ NOTE: Projections change real gross domestic product (GDP) projections measures inflation fourth quarter previous year fourth quarter year indicated. PCE inflation core PCE inflation percentage rates change in, respectively, price index
+ personal consumption expenditures (PCE) price index PCE excluding food energy. Projections unemployment rate average civilian unemployment rate fourth quarter year indicated. participant’s projections based assessment appropriate
+ monetary policy. Longer-run projections represent participant’s assessment rate variable would expected converge appropriate monetary policy absence shocks economy. April projections made conjunction meeting Federal Open Market Committee April 26–27, 2011.
+ 1. central tendency excludes three highest three lowest projections variable year.
+ 2. range variable given year consists participants’ projections, lowest highest, variable year.
+ 3. Longer-run projections core PCE inflation collected.
+ 
+ Page 2
+ Federal Open Market Committee
+ _____________________________________________________________________________________________
+ Figure 1. Central tendencies ranges economic projections, 2011–13 longer run
+ Percent
+ 
+ Change real GDP
+ 
+ 5
+ 
+ Central tendency projections
+ Range projections
+ 
+ 4
+ 3
+ 2
+ 1
+ +
+ 0
+ _
+ 1
+ 
+ Actual
+ 
+ 2
+ 
+ 2006
+ 
+ 2007
+ 
+ 2008
+ 
+ 2009
+ 
+ 2010
+ 
+ 2011
+ 
+ 2012
+ 
+ 2013
+ 
+ Longer
+ run
+ Percent
+ 
+ Unemployment rate
+ 
+ 10
+ 9
+ 8
+ 7
+ 6
+ 5
+ 
+ 2006
+ 
+ 2007
+ 
+ 2008
+ 
+ 2009
+ 
+ 2010
+ 
+ 2011
+ 
+ 2012
+ 
+ 2013
+ 
+ Longer
+ run
+ Percent
+ 
+ PCE inflation
+ 3
+ 
+ 2
+ 
+ 1
+ 
+ 2006
+ 
+ 2007
+ 
+ 2008
+ 
+ 2009
+ 
+ 2010
+ 
+ 2011
+ 
+ 2012
+ 
+ 2013
+ 
+ Longer
+ run
+ Percent
+ 
+ Core PCE inflation
+ 3
+ 
+ 2
+ 
+ 1
+ 
+ 2006
+ 
+ 2007
+ 
+ 2008
+ 
+ 2009
+ 
+ 2010
+ 
+ 2011
+ 
+ 2012
+ 
+ 2013
+ 
+ NOTE: Definitions variables notes table 1. data actual values variables annual.
+ 
+ Summary Economic Projections Meeting June 21-22, 2011
+ Page 3
+ _____________________________________________________________________________________________
+ overall inflation year somewhat narrowly distributed April, projections
+ 2012 2013 similar projections made
+ April.
+ sizable majority participants continued judge
+ level uncertainty associated projections
+ economic growth inflation unusually high
+ relative historical norms. participants viewed
+ risks output growth weighted
+ downside, none saw risks weighted
+ upside. Meanwhile, majority participants saw
+ risks overall inflation balanced.
+ Outlook
+ Participants marked forecasts real GDP
+ growth 2011 reflect unexpected weakness witnessed first half year, central tendency projections moving 2.7 2.9
+ percent 3.1 3.3 percent April. Participants
+ attributed downward revision growth outlook likely effects elevated commodity prices
+ real income consumer sentiment, well indications renewed weakness labor market,
+ surprisingly sluggish consumer spending, continued
+ lack recovery housing market, supply disruptions events Japan, constraints government spending levels.
+ Looking ahead, participants’ forecasts economic growth also marked 2012, participants saw weakness economic activity year likely persist. Nevertheless, participants still anticipated modest acceleration economic output next year, expected modest
+ acceleration 2013 growth rates largely
+ unchanged previous projection. central
+ tendency current projections real GDP
+ growth 2012 3.3 3.7 percent, compared
+ 3.5 4.2 percent April, 2013 central tendency projections real GDP growth 3.5
+ 4.2 percent. Participants cited effects continued monetary policy accommodation,
+ easing credit market conditions, waning drag
+ elevated commodities prices, increase
+ spending pent-up demand factors likely contribute pickup pace expansion. Participants did, however, see number factors would
+ likely continue weigh GDP growth next
+ two years. participants pointed strains
+ household sector, noting impaired balance sheets, continued declines house prices, persistently high
+ unemployment restraining growth consumer
+ 
+ spending. addition, participants noted
+ although energy commodity prices expected
+ stabilize, would elevated levels
+ would likely continue damp spending growth
+ time. Finally, several participants pointed likely
+ drag tighter fiscal policy levels government. absence shocks, participants
+ generally expected that, time, real GDP growth
+ would eventually settle annual rate 2.5
+ 2.8 percent longer run.
+ Partly response recent weak indicators labor demand participants’ downwardly revised
+ views economic outlook, participants marked
+ forecasts unemployment rate entire forecast period. fourth quarter year,
+ central tendency projections rose 8.6
+ 8.9 percent 8.4 8.7 percent April. Similar
+ upward revisions made 2012 2013,
+ central tendencies projections years
+ 7.8 8.2 percent 7.0 7.5 percent, respectively.
+ Consistent expectations moderate recovery, growth modestly trend,
+ central tendency projections unemployment rate end 2013 well 5.2
+ 5.6 percent central tendency estimates
+ unemployment rate would prevail longer
+ run absence shocks. central tendency participants’ projections unemployment rate longer run unchanged
+ interval reported April.
+ Participants noted measures consumer price
+ inflation increased year, reflecting part higher prices oil commodities. However, participants’ forecasts total personal consumption expenditures (PCE) inflation 2011 little changed
+ April, central tendency estimates
+ narrowing range 2.3 2.5 percent, compared
+ 2.1 2.8 percent April. participants anticipated influence higher commodity prices
+ supply disruptions Japan inflation would
+ temporary, inflation pressures future
+ would subdued commodity prices stabilized, inflation expectations remained well anchored, large
+ margins slack labor markets kept labor costs
+ check. result, participants anticipated total
+ PCE inflation would step 2012 2013,
+ central tendency projections years
+ 1.5 2.0 percent. lower end central
+ tendencies revised somewhat April, suggesting fewer participants saw likelihood
+ low inflation years. projections
+ 
+ Page 4
+ Federal Open Market Committee
+ _____________________________________________________________________________________________
+ two years slightly 1.7 2.0 percent central tendency participants’ estimates
+ longer-run, mandate-consistent rate inflation.
+ central tendencies participants’ projections core
+ PCE inflation year shifted bit 1.5
+ 1.8 percent, participants saw run-up
+ commodity prices passing core prices.
+ 2012 2013, participants saw commodity prices
+ likely stabilize near current levels, central
+ tendencies forecasts core inflation 1.4
+ 2.0 percent, essentially unchanged April
+ projections.
+ Uncertainty Risks
+ substantial majority participants continued
+ judge levels uncertainty associated
+ projections economic growth inflation
+ greater average levels prevailed
+ past 20 years.1 pointed number factors
+ contributed assessments uncertainty
+ attached projections, including
+ severity recent recession, uncertain effects
+ current stance monetary policy, uncertainty
+ direction fiscal policy, structural dislocations labor market.
+ participants judged balance risks
+ economic growth weighted downside,
+ rest viewed risks balanced.
+ frequently cited downside risks included potential
+ large negative effect consumer spending
+ higher food energy prices, weaker labor market,
+ falling house prices, uncertainty debate
+ statutory debt limit potential implications
+ near-term fiscal policy, possible negative financial market spillovers European sovereign debt
+ problems. risks surrounding participants’ forecasts
+ unemployment rate shifted higher, slight
+ majority participants viewing risks
+ projection weighted upside, rest
+ participants seeing risks broadly balanced.
+ Although majority participants judged risks
+ inflation projections period 2011
+ 2013 weighted upside April, parti1
+ 
+ Table 2 provides estimates forecast uncertainty
+ change real GDP, unemployment rate, total consumer price inflation period 1991 2010.
+ end summary, box “Forecast Uncertainty”
+ discusses sources interpretation uncertainty
+ economic forecasts explains approach used
+ assess uncertainty risks attending participants’
+ projections.
+ 
+ Table 2. Average historical projection error ranges
+ Percentage points
+ 
+ Variable
+ 
+ 2011
+ 
+ 2012
+ 
+ 2013
+ 
+ Change real GDP1 . . . . . . . .
+ 
+ ±0.9
+ 
+ ±1.6
+ 
+ ±1.8
+ 
+ ±0.4
+ 
+ ±1.2
+ 
+ ±1.7
+ 
+ ±0.8
+ 
+ ±1.0
+ 
+ ±1.0
+ 
+ Unemployment
+ 
+ rate1
+ 
+ ........
+ 
+ Total consumer
+ 
+ prices2
+ 
+ ......
+ 
+ NOTE: Error ranges shown measured plus minus root
+ mean squared error projections 1991 2010
+ released summer various private government forecasters.
+ described box “Forecast Uncertainty,” certain assumptions, 70 percent probability actual outcomes
+ real GDP, unemployment, consumer prices ranges implied
+ average size projection errors made past. information David Reifschneider Peter Tulip (2007), “Gauging
+ Uncertainty Economic Outlook Historical Forecasting
+ Errors,” Finance Economics Discussion Series 2007-60 (Washington: Board Governors Federal Reserve System, November).
+ 1. definitions, refer general note table 1.
+ 2. Measure overall consumer price index, price measure
+ widely used government private economic
+ forecasts. Projection percent change, fourth quarter previous
+ year fourth quarter year indicated.
+ 
+ cipants viewed risks broadly balanced.
+ one hand, participants noted effect
+ headline inflation rise commodity prices earlier year likely subside prices stabilized, could rule possibility
+ effects persistent anticipated.
+ hand, outlook economy
+ somewhat weaker previously expected, participants saw risk greater resource slack could
+ produce downward pressure inflation
+ projected. participants noted possibility
+ current highly accommodative stance monetary
+ policy, maintained longer appropriate, could lead higher inflation expectations
+ actual inflation.
+ Diversity Views
+ Figures 2.A 2.B provide details diversity participants’ views regarding likely outcomes real GDP growth unemployment
+ rate 2011, 2012, 2013, longer run.
+ dispersion projections continued reflect differences participants’ assessments many factors,
+ including current degree underlying momentum
+ economic activity, outlook fiscal policy,
+ timing degree recovery labor markets following deep recession, appropriate future
+ monetary policy effects economic activity.
+ Regarding participants’ projections real GDP
+ growth, distribution year shifted noticeably
+ lower remained concentrated distribution April. distribution 2012 also shifted
+ somewhat became bit concentrated,
+ distribution 2013 change appreci-
+ 
+ Summary Economic Projections Meeting June 21-22, 2011
+ Page 5
+ _____________________________________________________________________________________________
+ ably. Regarding participants’ projections unemployment rate, distribution year
+ 2012 shifted relative corresponding distributions April, one-half participants
+ expected unemployment rate 2012
+ 8.0 8.1 percent interval. shifts reflect recent softening labor market conditions along
+ marking expected economic growth
+ year next. distribution unemployment
+ rate 2013 also shifted upward somewhat
+ narrower distribution April. distributions participants’ estimates longer-run
+ growth rate real GDP unemployment rate
+ little changed April projections.
+ Corresponding information diversity participants’ views regarding inflation outlook provided figures 2.C 2.D. general, dispersion
+ participants’ inflation forecasts next
+ years represented differences judgments regarding
+ fundamental determinants inflation, including
+ degree resource slack extent
+ slack influences inflation outcomes expecta-
+ 
+ tions, well estimates stance monetary policy may influence inflation expectations. Regarding overall PCE inflation, distributions
+ 2011, 2012, 2013 narrowed somewhat,
+ top distributions remaining unchanged
+ lower end distributions moving somewhat.
+ Although participants continued expect
+ somewhat elevated rate inflation year would
+ subside subsequent years, fewer participants anticipated low levels inflation. distribution
+ participants’ projections core inflation year
+ shifted noticeably higher, reflecting incoming data
+ view pass-through commodity prices
+ core prices may greater previously thought;
+ however, distributions 2012 2013 little
+ changed. distribution participants’ projections
+ overall inflation longer run essentially
+ unchanged fairly narrow distribution April,
+ reflecting broad similarity participants’ assessments approximate level inflation consistent Federal Reserve’s dual objectives
+ maximum employment price stability.
+ 
+ Page 6
+ Federal Open Market Committee
+ _____________________________________________________________________________________________
+ Figure 2.A. Distribution participants’ projections change real GDP, 2011–13 longer run
+ Number participants
+ 
+ 2011
+ 
+ 16
+ 
+ June projections
+ April projections
+ 
+ 14
+ 12
+ 10
+ 8
+ 6
+ 4
+ 2
+ 
+ 2.22.3
+ 
+ 2.42.5
+ 
+ 2.62.7
+ 
+ 2.82.9
+ 
+ 3.03.1
+ 
+ 3.23.3
+ 
+ 3.43.5
+ 
+ 3.63.7
+ 
+ 3.83.9
+ 
+ 4.04.1
+ 
+ 4.24.3
+ 
+ 4.44.5
+ 
+ 4.64.7
+ 
+ 4.84.9
+ 
+ 5.05.1
+ 
+ Percent range
+ Number participants
+ 
+ 2012
+ 
+ 16
+ 14
+ 12
+ 10
+ 8
+ 6
+ 4
+ 2
+ 
+ 2.22.3
+ 
+ 2.42.5
+ 
+ 2.62.7
+ 
+ 2.82.9
+ 
+ 3.03.1
+ 
+ 3.23.3
+ 
+ 3.43.5
+ 
+ 3.63.7
+ 
+ 3.83.9
+ 
+ 4.04.1
+ 
+ 4.24.3
+ 
+ 4.44.5
+ 
+ 4.64.7
+ 
+ 4.84.9
+ 
+ 5.05.1
+ 
+ Percent range
+ Number participants
+ 
+ 2013
+ 
+ 16
+ 14
+ 12
+ 10
+ 8
+ 6
+ 4
+ 2
+ 
+ 2.22.3
+ 
+ 2.42.5
+ 
+ 2.62.7
+ 
+ 2.82.9
+ 
+ 3.03.1
+ 
+ 3.23.3
+ 
+ 3.43.5
+ 
+ 3.63.7
+ 
+ 3.83.9
+ 
+ 4.04.1
+ 
+ 4.24.3
+ 
+ 4.44.5
+ 
+ 4.64.7
+ 
+ 4.84.9
+ 
+ 5.05.1
+ 
+ Percent range
+ Number participants
+ 
+ Longer run
+ 
+ 16
+ 14
+ 12
+ 10
+ 8
+ 6
+ 4
+ 2
+ 
+ 2.22.3
+ 
+ 2.42.5
+ 
+ 2.62.7
+ 
+ 2.82.9
+ 
+ 3.03.1
+ 
+ 3.23.3
+ 
+ 3.43.5
+ 
+ 3.63.7
+ 
+ Percent range
+ NOTE: Definitions variables general note table 1.
+ 
+ 3.83.9
+ 
+ 4.04.1
+ 
+ 4.24.3
+ 
+ 4.44.5
+ 
+ 4.64.7
+ 
+ 4.84.9
+ 
+ 5.05.1
+ 
+ Summary Economic Projections Meeting June 21-22, 2011
+ Page 7
+ _____________________________________________________________________________________________
+ Figure 2.B. Distribution participants’ projections unemployment rate, 2011–13 longer run
+ Number participants
+ 
+ 2011
+ 
+ 16
+ 
+ June projections
+ April projections
+ 
+ 14
+ 12
+ 10
+ 8
+ 6
+ 4
+ 2
+ 
+ 5.05.1
+ 
+ 5.25.3
+ 
+ 5.45.5
+ 
+ 5.65.7
+ 
+ 5.85.9
+ 
+ 6.06.1
+ 
+ 6.26.3
+ 
+ 6.46.5
+ 
+ 6.66.7
+ 
+ 6.86.9
+ 
+ 7.07.1
+ 
+ 7.27.3
+ 
+ 7.47.5
+ 
+ 7.67.7
+ 
+ 7.87.9
+ 
+ 8.08.1
+ 
+ 8.28.3
+ 
+ 8.48.5
+ 
+ 8.68.7
+ 
+ 8.88.9
+ 
+ 9.09.1
+ 
+ Percent range
+ Number participants
+ 
+ 2012
+ 
+ 16
+ 14
+ 12
+ 10
+ 8
+ 6
+ 4
+ 2
+ 
+ 5.05.1
+ 
+ 5.25.3
+ 
+ 5.45.5
+ 
+ 5.65.7
+ 
+ 5.85.9
+ 
+ 6.06.1
+ 
+ 6.26.3
+ 
+ 6.46.5
+ 
+ 6.66.7
+ 
+ 6.86.9
+ 
+ 7.07.1
+ 
+ 7.27.3
+ 
+ 7.47.5
+ 
+ 7.67.7
+ 
+ 7.87.9
+ 
+ 8.08.1
+ 
+ 8.28.3
+ 
+ 8.48.5
+ 
+ 8.68.7
+ 
+ 8.88.9
+ 
+ 9.09.1
+ 
+ Percent range
+ Number participants
+ 
+ 2013
+ 
+ 16
+ 14
+ 12
+ 10
+ 8
+ 6
+ 4
+ 2
+ 
+ 5.05.1
+ 
+ 5.25.3
+ 
+ 5.45.5
+ 
+ 5.65.7
+ 
+ 5.85.9
+ 
+ 6.06.1
+ 
+ 6.26.3
+ 
+ 6.46.5
+ 
+ 6.66.7
+ 
+ 6.86.9
+ 
+ 7.07.1
+ 
+ 7.27.3
+ 
+ 7.47.5
+ 
+ 7.67.7
+ 
+ 7.87.9
+ 
+ 8.08.1
+ 
+ 8.28.3
+ 
+ 8.48.5
+ 
+ 8.68.7
+ 
+ 8.88.9
+ 
+ 9.09.1
+ 
+ Percent range
+ Number participants
+ 
+ Longer run
+ 
+ 16
+ 14
+ 12
+ 10
+ 8
+ 6
+ 4
+ 2
+ 
+ 5.05.1
+ 
+ 5.25.3
+ 
+ 5.45.5
+ 
+ 5.65.7
+ 
+ 5.85.9
+ 
+ 6.06.1
+ 
+ 6.26.3
+ 
+ 6.46.5
+ 
+ 6.66.7
+ 
+ 6.86.9
+ 
+ 7.07.1
+ 
+ Percent range
+ NOTE: Definitions variables general note table 1.
+ 
+ 7.27.3
+ 
+ 7.47.5
+ 
+ 7.67.7
+ 
+ 7.87.9
+ 
+ 8.08.1
+ 
+ 8.28.3
+ 
+ 8.48.5
+ 
+ 8.68.7
+ 
+ 8.88.9
+ 
+ 9.09.1
+ 
+ Page 8
+ Federal Open Market Committee
+ _____________________________________________________________________________________________
+ Figure 2.C. Distribution participants’ projections PCE inflation, 2011–13 longer run
+ Number participants
+ 
+ 2011
+ 
+ 16
+ 
+ June projections
+ April projections
+ 
+ 14
+ 12
+ 10
+ 8
+ 6
+ 4
+ 2
+ 
+ 0.91.0
+ 
+ 1.11.2
+ 
+ 1.31.4
+ 
+ 1.51.6
+ 
+ 1.71.8
+ 
+ 1.92.0
+ 
+ 2.12.2
+ 
+ 2.32.4
+ 
+ 2.52.6
+ 
+ 2.72.8
+ 
+ 2.93.0
+ 
+ 3.13.2
+ 
+ 3.33.4
+ 
+ 3.53.6
+ 
+ Percent range
+ Number participants
+ 
+ 2012
+ 
+ 16
+ 14
+ 12
+ 10
+ 8
+ 6
+ 4
+ 2
+ 
+ 0.91.0
+ 
+ 1.11.2
+ 
+ 1.31.4
+ 
+ 1.51.6
+ 
+ 1.71.8
+ 
+ 1.92.0
+ 
+ 2.12.2
+ 
+ 2.32.4
+ 
+ 2.52.6
+ 
+ 2.72.8
+ 
+ 2.93.0
+ 
+ 3.13.2
+ 
+ 3.33.4
+ 
+ 3.53.6
+ 
+ Percent range
+ Number participants
+ 
+ 2013
+ 
+ 16
+ 14
+ 12
+ 10
+ 8
+ 6
+ 4
+ 2
+ 
+ 0.91.0
+ 
+ 1.11.2
+ 
+ 1.31.4
+ 
+ 1.51.6
+ 
+ 1.71.8
+ 
+ 1.92.0
+ 
+ 2.12.2
+ 
+ 2.32.4
+ 
+ 2.52.6
+ 
+ 2.72.8
+ 
+ 2.93.0
+ 
+ 3.13.2
+ 
+ 3.33.4
+ 
+ 3.53.6
+ 
+ Percent range
+ Number participants
+ 
+ Longer run
+ 
+ 16
+ 14
+ 12
+ 10
+ 8
+ 6
+ 4
+ 2
+ 
+ 0.91.0
+ 
+ 1.11.2
+ 
+ 1.31.4
+ 
+ 1.51.6
+ 
+ 1.71.8
+ 
+ 1.92.0
+ 
+ 2.12.2
+ 
+ Percent range
+ NOTE: Definitions variables general note table 1.
+ 
+ 2.32.4
+ 
+ 2.52.6
+ 
+ 2.72.8
+ 
+ 2.93.0
+ 
+ 3.13.2
+ 
+ 3.33.4
+ 
+ 3.53.6
+ 
+ Summary Economic Projections Meeting June 21-22, 2011
+ Page 9
+ _____________________________________________________________________________________________
+ Figure 2.D. Distribution participants’ projections core PCE inflation, 2011–13
+ Number participants
+ 
+ 2011
+ 
+ 16
+ 
+ June projections
+ April projections
+ 
+ 14
+ 12
+ 10
+ 8
+ 6
+ 4
+ 2
+ 
+ 1.11.2
+ 
+ 1.31.4
+ 
+ 1.51.6
+ 
+ 1.71.8
+ 
+ 1.92.0
+ 
+ 2.12.2
+ 
+ 2.32.4
+ 
+ 2.52.6
+ 
+ Percent range
+ Number participants
+ 
+ 2012
+ 
+ 16
+ 14
+ 12
+ 10
+ 8
+ 6
+ 4
+ 2
+ 1.11.2
+ 
+ 1.31.4
+ 
+ 1.51.6
+ 
+ 1.71.8
+ 
+ 1.92.0
+ 
+ 2.12.2
+ 
+ 2.32.4
+ 
+ 2.52.6
+ 
+ Percent range
+ Number participants
+ 
+ 2013
+ 
+ 16
+ 14
+ 12
+ 10
+ 8
+ 6
+ 4
+ 2
+ 1.11.2
+ 
+ 1.31.4
+ 
+ 1.51.6
+ 
+ 1.71.8
+ 
+ Percent range
+ NOTE: Definitions variables general note table 1.
+ 
+ 1.92.0
+ 
+ 2.12.2
+ 
+ 2.32.4
+ 
+ 2.52.6
+ 
+ Page 10
+ Federal Open Market Committee
+ _____________________________________________________________________________________________
+ 
+ Forecast Uncertainty
+ economic projections provided
+ members Board Governors
+ presidents Federal Reserve Banks
+ inform discussions monetary policy among
+ policymakers aid public understanding basis policy actions. Considerable uncertainty attends projections,
+ however. economic statistical models
+ relationships used help produce economic forecasts necessarily imperfect descriptions real world, future
+ path economy affected myriad unforeseen developments events.
+ Thus, setting stance monetary policy,
+ participants consider appears
+ likely economic outcome embodied projections, also range
+ alternative possibilities, likelihood
+ occurring, potential costs
+ economy occur.
+ Table 2 summarizes average historical
+ accuracy range forecasts, including
+ reported past Monetary Policy Reports
+ prepared Federal Reserve
+ Board’s staff advance meetings
+ Federal Open Market Committee. projection error ranges shown table illustrate considerable uncertainty associated
+ economic forecasts. example, suppose participant projects real gross domestic product (GDP) total consumer
+ prices rise steadily annual rates of, respectively, 3 percent 2 percent.
+ uncertainty attending projections sim-
+ 
+ ilar experienced past risks
+ around projections broadly balanced,
+ numbers reported table 2 would imply
+ probability 70 percent actual
+ GDP would expand within range 2.1 3.9
+ percent current year, 1.4 4.6 percent
+ second year, 1.2 4.8 percent
+ third year. corresponding 70 percent confidence intervals overall inflation would
+ 1.2 2.8 percent current year, 1.0
+ 3.0 percent second third years.
+ current conditions may differ
+ prevailed, average, history, participants provide judgments
+ whether uncertainty attached projections variable greater than, smaller
+ than, broadly similar typical levels
+ forecast uncertainty past, shown
+ table 2. Participants also provide judgments
+ whether risks projections
+ weighted upside, weighted
+ downside, broadly balanced. is,
+ participants judge whether variable
+ likely projections likely outcome. judgments uncertainty risks attending participant’s projections distinct diversity participants’ views
+ likely outcomes. Forecast uncertainty concerned risks associated
+ particular projection rather
+ divergences across number different projections.
+ 
+ 

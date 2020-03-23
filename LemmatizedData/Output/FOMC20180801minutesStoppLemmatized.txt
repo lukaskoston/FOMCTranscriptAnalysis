@@ -1,0 +1,925 @@
+_
+
+Page 1
+
+Minutes Federal Open Market Committee
+July 31âAugust 1 , 2018
+joint meeting Federal Open Market Committee
+Board Governors held office
+Board Governors Federal Reserve System
+Washington , D.C. , Tuesday , July 31 , 2018 ,
+10:00 a.m . continued Wednesday , August 1 ,
+2018 , 9:00 a.m . 1
+PRESENT :
+Jerome H . Powell , Chairman
+John C . Williams , Vice Chairman
+Thomas I . Barkin
+Raphael W . Bostic
+Lael Brainard
+Loretta J . Mester
+Randal K . Quarles
+James Bullard , Charles L . Evans , Esther L . George ,
+Eric Rosengren , Michael Strine , Alternate
+Members Federal Open Market Committee
+Patrick Harker , Robert S . Kaplan , Neel Kashkari ,
+Presidents Federal Reserve Banks
+Philadelphia , Dallas , Minneapolis , respectively
+Mark A . Gould , First Vice President , Federal Reserve
+Bank San Francisco
+James A . Clouse , Secretary
+Matthew M . Luecke , Deputy Secretary
+David W . Skidmore , Assistant Secretary
+Michelle A . Smith , Assistant Secretary
+Mark E . Van Der Weide , General Counsel
+Michael Held , Deputy General Counsel
+Steven B . Kamin , Economist
+Thomas Laubach , Economist
+David W . Wilcox , Economist
+Kartik B . Athreya , Thomas A . Connors , Mary Daly ,
+David E . Lebow , Trevor A . Reeve , Ellis W .
+Tallman , William Wascher , Beth Anne Wilson ,
+Associate Economists
+Simon Potter , Manager , System Open Market Account
+
+Federal Open Market Committee reference
+âFOMCâ âCommitteeâ minute .
+1
+
+Lorie K . Logan , Deputy Manager , System Open
+Market Account
+Ann E . Misback , Secretary , Office Secretary ,
+Board Governors
+Matthew J . Eichner , 2 Director , Division Reserve
+Bank Operations Payment Systems , Board
+Governors ; Michael S . Gibson , Director , Division
+Supervision Regulation , Board
+Governors ; Andreas Lehnert , Director , Division
+Financial Stability , Board Governors
+Rochelle M . Edge , Deputy Director , Division
+Monetary Affairs , Board Governors
+Jon Faust , Senior Special Adviser Chairman ,
+Office Board Members , Board Governors
+Antulio N . Bomfim , Special Adviser Chairman ,
+Office Board Members , Board Governors
+Joseph W . Gruber John M . Roberts , Special
+Advisers Board , Office Board Members ,
+Board Governors
+Linda Robertson , Assistant Board , Office
+Board Members , Board Governors
+Christopher J . Erceg , Senior Associate Director ,
+Division International Finance , Board
+Governors ; Gretchen C . Weinbach , Senior
+Associate Director , Division Monetary Affairs ,
+Board Governors
+Ellen E . Meade , Edward Nelson , Robert J . Tetlow ,
+Senior Advisers , Division Monetary Affairs ,
+Board Governors ; Jeremy B . Rudd , Senior
+Adviser , Division Research Statistics , Board
+Governors
+John J . Stevens , Associate Director , Division
+Research Statistics , Board Governors
+
+Attended discussion development financial market open market operation .
+
+2
+
+Page 2
+
+Federal Open Market Committee
+
+_
+
+Luca Guerrieri , Deputy Associate Director , Division
+Financial Stability , Board Governors
+
+A . Lee Smith , Senior Economist , Federal Reserve Bank
+Kansas City
+
+Glenn Follette Shane M . Sherlund , Assistant
+Directors , Division Research Statistics ,
+Board Governors ; Christopher J . Gust ,
+Assistant Director , Division Monetary Affairs ,
+Board Governors
+
+Brent Meyer , Policy Advisor Economist , Federal
+Reserve Bank Atlanta
+
+Penelope A . Beattie , 3 Assistant Secretary , Office
+Secretary , Board Governors
+Etienne Gagnon , 4 Section Chief , Division Monetary
+Affairs , Board Governors ; Matthias Paustian,4
+Section Chief , Division Research Statistics ,
+Board Governors
+David H . Small , Project Manager , Division
+Monetary Affairs , Board Governors
+Hess T . Chung,4 Group Manager , Division Research
+Statistics , Board Governors
+Andrea Ajello , Edward Herbst , Bernd Schlusche,4
+Principal Economists , Division Monetary
+Affairs , Board Governors
+Randall A . Williams , Senior Information Manager ,
+Division Monetary Affairs , Board Governors
+James M . Trevino,4 Technology Analyst , Division
+Monetary Affairs , Board Governors
+Michael Dotsey , Beverly Hirtle , Christopher J .
+Waller , Executive Vice Presidents , Federal Reserve
+Banks Philadelphia , New York , St . Louis ,
+respectively
+Anna Paulson , Senior Vice President , Federal Reserve
+Bank Chicago
+Joe Peek , Vice President , Federal Reserve Bank
+Boston
+Karel Mertens , Senior Economic Policy Advisor ,
+Federal Reserve Bank Dallas
+
+Attended Tuesday session only .
+Attended discussion monetary policy option
+effective low bound .
+
+3
+4
+
+Cristina Arellano , Monetary Advisor , Federal Reserve
+Bank Minneapolis
+Monetary Policy Options Effective Lower
+Bound
+staff provide briefing summarize analysis extent Committeeâs monetary policy tool could provide adequate policy accommodation if , future economic downturn , policy
+rate become constrain effective
+low bound ( ELB ) . 5 staff examine simulation
+staffâs FRB/US model various economic model ass likelihood policy rate
+return ELB evaluate much additional policy accommodation could deliver
+current toolkit . toolkit include threshold-based
+forward-guidance policy , Committee
+communicates federal fund rate remain
+ELB either inflation unemployment rate
+reach certain threshold , balance sheet policy ,
+involve increase size duration Federal
+Reserveâs asset holding .
+staffâs analysis indicate various policy
+rule , include prescribe aggressive reduction
+federal fund rate response adverse economic
+shock , meaningful risk ELB could
+bind sometime next decade . analysis
+also imply threshold-based forward guidance
+balance sheet action could provide additional accommodation could help support economic activity
+mitigate disinflationary pressure episode .
+model simulation , unanticipated shock
+lag transmission effect monetary
+policy action economic activity inflation , effectiveness monetary policy general , include forward-guidance balance sheet policy , limited
+mitigate initial downturn economy .
+staff note considerable uncertainty surround estimate effect policy
+economy ; addition , estimate frequently
+
+analysis , staff assume ELB 12.5 basis
+point , equal midpoint target range federal
+fund rate December 2008 December 2015 .
+
+5
+
+_
+
+Minutes Meeting July 31âAugust 1 , 2018
+
+ELB could bind future differ across model
+staff examine .
+discussion follow staffâs briefing , participant generally agree current toolkit could
+provide significant accommodation express concern potential limit policy effectiveness
+stem ELB . view matter
+prudent planning evaluate potential policy option
+advance ELB event . Many participant comment monetary policy implication apparent secular decline neutral real interest rate .
+decline view likely driven various factor ,
+include slow trend growth labor force
+productivity well increase demand safe asset .
+circumstance , participant saw monetary
+policy less scope past reduce
+federal fund rate response negative shock . Accordingly , view , spell ELB could become
+frequent protract past , consistent staffâs analysis . Moreover , secular
+decline interest rate global phenomenon ,
+couple participant emphasize decline increase likelihood ELB could bind simultaneously number country . participant raise concern frequent extend ELB
+episode could result expectation inflation
+Committeeâs symmetric 2 percent objective , limit scope reduction federal fund rate serve buffer economy
+increase likelihood ELB episode . Fiscal policy
+view potentially important tool address
+future economic downturn monetary policy
+constrain ELB ; however , countercyclical
+fiscal policy action United States may constrain high rise level federal government debt . couple participant saw macroprudential regulatory policy tool could use
+mitigate risk financial imbalance induce economic downturn ELB constrain federal fund rate .
+Participants generally agree forward guidance
+balance sheet action would effective tool use
+federal fund rate become constrain
+ELB . Addendum Policy Normalization Principles Plans statement issue June 2017 ,
+Committee indicate would prepared use
+full range tool , include alter size
+composition balance sheet , future economic
+condition warrant accommodative
+monetary policy achieve solely reduce
+
+Page 3
+
+federal fund rate . However , participant acknowledge may limit effectiveness
+tool address ELB episode . also emphasize considerable uncertainty
+economic effect tool . Consistent
+view , participant note economic researcher
+yet reach consensus effectiveness
+unconventional policy . number participant
+indicate might significant cost associate
+use unconventional policy ,
+cost might limit , particular , extent
+Committee engage large-scale asset purchase .
+Participants discuss prominent role previous
+communication forward guidance balance
+sheet action , conjunction policy measure ,
+shape public expectation potential
+future use tool determine effectiveness . general , advance communication
+policy see important reinforce public understand Committeeâs commitment
+achieve dual-mandate objective . However , several
+participant caution specific
+Committee would deploy tool . particular , difficult anticipate force might
+push economy recession , thus preserve
+flexibility respond economic downturn
+could appropriate . Moreover , although make multiyear commitment regard asset purchase future path federal fund rate could enhance effectiveness policy , commitment could
+unduly constrain choice Committee
+future .
+Committeeâs current toolkit judged
+effective , participant agree , matter prudent
+planning , discus policy option
+broaden discussion include evaluation potential alternative policy strategy address
+ELB . Building discussion previous meeting , participant suggest number possible alternative might worth consideration agree
+return topic future meeting . Several participant indicate would desirable hold periodic systematic review Committee assess strength weakness current monetary policy framework .
+Developments Financial Markets Open Market Operations
+manager System Open Market Account
+( SOMA ) provide summary development do-
+
+Page 4
+
+Federal Open Market Committee
+
+mestic global financial market intermeeting period . Asset price influence number
+factor , include report concern trade tension
+among United States major trading partner ,
+foreign monetary policy development , data point strong growth momentum United States .
+Escalating trade tension China United
+States prompt notable market move , particularly
+foreign exchange market . News agreement United States European Union continue talk resolve trade dispute provide
+support global equity price . manager summarize recent policy announcement
+European Central Bank ( ECB ) Bank Japan
+( BOJ ) . European yield move low follow revision ECBâs forward guidance June meeting
+concern asset purchase path short-term
+rate . Japanese yield curve steepen follow report BOJ may facilitate increase longerterm interest rate . July meeting , BOJ announce number change respect forward
+guidance policy outlook , include intention
+keep interest rate low extend period . Meanwhile , expectation concern path monetary
+policy United States little change
+intermeeting period . Futures quote indicate market participant place high odds quarterpoint firm federal fund rate September
+FOMC meeting . Responses Open Market Deskâs
+Survey Primary Dealers Survey Market Participants indicate concern trade tension
+affected outlook U.S . monetary policy .
+deputy manager follow discussion
+money market open market operation . Money
+market rate move line 20 basis point
+increase interest excess reserve ( IOER ) rate
+June meeting . day follow June
+FOMC meeting , effective federal fund rate ( EFFR )
+move relative IOER rate , reportedly reflect special factor federal fund market , include increase demand overnight funding
+bank connection liquidity regulation pullback Federal Home Loan Banks lending
+federal fund market . development prove
+temporary , EFFR subsequently return
+level 4 basis point IOER rate .
+deputy manager also discuss Deskâs plan
+small-value purchase agency mortgage-backed security ( MBS ) . staff project principal payment
+Federal Reserveâs holding agency MBS
+would fall FOMCâs monthly redemption cap
+
+_
+
+begin October . principal payment follow
+anticipate trajectory , Desk plan begin
+conduct monthly small-value purchase agency
+MBS time maintain operational readiness .
+deputy manager also discuss Federal Housing Finance Agencyâs Single Security Initiative ,
+Uniform Mortgage-Backed Securities ( UMBS ) would
+issue Fannie Mae Freddie Mac begin
+June 2019 . Desk plan develop capability conduct UMBS transaction and , efficiently manage portfolio , convert portion
+SOMAâs exist agency MBS holding UMBS
+appropriate .
+unanimous vote , Committee ratify Deskâs
+domestic transaction intermeeting period .
+intervention operation foreign currency Systemâs account intermeeting period .
+Staff Review Economic Situation
+information review July 31âAugust 1
+meeting indicate labor market condition continued strengthen recent month real gross
+domestic product ( GDP ) rise strong rate first
+half year . Consumer price inflation , measure
+12-month percentage change price index
+personal consumption expenditure ( PCE ) , remain near 2 percent June . Survey-based measure
+longer-run inflation expectation little change
+balance .
+Total nonfarm payroll employment expand strong
+pace June . national unemployment rate
+move 4.0 percent , labor force participation rate rise similar amount , leave employment-to-population ratio unchanged May .
+three-month move average unemployment
+rate African Americans , Asians , Hispanics
+low achieve previous
+expansion . share worker employ part time
+economic reason edge low level since
+late 2007 . rate private-sector job opening ticked
+May remain elevate , rate
+quits move high ; initial claim unemployment insurance benefit continued low mid-July .
+Recent reading show increase hourly labor
+compensation step modestly past year .
+employment cost index private worker increase 2.9 percent 12 month end June
+( compare 2.4 percent 12 month
+year earlier ) , average hourly earnings employee rise 2.7 percent period ( compare
+
+_
+
+Minutes Meeting July 31âAugust 1 , 2018
+
+2.5 percent 12 month year earlier ) .
+( Data compensation per hour reflect comprehensive revision national income product
+account Bureau Economic Analysis ( BEA )
+available time meeting . )
+Total industrial production little change , net ,
+April June despite solid increase output
+mining sector . first half year ,
+manufacturing production rise modest pace .
+Automakersâ assembly schedule suggest sizable increase light motor vehicle production third
+quarter , broader indicator manufacturing production , new order index national
+regional manufacturing survey , point solid
+gain factory output near term .
+Real PCE rise briskly second quarter modest gain first quarter . Light motor vehicle sale
+maintain robust pace June , indicator vehicle demand mixed generally favorable .
+broadly , recent reading key factor influence
+consumer spendingâincluding gain employment ,
+real disposable personal income , householdsâ net
+worthâcontinued supportive solid real PCE
+growth near term . Consumer sentiment , measure University Michigan Surveys Consumers , remain upbeat June July .
+Residential investment decline second
+quarter . Starts new single-family home little
+change , average , May June , start multifamily unit decline net . issuance building
+permit type housing low second quarter first quarter , suggest
+start might move low come month . Sales
+exist home edge May June ,
+sale new home move balance .
+Real private expenditure business equipment intellectual property rise moderate pace second
+quarter strong gain first quarter . Nominal
+shipment nondefense capital good exclude aircraft rise May June , forward-looking indicator business equipment spendingâsuch backlog unfilled capital good order , along upbeat
+reading business sentiment national regional surveysâcontinued point robust gain
+equipment spending near term . Real business expenditure nonresidential structure expand
+solid pace second quarter . However ,
+number crude oil natural gas rig operationâ
+indicator business spending structure
+
+Page 5
+
+drilling mining sectorâdecreased slightly recent
+week .
+Total real government purchase rise faster rate
+second quarter first . Real federal defense
+nondefense purchase increase second
+quarter . Real purchase state local government
+also move high ; state local government payroll
+construction spending government increase second quarter .
+nominal U.S . international trade deficit narrow
+May , export , lead agricultural product ( particularly
+soybean ) capital good , increase strongly import increase modestly . June , however , advance data suggest nominal good export fell
+import rise . told , BEA estimate net export make positive contribution
+1 percentage point real GDP growth second
+quarter near-zero contribution first .
+Total U.S . consumer price , measure PCE
+price index , increase 2.2 percent 12 month
+end June . Core PCE price inflation , excludes change consumer food energy price ,
+1.9 percent period . consumer price
+index ( CPI ) rise 2.9 percent 12 month end
+June , core CPI inflation 2.3 percent . Recent
+reading survey-based measure longer-run inflation expectationsâincluding Michigan
+survey Deskâs Survey Primary Dealers
+Survey Market Participantsâwere little change
+balance .
+Incoming data suggest foreign economic activity
+expand moderate pace second quarter .
+Monthly indicator point pickup pace
+economic activity advanced foreign economy
+( AFEs ) follow temporary dip first quarter .
+However , real GDP growth remain moderate
+euro area appear slow notably many
+emerge market economy ( EMEs ) , especially Mexico ,
+unusually strong start year . Foreign inflation fell second quarter , largely reflect low
+retail energy food price inflation . Underlying inflation pressure foreign economy , especially
+AFEs , remain subdue .
+Staff Review Financial Situation
+Concerns regard international trade policy weigh
+market sentiment time intermeeting period , prompt notable decline foreign equity
+market leave modest imprint domestic
+asset price net . Meanwhile , FOMC communication
+
+Page 6
+
+Federal Open Market Committee
+
+view market participant slightly less accommodative expect , domestic economic
+data release see mixed . balance , marketbased measure expect path federal fund
+rate end 2019 edge slightly . Yields
+medium- longer-term nominal Treasury security little change . broad dollar index move
+up . Financing condition nonfinancial business
+household remain supportive economic activity balance .
+Although reaction asset price FOMC communication period generally modest ,
+market participant reportedly interpret June
+FOMC statement Summary Economic Projections ( SEP ) somewhat less accommodative expect . probability increase target range
+federal fund rate occur August FOMC
+meeting , imply quote federal fund future
+contract , remain close zero ; probability
+increase September FOMC meeting rise
+90 percent end intermeeting period . Levels
+federal fund rate end 2019 2020
+imply overnight index swap ( OIS ) rate edge
+slightly net .
+nominal Treasury yield curve flatten somewhat
+intermeeting period . Measures inflation
+compensation derive Treasury InflationProtected Securities little change net .
+Concerns international trade dispute lead
+slight decline sentiment toward domestic risky
+asset early period , sentiment buoyed later
+positive corporate earnings release second
+quarter . Broad U.S . equity price index displayed mixed
+result since June FOMC meeting . Option-implied
+volatility S & P 500 index one-month horizonâthe VIXâwas little change , net , remain bit low level prevail
+early February . intermeeting period ,
+spread yield nonfinancial corporate bond
+comparable-maturity Treasury security
+little change , net , investment- speculative-grade firm . spread remain low historical standard .
+Short-term funding market function smoothly ,
+spread unsecured rate comparable-maturity
+OIS rate continued narrow intermeeting
+period . June FOMC meeting , EFFR rise
+around 20 basis point , line increase
+IOER rate , trade well within target range
+throughout period .
+
+_
+
+dollar appreciate currency ,
+notable exception Mexican peso , appreciate ease investor concern around prospective economic policy newly elect government . Escalating trade tension contribute unusually sharp depreciation Chinese renminbi .
+Trade tension also drove foreign equity price low ,
+modest reversal late intermeeting
+period follow agreement United
+States European Union hold tariff increase pending negotiation . net , equity
+price little change AFEs , decline EMEs , lead largely steep drop China .
+Outflows dedicate emerge market fund
+slow , EME sovereign bond spread narrow
+slightly .
+balance , longer-term bond yield AFEs decline slightly intermeeting period . ECB communication follow June meeting perceive
+accommodative expect lead noticeable decline market-based measure policy rate
+expectation . BOJ issue revise forward guidance
+July meeting indicate intend maintain
+current low short- long-term interest rate extend period . Finally , Bank England held policy rate steady June meeting , U.K . yield decline slightly amid ongoing Brexit-related concern
+well lower-than-expected inflation data .
+Financing condition nonfinancial corporation continued favorable intermeeting period .
+Gross issuance corporate bond institutional leveraged loan picked May stayed strong June ,
+rise corporate bond issuance concentrate
+investment-grade segment market . Meanwhile , volume equity issuance remain robust .
+Growth outstanding commercial industrial ( C & I )
+loan held bank strong , average , June . Respondents June Senior Loan Officer Opinion Survey Bank Lending Practices ( SLOOS ) report
+institution ease standard term C & I
+loan second quarter , often cite increase
+competition lender increase ease
+transact secondary market reason
+so . Although sign deterioration emerge
+intermeeting period , credit quality nonfinancial corporation continued solid overall .
+ratio aggregate debt asset sector stayed near
+multidecade high . Gross issuance municipal bond
+June robust , continue increase slow
+start year .
+
+_
+
+Minutes Meeting July 31âAugust 1 , 2018
+
+Financing condition commercial real estate ( CRE )
+remain accommodative . CRE loan bank maintain solid growth past several quarter ,
+growth share across three major CRE loan category . weight basis across major CRE loan category , respondent June SLOOS report
+standard demand CRE loan continued
+unchanged , whole , second quarter . Interest rate spread commercial mortgage-backed security ( CMBS ) little change intermeeting period remain near post-crisis low ,
+issuance non-agency agency CMBS maintain solid pace second quarter .
+borrower residential mortgage market continued face accommodative financing condition .
+borrower low credit score , credit condition continued ease stayed tight overall . Growth homepurchase mortgage slow bit , refinance activity continued mute past year ,
+development partly reflect rise mortgage rate
+earlier year . Relative June FOMC meeting ,
+interest rate 30-year conform mortgage
+yield agency MBS little change .
+Financing condition consumer credit market
+little change far year , balance , remain
+largely supportive growth household spending .
+Growth consumer credit picked May
+moderate pace see earlier year . Despite rise
+interest rate , financing rate remain low compare
+historical level , recent household survey indicate consumersâ assessment buying condition
+auto expensive durable good generally positive . Credit supply condition also continued
+largely supportive spending . moderate net
+fraction July SLOOS respondent report ease
+standard auto loan previous three month
+several quarter bank report tighten standard . However , significant net fraction
+bank reportedly continued tighten standard
+credit card account .
+staff provide late report potential risk
+financial stability ; report characterize financial vulnerability U.S . financial system
+moderate balance . overall assessment incorporate staffâs judgment vulnerability associate
+asset valuation pressure continued elevate ,
+major asset class exhibit valuation
+historical midpoint . Additionally , staff judged
+vulnerability financial-sector leverage ma-
+
+Page 7
+
+turity liquidity transformation low , vulnerability household leverage low-tomoderate range , vulnerability leverage
+nonfinancial business sector elevate .
+Staff Economic Outlook
+U.S . economic forecast prepared FOMC
+meeting , staff continued project economy
+would expand above-trend pace . Real GDP
+forecast increase second half year
+pace little slow first half
+year . 2018â20 period , output project
+rise staffâs estimate potential output , unemployment rate project decline
+staffâs estimate longer-run natural rate . However , labor market condition already
+tight , staff continued assume project
+decline unemployment rate attenuate
+greater-than-usual cyclical improvement labor
+force participation rate . Relative forecast prepared June meeting , projection real GDP
+growth revise little , primarily response
+strong incoming data household spending . addition , staff continued anticipate supply constraint might restrain output growth somewhat
+medium term . unemployment rate project
+little high next quarter
+previous forecast , essentially unrevised thereafter .
+staff forecast total PCE price inflation 2018
+revise little , mainly slowerthan-expected increase consumer energy price
+second quarter downward revision forecast
+energy price inflation second half year .
+staff continued project total PCE inflation
+would remain near Committeeâs 2 percent objective
+medium term core PCE price inflation
+would run slightly high total inflation
+period project decline consumer energy price 2019 2020 .
+staff view uncertainty around projection
+real GDP growth , unemployment rate , inflation similar average past 20 year .
+staff saw risk forecast real GDP growth
+unemployment rate balance . upside ,
+household spending business investment could expand faster next year staff project , support part tax cut enact last year .
+downside , trade policy could move direction would significant negative effect economic growth . Another possibility recent fiscal
+
+Page 8
+
+Federal Open Market Committee
+
+policy action could produce less boost aggregate
+demand assume baseline projection ,
+current tightness resource utilization may result
+small multiplier effect would typical
+point business cycle . Risks inflation projection also see balance . upside risk
+inflation could increase expect economy project move potential counterbalance downside risk
+longer-term inflation expectation may low
+assume staff forecast .
+Participantsâ Views Current Conditions
+Economic Outlook
+discussion economic situation
+outlook , meeting participant agree information
+receive since FOMC met June indicate
+labor market continued strengthen economic activity rise strong rate . Job gain
+strong , average , recent month ,
+unemployment rate stayed low . Household spending business fix investment grown strongly .
+12-month basis , overall inflation core inflation , excludes change food energy
+price , remain near 2 percent . Indicators
+longer-term inflation expectation little change ,
+balance .
+Participants generally note economic growth
+second quarter strong ; incoming data indicate
+considerable momentum spending household
+business . Several participant stress possibility
+real GDP growth second quarter may
+boost transitory factor , include outsized
+increase U.S . export . second half year ,
+participant generally expect GDP growth would
+likely slow second-quarter rate would still
+exceed potential output . Participants note
+number favorable economic factor support above-trend GDP growth ; include
+strong labor market , stimulative federal tax spending
+policy , accommodative financial condition , continued high level household business confidence .
+Participants generally view risk economic
+outlook roughly balance .
+Reports business contact confirm robust pace
+expansion several sector economy , include energy , manufacturing , service . Crude oil production report grown rapidly . contrast sector , residential construction activity appear soften somewhat , possibly reflect
+decline home affordability , high mortgage rate ,
+
+_
+
+scarcity available lot certain city , delay
+building approval . However , couple participant
+report vibrancy industrial multifamily construction activity . Business contact various sector
+cite labor shortage supply constraint impediment production . Furthermore , recent tariff increase put upward pressure input price . Business contact Districts report uncertainty
+regard trade policy lead reduction delay investment spending . Nonetheless , number participant indicate business concerned trade dispute yet cut back
+capital expenditure hire might trade
+tension resolve soon . Several participant
+observe agricultural sector adversely
+affected significant decline crop livestock
+price intermeeting period . couple participant note development likely partly flow
+trade tension .
+Participants agree labor market condition
+strengthen intermeeting period . Payrolls grown strongly June , labor market tightness reflect recent reading rate privatesector job opening quits job-to-job switch worker . Although unemployment rate increase slightly June , increase accompany
+uptick labor force participation rate .
+Many participant comment fact measure
+aggregate nominal wage growth far picked
+modestly . Among factor cite contain
+pickup wage growth low trend productivity
+growth , lag response nominal wage growth
+resource pressure , improvement term
+employment record wage data .
+Alternatively , recent pace nominal wage growth
+might indicate continued slack labor market .
+However , participant expect pickup aggregate nominal wage growth occur long ,
+number participant reporting wage pressure
+Districts rise firm exhibit
+great willingness grant wage increase .
+Participants note overall inflation inflation item food energy remain near
+2 percent 12-month basis . participant express increase confidence recent return
+inflation near Committeeâs longer-term 2 percent
+objective would sustain . Several participant comment increase price particular good ,
+induced tariff increase , would likely
+
+_
+
+Minutes Meeting July 31âAugust 1 , 2018
+
+one source short-term upward pressure inflation rate , although offset influencesâincluding
+negative effect trade development
+agricultural pricesâwere also note . Reports
+several Districts suggest firm great scope
+recent past raise price response
+strong demand increase input cost , include
+associate tariff increase recent rise
+fuel freight expense . Many participant anticipate
+that , medium term , high level resource
+utilization stable inflation expectation would keep
+inflation near 2 percent . However , participant
+observe inflation recent year show
+weak connection measure resource pressure
+indicate would like see evidence
+measure underlie inflation reading inflation expectation course attain level consistent sustain achievement Committeeâs
+symmetric 2 percent inflation objective . Although
+participant observe trim mean measure
+inflation calculate Federal Reserve Bank Dallas still 2 percent , couple note forecast
+measure would reach 2 percent end
+year . participant raise concern
+prolong period economy operate beyond potential could give rise inflationary pressure
+financial imbalance could eventually trigger
+economic downturn .
+Participants comment number risk uncertainty associate outlook economic
+activity , labor market , inflation medium
+term . generally continued see fiscal policy
+strengthen labor market supportive
+economic growth near term . note large
+persistent positive effect factor
+upside risk outlook . participant indicate ,
+however , faster-than-expected fading fiscal
+impetus greater-than-anticipated subsequent fiscal
+tighten constitute downside risk . addition ,
+participant point ongoing trade disagreement
+propose trade measure important source uncertainty risk . Participants observe largescale prolong dispute trade policy develop , would likely adverse effect business
+sentiment , investment spending , employment .
+Moreover , wide-ranging tariff increase would also reduce purchasing power U.S . household .
+negative effect scenario could include reduction productivity disruption supply chain .
+downside risk cite include possibility
+
+Page 9
+
+significant weaken housing sector , sharp increase oil price , severe slowdown EMEs .
+Participants remark extent financial
+condition remain supportive economic expansion .
+intermeeting period , small change
+overall financial condition occur , modest
+movement net equity price foreign
+exchange value dollar . yield curve flatten intermeeting period .
+Participants comment financial stability note
+asset valuation remain elevate corporate
+borrowing term remain easy . also note
+regulatory change introduce past decade
+help reduce susceptibility financial sector
+run strengthen capital position bank
+financial institution . discuss capital
+position large bank , participant emphasize
+financial stability risk could reduce institution boost capital cushion
+profit strong economic outlook favorable ; argument activation
+countercyclical capital buffer mean
+strengthen capital position large bank
+discuss context .
+consideration monetary policy , participant
+discuss implication recent economic financial development economic outlook associate risk outlook . Participants remark
+recent above-trend growth real GDP indicator resource utilization . comment consumer spending quite strong second
+quarter , confirm impression first-quarter weakness temporary . Several participant
+also point continued strength business fix
+investment , although persistent weakness
+risk slowdown residential investment
+also note . participant suggest could still
+labor market slack , cite recent increase labor force participation rate relative prevail demographically driven downward trend ; participation
+rate prime-age men , particular , still
+previous business cycle peak . participant judged
+labor market condition tight , point
+data , include job quits opening rate ,
+anecdote contact .
+Participants generally characterize inflation run
+close Committeeâs objective 2 percent ,
+express view indicate recent
+reading inflation come close expectation . Consistent SEP submission June ,
+
+Page 10
+
+Federal Open Market Committee
+
+several participant remark inflation , measure
+12-month basis , likely move modestly
+Committeeâs objective time . Others point
+indicator suggest long-term inflation expectation could level consistent
+Committeeâs 2 percent inflation objective .
+Participants generally judged current stance
+monetary policy remain accommodative , support
+strong labor market condition inflation around
+2 percent . Participants agree would appropriate Committee leave target range
+federal fund rate unchanged meeting .
+regard medium term , various participant indicate information gather since Committee
+met June significantly alter outlook
+U.S . economy . Many participant suggest
+incoming data continued support current economic outlook , would likely soon appropriate
+take another step remove policy accommodation .
+Participants generally expect gradual increase target range federal fund rate
+would consistent sustain expansion economic activity , strong labor market condition , inflation near Committeeâs symmetric 2 percent objective medium term . Many participant reiterate
+actual path federal fund rate would ultimately depend incoming data
+data affect economic outlook .
+Participants discuss economic force risk
+saw provide rationale gradual increase
+federal fund rate well scenario might
+cause depart expect path . Among
+factor , point uncertainty appropriate level federal fund rate longer
+run constraint provision monetary accommodation ELB episode reason proceed gradually removal accommodation .
+participant note strong underlie momentum economy upside risk ; express view escalation international trade
+dispute potentially consequential downside risk
+real activity . participant suggest that ,
+event major escalation trade dispute , complex nature trade issue , include entire range
+effect output inflation , present challenge determine appropriate monetary policy response .
+Participants also discuss possible implication
+flatten term structure market interest rate .
+Several participant cite statistical evidence
+
+United States inversion yield curve often precede recession . suggest policymakers pay close attention slope
+yield curve assess economic policy outlook .
+participant emphasize infer economic
+causality statistical correlation appropriate . number global factor see contribute downward pressure term premium , include central bank asset purchase program strong
+worldwide demand safe asset . environment , inversion yield curve might
+significance historical record would suggest ;
+signal take yield curve need consider context economic financial
+indicator .
+couple participant comment issue related
+operating framework implementation
+monetary policy , include , among thing , implication change financial market regulation
+demand reserve size composition Federal Reserveâs balance sheet . participant judged would important Committee resume discussion operating framework
+long . Chairman suggest Committee would likely resume discussion operating
+framework fall .
+Many participant note would likely appropriate not-too-distant future revise Committeeâs characterization stance monetary policy
+postmeeting statement . agree statementâs language âthe stance monetary policy remains accommodativeâ would , point fairly
+soon , longer appropriate . Participants note
+federal fund rate move closer range
+estimate neutral level . number participant
+emphasize considerable uncertainty estimate
+neutral rate interest , stem source
+fiscal policy large-scale asset purchase program .
+background , continue provide explicit assessment federal fund rate relative
+neutral level could convey false sense precision .
+Committee Policy Action
+discussion monetary policy period
+ahead , member judged information receive since
+FOMC met June indicate labor market
+continued strengthen economic activity
+rise strong rate . Job gain
+strong , average , recent month , unemployment rate stayed low . Household spending
+business fix investment grown strongly .
+
+_
+
+_
+
+Minutes Meeting July 31âAugust 1 , 2018
+
+12-month basis , overall inflation inflation
+item food energy remain near 2 percent . Indicators longer-term inflation expectation
+little change , balance .
+Policymakers view recent data indicate
+outlook economy evolve
+expect . Consequently , member expect
+gradual increase target range federal fund rate would consistent sustain expansion economic activity , strong labor market condition , inflation near Committeeâs symmetric
+2 percent objective medium term . Members
+continued judge risk economic outlook appear roughly balance .
+assess incoming data , current condition ,
+outlook economic activity , labor market ,
+inflation , member agree maintain target
+range federal fund rate 1Â¾ 2 percent .
+note stance monetary policy remain accommodative , thereby support strong labor market
+condition sustain return 2 percent inflation .
+Members agree timing size future adjustment target range federal fund rate
+would depend assessment realize expect economic condition relative objective
+maximum employment 2 percent inflation . reiterate assessment would take account
+wide range information , include measure labor
+market condition , indicator inflation pressure
+inflation expectation , reading financial international development .
+conclusion discussion , Committee
+vote authorize direct Federal Reserve Bank
+New York , instruct otherwise , execute transaction SOMA accordance
+follow domestic policy directive , release
+2:00 p.m. :
+âEffective August 2 , 2018 , Federal Open
+Market Committee directs Desk undertake open market operation necessary
+maintain federal fund rate target range
+1Â¾ 2 percent , include overnight reverse
+repurchase operation ( and reverse repurchase
+operation maturity one day
+necessary accommodate weekend , holiday , similar trading convention ) offering rate 1.75 percent , amount limited
+value Treasury security held outright
+System Open Market Account
+
+Page 11
+
+available operation per-counterparty limit $ 30 billion per day .
+Committee directs Desk continue
+roll auction amount principal
+payment Federal Reserveâs holding
+Treasury security mature calendar month exceeds $ 24 billion , reinvest agency mortgage-backed security
+amount principal payment Federal
+Reserveâs holding agency debt agency
+mortgage-backed security receive
+calendar month exceeds $ 16 billion .
+Small deviation amount operational reason acceptable .
+Committee also directs Desk engage
+dollar roll coupon swap transaction
+necessary facilitate settlement Federal
+Reserveâs agency mortgage-backed security
+transactions.â
+vote also encompass approval statement
+release 2:00 p.m. :
+âInformation receive since Federal Open
+Market Committee met June indicates
+labor market continued strengthen
+economic activity rise
+strong rate . Job gain strong , average , recent month , unemployment
+rate stayed low . Household spending
+business fix investment grown strongly .
+12-month basis , overall inflation
+inflation item food energy
+remain near 2 percent . Indicators longerterm inflation expectation little change ,
+balance .
+Consistent statutory mandate , Committee seek foster maximum employment
+price stability . Committee expect
+gradual increase target range
+federal fund rate consistent
+sustain expansion economic activity ,
+strong labor market condition , inflation
+near Committeeâs symmetric 2 percent objective medium term . Risks economic outlook appear roughly balance .
+view realize expect labor market
+condition inflation , Committee decide maintain target range federal
+fund rate 1Â¾ 2 percent . stance
+monetary policy remains accommodative ,
+
+Page 12
+
+Federal Open Market Committee
+
+thereby support strong labor market condition sustain return 2 percent inflation .
+determine timing size future adjustment target range federal
+fund rate , Committee ass realize
+expect economic condition relative
+maximum employment objective symmetric 2 percent inflation objective . assessment take account wide range
+information , include measure labor market condition , indicator inflation pressure
+inflation expectation , reading financial international developments.â
+Voting action : Jerome H . Powell , John C . Williams , Thomas I . Barkin , Raphael W . Bostic , Lael
+Brainard , Esther L . George , Loretta J . Mester , Randal K . Quarles .
+Voting action : None .
+Ms . George vote alternate member meeting .
+Consistent Committeeâs decision leave
+target range federal fund rate unchanged ,
+
+second vote Board also encompass approval
+establishment interest rate secondary seasonal credit exist formula compute
+rate .
+
+6
+
+Board Governors vote unanimously leave interest rate require excess reserve balance unchanged 1.95 percent vote unanimously approve establishment primary credit rate ( discount
+rate ) exist level 2Â½ percent , effective August 2 , 2018 . 6
+agree next meeting Committee
+would held TuesdayâWednesday , September 25â
+26 , 2018 . meeting adjourn 9:45 a.m . August 1 , 2018 .
+Notation Vote
+notation vote complete July 3 , 2018 , Committee unanimously approve minute Committee meeting held June 12â13 , 2018 .
+
+_____________________________
+James A . Clouse
+Secretary
+
+_
+
+

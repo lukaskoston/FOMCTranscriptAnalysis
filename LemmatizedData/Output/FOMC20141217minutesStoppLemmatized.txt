@@ -1,0 +1,2713 @@
+Page 1
+_____________________________________________________________________________________________
+
+Minutes Federal Open Market Committee
+December 16â17 , 2014
+meeting Federal Open Market Committee
+held office Board Governors
+Federal Reserve System Washington , D.C. ,
+Tuesday , December 16 , 2014 , 1:00 p.m . continued
+Wednesday , December 17 , 2014 , 9:00 a.m .
+PRESENT :
+Janet L . Yellen , Chair
+William C . Dudley , Vice Chairman
+Lael Brainard
+Stanley Fischer
+Richard W . Fisher
+Narayana Kocherlakota
+Loretta J . Mester
+Charles I . Plosser
+Jerome H . Powell
+Daniel K . Tarullo
+Christine Cumming , Charles L . Evans , Jeffrey M .
+Lacker , Dennis P . Lockhart , John C . Williams ,
+Alternate Members Federal Open Market
+Committee
+James Bullard , Esther L . George , Eric Rosengren ,
+Presidents Federal Reserve Banks
+St . Louis , Kansas City , Boston , respectively
+William B . English , Secretary Economist
+Matthew M . Luecke , Deputy Secretary
+Michelle A . Smith , Assistant Secretary
+Scott G . Alvarez , General Counsel
+Steven B . Kamin , Economist
+David W . Wilcox , Economist
+James A . Clouse , Thomas A . Connors , Evan F .
+Koenig , Thomas Laubach , Michael P . Leahy ,
+Paolo A . Pesenti , Samuel Schulhofer-Wohl , Mark
+E . Schweitzer , William Wascher , Associate
+Economists
+
+Michael S . Gibson , Director , Division Banking
+Supervision Regulation , Board Governors
+Stephen A . Meyer William R . Nelson , Deputy
+Directors , Division Monetary Affairs , Board
+Governors
+Andreas Lehnert , Deputy Director , Office Financial
+Stability Policy Research , Board Governors
+Andrew Figura , David Reifschneider , Stacey
+Tevlin , Special Advisers Board , Office
+Board Members , Board Governors
+Trevor A . Reeve , Special Adviser Chair , Office
+Board Members , Board Governors
+Linda Robertson , Assistant Board , Office
+Board Members , Board Governors
+Christopher J . Erceg , Senior Associate Director ,
+Division International Finance , Board
+Governors
+Michael T . Kiley , Senior Adviser , Division Research
+Statistics , Senior Associate Director ,
+Office Financial Stability Policy Research ,
+Board Governors
+Ellen E . Meade Joyce K . Zickler , Senior Advisers ,
+Division Monetary Affairs , Board Governors
+Daniel M . Covitz , Eric M . Engen , Diana Hancock ,
+Associate Directors , Division Research Statistics , Board Governors
+
+Simon Potter , Manager , System Open Market Account
+
+David Lopez-Salido , Deputy Associate Director ,
+Division Monetary Affairs , Board Governors ;
+John J . Stevens , Deputy Associate Director ,
+Division Research Statistics , Board
+Governors
+
+Lorie K . Logan , Deputy Manager , System Open
+Market Account
+
+Stephanie R . Aaronson , Assistant Director , Division
+Research Statistics , Board Governors
+
+Robert deV . Frierson,1 Secretary Board , Office
+Secretary , Board Governors
+
+________________
+
+Attended joint session Federal Open Market
+Committee Board Governors .
+1
+
+Page 2
+Federal Open Market Committee
+_____________________________________________________________________________________________
+
+Robert J . Tetlow , Adviser , Division Monetary Affairs , Board Governors
+Elizabeth Klee , Section Chief , Division Monetary
+Affairs , Board Governors
+Katie Ross,1 Manager , Office Secretary , Board
+Governors
+Achilles Sangster II , Information Management Analyst ,
+Division Monetary Affairs , Board Governors
+Kelly J . Dubbert , First Vice President , Federal Reserve
+Bank Kansas City
+David Altig Alberto G . Musalem , Executive Vice
+Presidents , Federal Reserve Banks Atlanta
+New York , respectively
+Michael Dotsey , Geoffrey Tootell , Christopher J .
+Waller , Senior Vice Presidents , Federal Reserve
+Banks Philadelphia , Boston , St . Louis ,
+respectively
+Hesna Genay , Douglas Tillett , Robert G . Valletta ,
+Alexander L . Wolman , Vice Presidents , Federal
+Reserve Banks Chicago , Chicago , San Francisco ,
+Richmond , respectively
+Willem Van Zandweghe , Assistant Vice President ,
+Federal Reserve Bank Kansas City
+________________
+
+Attended joint session Federal Open Market
+Committee Board Governors .
+1
+
+Developments Financial Markets Federal Reserveâs Balance Sheet
+joint session Federal Open Market Committee ( FOMC ) Board Governors Federal
+Reserve System , manager System Open Market Account ( SOMA ) report development domestic foreign financial market well System
+open market operation conduct period
+since Committee met October 28â29 , 2014 .
+addition , manager review implication recent foreign central bank policy action international portion SOMA portfolio . manager also
+provide update staff work related potential arrangement would allow depository institution
+
+pledge fund held segregate account Federal
+Reserve collateral borrowing transaction private creditor could potentially provide additional supplementary tool policy normalization .
+review , staff analysis suggest
+account involve number operational , regulatory ,
+policy issue . issue raise question
+accountsâ possible effectiveness would difficult resolve timely fashion . therefore decide work implement account
+would shelve now .
+deputy manager follow discussion
+outcome recent test supplementary normalization tool , namely Term Deposit Facility ( TDF )
+term overnight reverse repurchase agreement ( term
+RRPs RRPs , respectively ) . Regarding TDF
+testing , introduction early withdrawal option
+lead significant increase number participate
+depository institution take-up relative earlier
+operation without feature . expect , participation take-up operation continued
+sensitive offering rate maximum individual
+award amount . Open Market Desk successfully
+conduct first two four preannounced term RRP
+operation extend across end year help
+address expect downward pressure short-term
+rate . Commentary market participant suggest
+operation may help alleviate volatility short-term rate would otherwise expect around year-end . Regarding RRP
+testingâduring offer rate varied 3 10 basis pointsâincreases offer rate
+appear put upward pressure unsecured
+money market rate , anticipate , offer rate
+continued provide soft floor secure rate .
+Changes spread rate paid reserve
+RRP offer rate appear affect
+volume activity federal fund market .
+test RRPs informative , staff
+suggest additional test could improve
+understand supplementary tool could
+use achieve great control federal fund rate
+policy normalization . Accordingly , participant
+discuss draft resolution extend Deskâs authority conduct RRP exercise 12 month beyond expiration current authorization January 30 , 2015 . note one-year extension
+one-year test program practical
+step signal nothing either timing
+start policy normalization long RRP
+facility might need .
+
+Minutes Meeting December 16â17 , 2014
+Page 3
+_____________________________________________________________________________________________
+
+Following discussion extension RRP
+test operation , Committee unanimously approve
+follow resolution :
+
+Board meeting conclude end discussion development financial market Federal Reserveâs balance sheet .
+
+âThe Federal Open Market Committee
+( FOMC ) authorizes Federal Reserve Bank
+New York conduct series overnight
+reverse repurchase operation involve U.S .
+government security purpose assess appropriate structure
+operation support implementation monetary policy normalization . reverse repurchase operation authorize resolution shall ( i ) conduct offering rate may vary
+zero five basis point ; ( ii ) overnight
+term longer term warrant
+accommodate weekend , holiday , similar
+trading convention ; ( iii ) subject percounterparty limit $ 30 billion per day ;
+( iv ) subject overall size limit
+$ 300 billion per day ; ( v ) award
+submitter ( A ) specify offering rate
+sum bid receive less
+equal overall size limit , ( B )
+stop-out rate , determine evaluate bid
+ascend order submit rate
+point total quantity bid equal
+overall size limit , bid
+rate award full stop-out rate
+bid stop-out rate award pro rata
+basis , sum counterparty offer receive great overall size limit .
+Chair must approve change offering rate within range specify ( i )
+change per-counterparty overall size limit subject limit specify
+( iii ) ( iv ) . System Open Market Account manager notify FOMC advance change offering rate ,
+per-counterparty limit , overall size limit apply operation . operation shall
+authorize one additional year beyond
+previously authorize end dateâthat be ,
+January 29 , 2016.â
+
+Staff Review Economic Situation
+information review December 16â17
+meeting suggest economic activity increase
+moderate pace fourth quarter labor
+market condition improve far . Consumer
+price inflation continued run FOMCâs
+longer-run objective 2 percent , partly restrain
+decline energy price . Market-based measure inflation compensation move low , survey measure
+longer-run inflation expectation remain stable .
+
+unanimous vote , Committee ratify Deskâs
+domestic transaction intermeeting period .
+intervention operation foreign currency Systemâs account intermeeting period .
+
+Total nonfarm payroll employment expand October November faster pace third quarter . unemployment rate edge 5.8 percent
+October remain level November .
+labor force participation rate employment-to-population ratio rise slightly , share
+worker employ part time economic reason decline . rate private-sector job opening stay ,
+balance , recent elevate level September
+October , rate hire quits step
+net .
+Industrial production rise October November ,
+lead strong increase manufacturing output . Automakersâ schedule indicate pace light motor vehicle assembly would move somewhat
+first quarter , broader indicator manufacturing
+production , reading new order
+national regional manufacturing survey , generally consistent solid gain factory output
+near term .
+Real personal consumption expenditure ( PCE ) appear rise robustly fourth quarter .
+component nominal retail sale data use construct estimate PCE rise strongly October
+November , light motor vehicle sale increase noticeably . Key factor influence household spending
+point toward solid PCE growth . Real disposable income rise October , energy price continued decline , householdsâ net worth likely increase
+home value advanced , consumer sentiment
+early December Thomson Reuters/University
+Michigan Surveys Consumers high
+level since recent recession .
+pace activity housing sector generally
+remain slow . start permit new single-
+
+Page 4
+Federal Open Market Committee
+_____________________________________________________________________________________________
+
+family home increase little , balance , October November . Starts multifamily unit decline , net , past two month . Sales new
+exist home rise modestly October .
+Real private expenditure business equipment intellectual property appear decelerate
+fourth quarter . Nominal order shipment nondefense capital good exclude aircraft decline October . However , new order capital good remain level shipment , forwardlooking indicator , national regional survey
+business condition , generally consistent
+modest near-term gain business equipment spending .
+Firmsâ nominal spending nonresidential structure
+edge October rise slightly third
+quarter .
+Data October November point toward decline real federal government purchase fourth
+quarter surprisingly large third-quarter increase .
+Real state local government purchase appear
+rise modestly fourth quarter payroll
+construction expenditure increase little recent
+month .
+U.S . international trade deficit little change
+October , export import rise . gain
+export concentrate aircraft capital
+good , increase import reflect pickup
+purchase automotive product computer .
+October deficit remain wider
+monthly average third quarter , real net export
+look decline fourth quarter .
+total U.S . consumer price inflation , measure
+PCE price index , core inflation , measure
+PCE price exclude food energy ,
+1Â½ percent 12 month end October ; consumer energy price decline , consumer food
+price rise overall price .
+12 month end November , total inflation measure consumer price index ( CPI ) 1Â¼ percent ,
+partly reflect decline energy price ,
+core CPI inflation 1Â¾ percent . Measures
+expect long-run inflation variety survey , include Michigan survey , Blue Chip Economic Indicators , Survey Professional Forecasters ,
+Deskâs Survey Primary Dealers , remain stable .
+contrast , market-based measure inflation compensation move low .
+Labor compensation continued increase little
+faster consumer price . Compensation per hour
+
+nonfarm business sector rise 2 percent
+year end third quarter . Similar rate
+increase observe employment cost index
+year-long period average hourly
+earnings employee 12 month end
+November .
+Overall growth foreign real gross domestic product
+( GDP ) remain subdue third quarter .
+advanced foreign economy , real GDP contract
+second consecutive quarter Japan , rise slightly
+euro area , continued expand moderately
+Canada United Kingdom . emerge market economy , economic growth slow Mexico
+third quarter remain sluggish Brazil ; economic growth China likely slow moderately
+fourth quarter . Oil price continued decline , likely reflect favorable supply development well
+weaken global demand . Inflation advanced
+foreign economy remain quite low intermeeting period , partly fall oil price .
+Declining oil price small effect inflation
+emerge market economy , reflect great
+prevalence administer energy price .
+Staff Review Financial Situation
+intermeeting period , market participant become bit optimistic U.S . economic prospect also respond economic policy development abroad . sharp decline oil price
+weigh inflation compensation left mixed imprint asset market . net , yield longerterm Treasury security fell , corporate bond spread
+widen , equity price little change , foreign exchange value dollar appreciate .
+Economic data release reinforce view market
+participant U.S . economic recovery continued
+gain momentum . addition , investor appear
+read October FOMC statement suggest
+slightly less accommodative path future monetary
+policy previously expect .
+Results December Survey Primary Dealers
+indicate dealersâ expectation timing
+first increase federal fund target range
+subsequent policy path little change October survey . average probability distribution
+expect date liftoff continued imply
+likely date would around middle 2015 ,
+distribution narrow slightly compare
+previous survey .
+
+Minutes Meeting December 16â17 , 2014
+Page 5
+_____________________________________________________________________________________________
+
+Longer-term nominal Treasury yield decline significantly , balance , intermeeting period .
+Measures inflation compensation base Treasury
+Inflation-Protected Securities inflation swap decrease , reportedly reflect , part , decline oil
+price increase concern global economic
+growth .
+Broad U.S . equity price index unchanged
+intermeeting period . Option-implied volatility
+one-month return S & P 500 indexâthe
+VIXârose sharply late period level close
+mid-October . Investment- speculativegrade corporate bond spread widen period .
+Spreads speculative-grade bond energy-related
+firm rise substantially pronounce decline oil price .
+Business financing flow robust intermeeting period . Gross bond issuance nonfinancial
+corporation strong year .
+Nonfinancial commercial paper outstanding expand
+noticeably November , compensate
+slowdown October . Commercial industrial loan
+banksâ book continued expand briskly . addition , issuance leveraged loan collateralize
+loan obligation strong October November .
+Financing commercial real estate ( CRE ) remain
+broadly available . CRE loan banksâ book expand
+moderate pace October November , issuance commercial mortgage-backed security ( CMBS )
+strong . According December Senior Credit
+Officer Opinion Survey Dealer Financing Terms ,
+broker-dealer ease somewhat term
+finance CMBS most-favored client .
+Measures residential mortgage lending condition
+little change intermeeting period . Credit
+condition mortgage remain tight borrower
+less-than-pristine credit . Interest rate 30-year
+fixed-rate mortgage decline , consistent move
+longer-term Treasury yield . Refinancing activity
+subdue .
+Financing condition consumer credit market generally stayed accommodative . Auto student loan balance expand robustly October , revolve
+credit balance increase moderate pace . Issuance
+consumer asset-backed security strong
+fourth quarter .
+Reflecting divergent economic monetary policy
+prospect United States abroad , dollar appreciate substantially currency
+
+intermeeting period . dollar move significantly
+yen Bank Japan expand asset
+purchase program well currency oil
+exporter oil price decline . period , market
+participant seem conclude monetary policy
+Europe likely put accommodative
+path , 10-year yield Germany United
+Kingdom decline far . German yield fell new
+record low , spread euro-area peripheral bond
+yield narrow . Changes stock price
+abroad mixed , net , intermeeting period :
+large increase Japan China along
+large decrease oil-exporting country , Canada , Mexico , Russia .
+Late intermeeting period , follow sharp fall
+oil price , Russian ruble depreciate rapidly
+substantially , prompt Russian central bank ,
+already raise policy rate early November ,
+raise rate twice five day , recent increase follow unscheduled policy meeting
+December 15 .
+Staff Economic Outlook
+staff forecast prepared December FOMC
+meeting , real GDP growth second half 2014
+high projection October meeting , largely reflect stronger-than-expected data
+PCE . Nevertheless , real GDP growth anticipate
+slow fourth quarter net export
+federal government purchasesâimportant positive contributor real GDP growth third quarterâwere
+anticipate drop back . staffâs medium-term forecast real GDP growth revise little net .
+project path oil price low , trajectory equity price bit high . although
+project path dollar revise up , staff
+revise estimate much appreciation
+dollar since last summer would restrain project
+growth real GDP . staff continued forecast
+real GDP would expand faster pace 2015
+2016 year would rise
+quickly potential output , support increase
+consumer business confidence pickup foreign economic growth , along monetary policy
+assume remain highly accommodative
+time . 2017 , real GDP growth project begin
+slow toward , remain above , rate potential output growth normalization monetary policy assume proceed . expansion economic activity medium term anticipate
+slowly reduce resource slack , unemployment
+rate expect decline gradually temporarily
+
+Page 6
+Federal Open Market Committee
+_____________________________________________________________________________________________
+
+move slightly staffâs estimate longer-run
+natural rate .
+staffâs forecast inflation near term revise reflect large energy price decline since October FOMC meeting , anticipate lead temporary decrease total PCE
+price index late year early next year . staffâs
+inflation projection next year essentially
+unchanged ; staff continued project inflation
+would move gradually toward , run somewhat below , Committeeâs longer-run objective 2 percent .
+Nevertheless , inflation project reach Committeeâs objective time , longer-run inflation
+expectation assume remain stable , price energy
+non-oil import forecast begin rise next year ,
+slack labor product market anticipate diminish slowly .
+staff view uncertainty around projection
+real GDP growth , unemployment rate , inflation similar average past 20 year .
+risk forecast real GDP growth inflation
+view tilt little downside , reflect
+staffâs assessment neither monetary policy
+fiscal policy well position help economy
+withstand adverse shock . time , staff
+view risk around outlook unemployment rate roughly balance .
+Participantsâ Views Current Conditions
+Economic Outlook
+conjunction FOMC meeting , member
+Board Governors Federal Reserve Bank
+president submit projection likely
+outcome real GDP growth , unemployment rate ,
+inflation , federal fund rate year
+2014 2017 longer run , conditional
+participantâs judgment appropriate monetary
+policy . longer-run projection represent participantâs assessment rate variable
+would expect converge , time , appropriate monetary policy absence
+shock economy . economic projection
+policy assessment described Summary
+Economic Projections ( SEP ) , attach addendum minute .
+discussion economic situation
+outlook , meeting participant regard information
+receive intermeeting period support
+view economic activity expand moderate
+pace . Labor market condition improve far ,
+
+solid job gain low unemployment rate ; participant judged underutilization labor resource
+continue diminish . Participants expect that ,
+medium term , real economic activity would increase pace sufficient lead improvement labor market indicator toward level consistent Committeeâs objective maximum employment . Inflation continue run
+Committeeâs longer-run objective , reflect part continued reduction oil price fall import price .
+Market-based measure inflation compensation decline far , survey-based measure longerterm inflation expectation remain stable . Participants
+generally anticipate inflation would rise gradually
+toward Committeeâs 2 percent objective labor
+market improve transitory effect
+low energy price factor dissipate .
+risk outlook economic activity labor
+market see nearly balance . participant
+suggest recent domestic economic data
+increase confidence outlook growth go forward . Participants generally regard net effect recent decline energy price likely
+positive economic activity employment . However , many thought deterioration
+foreign economic situation could result slow
+domestic economic growth currently expect .
+Household spending continued advance intermeeting period , report contact several
+part country indicate recent retail auto
+sale robust . Many participant point relatively high level consumer confidence signal
+near-term strength discretionary consumer spending ,
+participant judged recent significant
+decline energy price would provide boost consumer spending . Participants also cite solid gain
+payroll employment , low interest rate , decline
+level household debt relative income factor
+expect support continued growth consumer spending . contrast , residential construction
+continued slow , recent reading singlefamily building permit suggest sluggishness
+likely continue short run .
+Industry contact point generally solid business
+condition , business many part country
+express optimism prospect
+improvement 2015 . Manufacturing activity
+strong , indicate index industrial production
+variety regional report . Information
+region point pickup capital investment ,
+although continued decline oil price lead business
+
+Minutes Meeting December 16â17 , 2014
+Page 7
+_____________________________________________________________________________________________
+
+contact expect slowdown drilling activity and ,
+price remain low , reduce capital investment oil
+gas industry . agricultural sector , robust
+fall harvest reportedly lower crop price ; operating
+margin food processing farm equipment business narrowing , put stress producer .
+discussion foreign economic outlook , participant note implication drop crude
+oil price would differ across region , especially
+price decline affected inflation expectation financial market ; participant say effect
+overseas employment output whole likely
+positive . participant lower
+assessment prospect global economic
+growth , several note likelihood response policymakers abroad increase . Several
+participant indicate expect slow economic growth abroad negatively affect U.S . economy , principally low net export , net
+effect low oil price U.S . economic activity
+anticipate positive .
+Participants saw broad-based improvement labor
+market condition intermeeting period , include solid gain payroll employment , slight reduction
+unemployment rate , increase rate
+hire quits . Positive signal also see
+decline share worker employ part time
+economic reason increase labor force
+participation rate . favorable trend notwithstanding , level measure suggest participant remain labor market slack
+indicate unemployment rate alone .
+However , others continued view unemployment rate reliable indicator overall labor market
+condition saw narrower degree labor underutilization remain . Although participant suggest recent uptick employment cost index average hourly earnings could tentative sign
+upturn wage growth , participant saw
+clear evidence broad-based acceleration wage .
+couple participant , however , point weak
+statistical relationship wage inflation labor
+market condition , suggest pace wage inflation provide relatively little information
+degree labor underutilization .
+Participants generally anticipate inflation likely
+decline near term , reflect reduction oil price effect rise foreign
+
+exchange value dollar import price . participant saw influence temporary thus
+continued expect inflation move back gradually
+Committeeâs 2 percent longer-run objective
+labor market improve environment
+well-anchored inflation expectation . Survey-based
+measure longer-term inflation expectation remain
+stable , although market-based measure inflation
+compensation next five year , well
+five-year period begin five year ahead , move
+intermeeting period . Participants
+discuss various explanation decline marketbased measure , include fall expect future inflation , reduction inflation risk premium , high
+liquidity premium might influence
+price Treasury Inflation-Protected Securities
+inflation derivative . Model-based decomposition
+inflation compensation seem support message
+survey longer-term inflation expectation
+remain stable , although observe result sensitive assumption underlie
+particular model use . note even decline inflation compensation reflect low inflation
+risk premium rather reduction expect inflation , policymakers might still want take account change could reflect increase concern part investor adverse outcome
+low inflation accompany weak economic activity . end , participant generally agree
+would take time analysis draw definitive conclusion regard recent behavior inflation compensation .
+discussion financial market development ,
+participant observe movement asset price
+intermeeting period appear importantly influence concern prospect
+foreign economic growth associate expectation
+monetary policy action Europe Japan . couple participant remark apparent disparity
+market-based measure expect future U.S .
+short-term interest rate projection short-term
+rate base survey base median federal
+fund rate projection SEP . One participant note
+low term premium market-based measure
+might explain least portion gap . Another
+possibility market-based measure might assign considerable weight less favorable outcome
+U.S . economy federal fund rate
+would remain low quite time fall back
+low level future , whereas projection
+SEP report path federal fund rate
+
+Page 8
+Federal Open Market Committee
+_____________________________________________________________________________________________
+
+participant see appropriate give view
+likely evolution inflation real activity .
+Participants discuss number risk economic
+outlook . Many participant regard international
+situation important source downside risk domestic real activity employment , particularly decline oil price persistence weak economic
+growth abroad substantial negative effect global
+financial market foreign policy response insufficient . However , downside risk see
+nearly balance risk upside . Several participant , point indicator consumer business
+confidence well solid record payroll employment gain 2014 , suggest real economy
+may end show momentum anticipate ,
+others thought boost domestic
+spending come low energy price could turn
+quite large . regard inflation , number
+participant saw risk could run persistently
+2 percent objective , express
+concern outcome could undermine
+credibility Committeeâs commitment objective . participant worried recent
+substantial fall energy price could lead reduction
+longer-term inflation expectation , others
+concerned decline market-based measure
+inflation compensation might reflect , part ,
+decline already begin . However , couple others
+note unemployment rate continued decline quickly , wage price inflation could rise
+generally anticipate .
+discussion communication regard
+path federal fund rate medium term ,
+participant conclude update Committeeâs forward guidance would appropriate light
+conclusion asset purchase program October
+progress economy make toward Committeeâs objective . participant
+agree would useful state Committee judge patient begin normalize
+stance monetary policy ; note language would provide flexibility adjust policy
+response incoming information previous language , tie begin normalization
+end asset purchase program . approach
+see consistent , give Committeeâs assessment economic outlook current meeting ,
+Committeeâs previous statement . participant thought reference patience indicate
+Committee unlikely begin normalization
+process least next couple meeting .
+
+participant regard revise language risk
+unwarranted concentration market expectation
+timing initial increase federal fund rate
+target narrow range date around mid-2015 ,
+adequately allow possibility economic condition might evolve way could call
+either earlier later liftoff date . participant suggest statement focus
+economic condition would likely accompany
+decision raise rate . Participants generally stress
+need communicate timing first increase
+federal fund rate would depend incoming
+data implication Committeeâs assessment progress toward objective maximum employment inflation 2 percent . low energy
+price strong dollar likely keep inflation target time , note Committee might begin normalization time core inflation near current level , although circumstance participant would want reasonably confident inflation move back toward 2 percent
+time .
+participant spoke importance explain
+public economic financial condition
+would influence Committeeâs decision regard
+appropriate path federal fund rate normalization begin . note extent
+guidance effectively communicate , precise
+date liftoff becomes less important economic outcome . regard , participant emphasize
+policy still highly accommodative time
+first increase federal fund rate target ,
+give difference current set
+federal fund rate target range Committeeâs view
+longer-run normal rate well Federal Reserveâs elevate holding longer-term security .
+Committee Policy Action
+discussion monetary policy period
+ahead , member judged information receive since
+FOMC met October indicate economic activity expand moderate pace . Labor market
+condition improve far , solid job gain
+low unemployment rate ; take whole , labor
+market indicator suggest underutilization
+labor resource continue diminish . Household
+spending rise moderately business fix investment advancing , recovery housing sector remain slow . Inflation continued run
+Committeeâs longer-run objective , part reflect decline energy price .
+Market-based
+
+Minutes Meeting December 16â17 , 2014
+Page 9
+_____________________________________________________________________________________________
+
+measure inflation compensation decline somewhat far , survey-based measure longer-term
+inflation expectation remain stable . Committee expect that , appropriate monetary policy
+accommodation , economic activity would continue
+expand moderate pace , labor market indicator
+move toward level Committee judge consistent
+dual mandate . Committee also expect
+inflation would rise gradually toward 2 percent
+labor market improves transitory effect low energy price factor dissipate .
+discussion language postmeeting statement , member generally agree
+acknowledge broad improvement labor market
+condition intermeeting period well
+judgment labor market slack continued diminish .
+addition , decide statement note
+low level inflation see late partly reflect
+recent decline energy price . Committee
+modify previous statement language make clear
+expect inflation rise gradually toward
+2 percent labor market improves
+transitory effect low energy price factor dissipate . Given uncertainty outlook
+inflation , member decide would appropriate indicate Committee continue monitor inflation development closely .
+Committee agree maintain target range
+federal fund rate 0 Â¼ percent reaffirm
+indication statement Committeeâs
+decision long maintain current target
+range federal fund rate would depend
+assessment actual expect progress toward
+objective maximum employment 2 percent
+inflation .
+member agree update
+Committeeâs forward guidance language indicate
+judge patient begin
+normalize stance monetary policy . order
+avoid misinterpretation new word
+reflect change Committeeâs policy intention ,
+statement include sentence indicate
+Committee see guidance consistent
+previous statement likely appropriate
+maintain 0 1/4 percent target range federal
+fund rate considerable time follow end
+asset purchase program October , especially
+project inflation continue run
+Committeeâs 2 percent longer-run goal , provide
+longer-term inflation expectation remain well
+anchor . Two member thought forward
+guidance take sufficient account progress
+
+make toward Committeeâs objective ,
+one want strengthen forward guidance
+order underscore Committeeâs commitment
+2 percent inflation objective . Members agree
+policy decision would remain data dependent ,
+continued include word statement note
+incoming information indicates faster progress
+toward Committeeâs employment inflation
+objective Committee expect ,
+increase target range federal fund rate
+would likely occur sooner currently anticipate ,
+and , similarly , progress prof slow
+expect , increase target range would likely
+occur later currently anticipate . Committee
+decide maintain policy reinvesting principal
+payment holding agency debt agency
+mortgage-backed security agency mortgage-backed
+security roll mature Treasury
+security auction . policy , keep
+Committeeâs holding longer-term security sizable
+level , help maintain accommodative financial
+condition . Finally , Committee also decide
+reiterate expectation that , even employment
+inflation near mandate-consistent level , economic
+condition may , time , warrant keep
+target federal fund rate level Committee
+view normal longer run . conclusion
+discussion , Committee vote authorize
+direct Federal Reserve Bank New York ,
+instruct otherwise , execute transaction
+SOMA accordance follow domestic policy
+directive :
+âConsistent statutory mandate ,
+Federal Open Market Committee seek
+monetary financial condition
+foster maximum employment price
+stability . particular , Committee seek
+condition reserve market consistent
+federal fund trading range 0
+Â¼ percent . Committee directs Desk
+undertake open market operation
+necessary maintain condition .
+Committee directs Desk maintain
+policy roll mature Treasury
+security new issue policy
+reinvesting principal payment agency
+debt agency mortgage-backed security
+agency mortgage-backed security .
+Committee also directs Desk engage
+dollar roll coupon swap transaction
+necessary facilitate settlement
+
+Page 10
+Federal Open Market Committee
+_____________________________________________________________________________________________
+
+Federal Reserveâs agency mortgage-backed
+security transaction . System Open
+Market Account manager secretary
+keep Committee inform ongoing
+development regard Systemâs balance
+sheet could affect attainment
+time Committeeâs objective
+maximum employment price stability.â
+vote encompass approval statement
+release 2:00 p.m. :
+âInformation receive since Federal Open
+Market Committee met October suggests
+economic activity expand
+moderate pace . Labor market condition
+improve far , solid job gain
+low unemployment rate . balance ,
+range labor market indicator suggests
+underutilization labor resource continue
+diminish . Household spending rise
+moderately business fix investment
+advancing , recovery housing
+sector remains slow . Inflation continued
+run Committeeâs longer-run
+objective , partly reflect decline energy
+price . Market-based measure inflation
+compensation decline somewhat
+far ; survey-based measure longerterm inflation expectation remain
+stable .
+Consistent statutory mandate ,
+Committee seek foster maximum
+employment price stability .
+
+Committee expect that , appropriate
+policy accommodation , economic activity
+expand moderate pace , labor market
+indicator move toward level
+Committee judge consistent dual
+mandate . Committee see risk
+outlook economic activity labor
+market nearly balance . Committee
+expect inflation rise gradually toward
+2 percent labor market improves
+transitory effect low
+energy price factor dissipate .
+Committee continue monitor inflation
+development closely .
+support continued progress toward
+maximum employment price stability ,
+Committee today reaffirm view
+current 0 Â¼ percent target range
+
+federal fund rate remains appropriate .
+determine long maintain target
+range , Committee ass progressâ
+realize expectedâtoward
+objective maximum employment
+2 percent inflation . assessment take
+account wide range information ,
+include measure labor market
+condition , indicator inflation pressure
+inflation expectation , reading
+financial development . Based current
+assessment , Committee judge
+patient begin normalize
+stance monetary policy . Committee
+see guidance consistent
+previous statement likely
+appropriate maintain 0 Â¼ percent
+target range federal fund rate
+considerable time follow end
+asset purchase program October , especially
+project inflation continue run
+Committeeâs 2 percent longer-run goal ,
+provide longer-term inflation
+expectation remain well anchor . However ,
+incoming information indicates faster
+progress
+toward
+
+Committeeâs
+employment inflation objective
+Committee expect , increase
+target range federal fund rate likely
+occur sooner currently anticipate .
+Conversely , progress prof slow
+expect , increase target range
+likely occur later currently anticipate .
+Committee maintain exist
+policy reinvesting principal payment
+holding agency debt agency
+mortgage-backed security agency
+mortgage-backed security roll
+mature Treasury security auction .
+policy , keep Committeeâs
+holding longer-term security sizable
+level , help maintain accommodative
+financial condition .
+Committee decides begin
+remove policy accommodation , take
+balance approach consistent longerrun goal maximum employment
+inflation 2 percent . Committee
+currently anticipates that , even
+employment inflation near mandateconsistent level , economic condition may ,
+
+Minutes Meeting December 16â17 , 2014
+Page 11
+_____________________________________________________________________________________________
+
+time , warrant keep target
+federal fund rate level Committee
+view normal longer run.â
+Voting action : Janet L . Yellen , William C .
+Dudley , Lael Brainard , Stanley Fischer , Loretta J . Mester ,
+Jerome H . Powell , Daniel K . Tarullo .
+Voting action : Richard W . Fisher ,
+Narayana Kocherlakota , Charles I . Plosser .
+Mr . Fisher agree Committee patient
+begin normalize stance monetary policy . dissent saw improvement
+U.S . economic outlook since October indicate
+likely appropriate increase federal
+fund rate sooner Committeeâs current statement envisions .
+Mr . Kocherlakota dissent believe
+Committeeâs decision statement respond
+ongoing below-target inflation fall market-based
+measure longer-term inflation expectation .
+judgment , credibility Committeeâs 2 percent
+inflation target risk , call accommodative policy stance .
+Mr . Plosser dissent two reason . believe
+Committeeâs policy guidance data
+dependent focus time . view , im
+
+provement economic condition occur
+course year great anticipate ,
+believe statement communicate
+measurable probability liftoff may occur first quarter next year , even likely
+scenario normalization begin around midyear .
+believe wait long raise rate
+could lead need more-aggressive policy
+future , could potentially lead unnecessary volatility instability .
+agree next meeting Committee
+would held TuesdayâWednesday , January 27â28 ,
+2015 . meeting adjourn 11:00 a.m .
+December 17 , 2014 .
+Notation Vote
+notation vote complete November 18 , 2014 ,
+Committee unanimously approve minute
+Committee meeting held October 28â29 , 2014 .
+
+_____________________________
+William B . English
+Secretary
+
+Page 1
+_____________________________________________________________________________________________
+
+Summary Economic Projections
+conjunction Federal Open Market Committee ( FOMC ) meeting held December 16â17 , 2014 ,
+meeting participant submit projection
+likely outcome real output growth , unemployment rate , inflation , federal fund rate
+year 2014 2017 longer run.1
+participantâs projection base information
+available time meeting plus assessment appropriate monetary policy assumption factor likely affect economic outcome . longer-run projection represent participantâs assessment value variable
+would expect converge , time , appropriate monetary policy absence
+shock economy . âAppropriate monetary policyâ
+define future path policy participant deems likely foster outcome economic
+activity inflation best satisfy individual
+interpretation Federal Reserveâs objective
+maximum employment stable price .
+
+Overall , FOMC participant expect that , slowdown first half 2014 , economic growth
+appropriate policy would faster second half
+2014 2015 2016 estimate
+U.S . economyâs longer-run normal growth rate . balance , participant saw economic growth move
+back toward assessment longer-run pace
+2017 ( table 1 figure 1 ) . participant project
+unemployment rate continue decline
+2015 2016 , participant project unemployment rate individual
+judgment longer-run normal level end
+2016 . participant project inflation , measure four-quarter change price index
+personal consumption expenditure ( PCE ) , would rise
+gradually , balance , next year . participant saw inflation approach Committeeâs
+2 percent longer-run objective 2016 2017 .
+participant project inflation would rise
+temporarily 2 percent forecast period ,
+many others expect inflation remain low
+2017 .
+
+____________________________________________
+
+discuss Policy Normalization Principles
+Plans , release September 17 , 2014 , Committee intend
+target range federal fund rate normalization . Participants ask provide , contribution
+Summary Economic Projections , either midpoint
+target range federal fund rate period
+range anticipate target level federal
+fund rate , appropriate . low panel figure 2 ,
+value round near â  percentage point .
+1
+
+Participants judged would appropriate begin
+raise target range federal fund rate
+projection period labor market indicator inflation move back toward value Committee judge
+consistent attainment mandate objective maximum employment stable price .
+
+Table 1 . Economic projection Federal Reserve Board member Federal Reserve Bank president , December 2014
+Percent
+Variable
+
+Central tendency1
+2014
+
+2015
+
+2016
+
+2017
+
+Range2
+Longer run
+
+2014
+
+2015
+
+2016
+
+2017
+
+Longer run
+
+Change real GDP . . 2.3 2.4 2.6 3.0 2.5 3.0 2.3 2.5
+September projection . 2.0 2.2 2.6 3.0 2.6 2.9 2.3 2.5
+
+2.0 2.3
+2.0 2.3
+
+2.3 2.5 2.1 3.2
+1.8 2.3 2.1 3.2
+
+2.1 3.0
+2.1 3.0
+
+2.0 2.7
+2.0 2.6
+
+1.8 2.7
+1.8 2.6
+
+Unemployment rate . .
+
+5.2 5.5
+5.2 5.5
+
+5.7 5.8 5.0 5.5
+5.7 6.1 5.2 5.7
+
+4.9 5.4
+4.9 5.6
+
+4.7 5.7
+4.7 5.8
+
+5.0 5.8
+5.0 6.0
+
+2.0
+2.0
+
+1.2 1.6 1.0 2.2
+1.5 1.8 1.5 2.4
+
+1.6 2.1
+1.6 2.1
+
+1.8 2.2
+1.7 2.2
+
+2.0
+2.0
+
+1.5 1.6 1.5 2.2
+1.5 1.8 1.6 2.4
+
+1.6 2.1
+1.7 2.2
+
+1.8 2.2
+1.8 2.2
+
+5.8
+
+September projection . 5.9 6.0
+
+5.2 5.3 5.0 5.2 4.9 5.3
+5.4 5.6 5.1 5.4 4.9 5.3
+
+PCE inflation . . . . . . . 1.2 1.3 1.0 1.6 1.7 2.0 1.8 2.0
+September projection . 1.5 1.7 1.6 1.9 1.7 2.0 1.9 2.0
+Core PCE inflation3 . . 1.5 1.6 1.5 1.8 1.7 2.0 1.8 2.0
+September projection . 1.5 1.6 1.6 1.9 1.8 2.0 1.9 2.0
+
+NOTE : Projections change real gross domestic product ( GDP ) projection measure inflation percent change fourth
+quarter previous year fourth quarter year indicate . PCE inflation core PCE inflation percentage rate change in , respectively ,
+price index personal consumption expenditure ( PCE ) price index PCE exclude food energy . Projections unemployment rate
+average civilian unemployment rate fourth quarter year indicate . participantâs projection base assessment
+appropriate monetary policy . Longer-run projection represent participantâs assessment rate variable would expect converge
+appropriate monetary policy absence shock economy . September projection make conjunction meeting
+Federal Open Market Committee September 16â17 , 2014 .
+1 . central tendency excludes three high three low projection variable year .
+2 . range variable give year include participantsâ projection , low high , variable year .
+3 . Longer-run projection core PCE inflation collect .
+
+Page 2
+Federal Open Market Committee
+_____________________________________________________________________________________________
+Figure 1 . Central tendency range economic projection , 2014â17 longer run
+Percent
+
+Change real GDP
+4
+
+Central tendency projection
+Range projection
+
+3
+2
+1
++
+0
+-
+
+Actual
+
+2009
+
+2010
+
+2011
+
+2012
+
+2013
+
+2014
+
+2015
+
+2016
+
+2017
+
+Longer
+run
+Percent
+
+Unemployment rate
+
+10
+9
+8
+7
+6
+5
+
+2009
+
+2010
+
+2011
+
+2012
+
+2013
+
+2014
+
+2015
+
+2016
+
+2017
+
+Longer
+run
+Percent
+
+PCE inflation
+3
+
+2
+
+1
+
+2009
+
+2010
+
+2011
+
+2012
+
+2013
+
+2014
+
+2015
+
+2016
+
+2017
+
+Longer
+run
+Percent
+
+Core PCE inflation
+3
+
+2
+
+1
+
+2009
+
+2010
+
+2011
+
+2012
+
+2013
+
+2014
+
+2015
+
+2016
+
+2017
+
+Longer
+run
+
+Note : Deï¬nitions variable general note table 1 . data actual value variable
+annual .
+
+Summary Economic Projections Meeting December 16â17 , 2014
+Page 3
+_____________________________________________________________________________________________
+
+show figure 2 , couple participant anticipate would appropriate begin raise
+target range federal fund rate 2015 ,
+project appropriate raise target
+federal fund rate fairly gradually .
+participant view uncertainty associate
+outlook economic growth unemployment rate broadly similar average level
+past 20 year . participant also judged level
+uncertainty inflation broadly similar
+average level past 20 year , although participant view high . addition , participant
+continued see risk outlook economic
+growth unemployment rate broadly balance . majority saw risk inflation broadly
+balance ; however , number participant saw
+risk inflation weight downside , one
+judged risk tilt upside .
+Outlook Economic Activity
+Participants project that , conditional individual assumption appropriate monetary policy ,
+growth real gross domestic product ( GDP ) would
+pick low level first half 2014
+run estimate longer-run normal rate
+second half 2014 2015 2016 . Participants point number factor expect would contribute strong real output growth ,
+include improve labor market condition , low energy price , rise household net worth , diminish restraint fiscal policy , highly accommodative
+monetary policy . balance , participant saw real GDP
+growth move back toward , remain somewhat above , longer-run rate 2017 monetary policy adjusts appropriately .
+general , participantsâ revision forecast
+real GDP growth relative projection
+September meeting modest . However , participant revise projection real GDP growth
+somewhat 2014 , number note
+recent data release regard real economic activity
+strong anticipate . central tendency
+participantsâ current projection real GDP growth
+2.3 2.4 percent 2014 , 2.6 3.0 percent
+2015 , 2.5 3.0 percent 2016 , 2.3 2.5 percent
+2017 . central tendency projection real
+GDP growth longer run 2.0 2.3 percent ,
+unchanged September .
+participant project unemployment rate
+decline , balance , 2016 , partici-
+
+pant project that , end year , unemployment rate individual judgment longer-run normal level . central
+tendency participantsâ forecast unemployment rate fourth quarter year 5.8 percent 2014 , 5.2 5.3 percent 2015 , 5.0 5.2 percent
+2016 , 4.9 5.3 percent 2017 . Almost participantsâ project path unemployment rate
+shift slightly 2015 compare
+projection September ; many participant note
+recent data point improve labor market condition important factor underlie downward
+revision unemployment rate forecast . central tendency participantsâ estimate longer-run
+normal rate unemployment would prevail
+appropriate monetary policy absence shock economy unchanged 5.2
+5.5 percent ; range estimate 5.0
+5.8 percent , slightly 5.0 6.0 percent September .
+Figures 3.A 3.B show participant held range
+view regard likely outcome real GDP
+growth unemployment rate 2017 .
+diversity view reflect individual assessment effect low oil price consumer
+spending business investment , rate
+force restrain pace economic recovery would continue abate , trajectory growth consumption labor market slack
+diminishes , appropriate path monetary policy . Relative September , dispersion participantsâ projection real GDP growth little
+change 2015 2017 , unemployment rate , dispersion bit narrower .
+Outlook Inflation
+Compared September , central tendency
+participantsâ projection PCE inflation assumption appropriate monetary policy move
+2014 2015 largely unchanged 2016
+2017 . comment change projection , many participant indicate significant
+decline energy price appreciation dollar since Committeeâs September meeting likely
+put temporary downward pressure inflation .
+central tendency participantsâ projection core
+PCE inflation move somewhat 2015
+mostly unchanged year . Almost participant
+project PCE inflation would rise gradually ,
+balance , period 2015 2017 , reach
+level near Committeeâs 2 percent objective .
+participant expect PCE inflation rise slightly
+
+Page 4
+Federal Open Market Committee
+_____________________________________________________________________________________________
+Figure 2 . Overview FOMC participantsâ assessment appropriate monetary policy
+
+Number participant
+
+Appropriate timing policy firm
+
+16
+
+15
+
+15
+14
+13
+12
+11
+10
+9
+8
+7
+6
+5
+4
+3
+2
+
+2
+1
+
+2015
+
+2016
+Percent
+
+Appropriate pace policy firming : Midpoint target range target level federal fund rate
+5
+4.5
+4
+3.5
+3
+2.5
+2
+1.5
+1
+0.5
+0
+
+2014
+
+2015
+
+2016
+
+2017
+
+Longer run
+
+Note : upper panel , height bar denotes number FOMC participant judge that ,
+appropriate monetary policy , ï¬rst increase target range federal fund rate current range
+0 1/4 percent occur speciï¬ed calendar year . September 2014 , number FOMC participant
+judged ï¬rst increase target federal fund rate would occur 2014 , 2015 , 2016 be , respectively , 1 ,
+14 , 2 . low panel , shade circle indicates value ( round near 1/8 percentage point )
+individual participantâs judgment midpoint appropriate target range federal fund rate
+appropriate target level federal fund rate end speciï¬ed calendar year longer run .
+
+Summary Economic Projections Meeting December 16â17 , 2014
+Page 5
+_____________________________________________________________________________________________
+Figure 3.A . Distribution participantsâ projection change real GDP , 2014â17 longer run
+
+Number participant
+
+22
+20
+18
+16
+14
+12
+10
+8
+6
+4
+2
+
+2014
+December projection
+September projection
+
+1.8 1.9
+
+2.0 2.1
+
+2.2 2.3
+
+2.4 2.5
+
+2.6 2.7
+
+2.8 2.9
+
+3.0 3.1
+
+3.2 3.3
+
+Percent range
+Number participant
+
+22
+20
+18
+16
+14
+12
+10
+8
+6
+4
+2
+
+2015
+
+1.8 1.9
+
+2.0 2.1
+
+2.2 2.3
+
+2.4 2.5
+
+2.6 2.7
+
+2.8 2.9
+
+3.0 3.1
+
+3.2 3.3
+
+Percent range
+Number participant
+
+22
+20
+18
+16
+14
+12
+10
+8
+6
+4
+2
+
+2016
+
+1.8 1.9
+
+2.0 2.1
+
+2.2 2.3
+
+2.4 2.5
+
+2.6 2.7
+
+2.8 2.9
+
+3.0 3.1
+
+3.2 3.3
+
+Percent range
+Number participant
+
+22
+20
+18
+16
+14
+12
+10
+8
+6
+4
+2
+
+2017
+
+1.8 1.9
+
+2.0 2.1
+
+2.2 2.3
+
+2.4 2.5
+
+2.6 2.7
+
+2.8 2.9
+
+3.0 3.1
+
+3.2 3.3
+
+Percent range
+Number participant
+
+22
+20
+18
+16
+14
+12
+10
+8
+6
+4
+2
+
+Longer run
+
+1.8 1.9
+
+2.0 2.1
+
+2.2 2.3
+
+2.4 2.5
+
+2.6 2.7
+
+Percent range
+
+Note : Deï¬nitions variable general note table 1 .
+
+2.8 2.9
+
+3.0 3.1
+
+3.2 3.3
+
+Page 6
+Federal Open Market Committee
+_____________________________________________________________________________________________
+Figure 3.B . Distribution participantsâ projection unemployment rate , 2014â17 longer run
+
+Number participant
+
+22
+20
+18
+16
+14
+12
+10
+8
+6
+4
+2
+
+2014
+December projection
+September projection
+
+4.6 4.7
+
+4.8 4.9
+
+5.0 5.1
+
+5.2 5.3
+
+5.4 5.5
+
+5.6 5.7
+
+5.8 5.9
+
+6.0 6.1
+
+Percent range
+Number participant
+
+22
+20
+18
+16
+14
+12
+10
+8
+6
+4
+2
+
+2015
+
+4.6 4.7
+
+4.8 4.9
+
+5.0 5.1
+
+5.2 5.3
+
+5.4 5.5
+
+5.6 5.7
+
+5.8 5.9
+
+6.0 6.1
+
+Percent range
+Number participant
+
+22
+20
+18
+16
+14
+12
+10
+8
+6
+4
+2
+
+2016
+
+4.6 4.7
+
+4.8 4.9
+
+5.0 5.1
+
+5.2 5.3
+
+5.4 5.5
+
+5.6 5.7
+
+5.8 5.9
+
+6.0 6.1
+
+Percent range
+Number participant
+
+22
+20
+18
+16
+14
+12
+10
+8
+6
+4
+2
+
+2017
+
+4.6 4.7
+
+4.8 4.9
+
+5.0 5.1
+
+5.2 5.3
+
+5.4 5.5
+
+5.6 5.7
+
+5.8 5.9
+
+6.0 6.1
+
+Percent range
+Number participant
+
+22
+20
+18
+16
+14
+12
+10
+8
+6
+4
+2
+
+Longer run
+
+4.6 4.7
+
+4.8 4.9
+
+5.0 5.1
+
+5.2 5.3
+
+5.4 5.5
+
+Percent range
+
+Note : Deï¬nitions variable general note table 1 .
+
+5.6 5.7
+
+5.8 5.9
+
+6.0 6.1
+
+Summary Economic Projections Meeting December 16â17 , 2014
+Page 7
+_____________________________________________________________________________________________
+
+2 percent point forecast period , many others expect inflation remain 2 percent entire period . central tendency PCE inflation 1.2 1.3 percent 2014 ,
+1.0 1.6 percent 2015 , 1.7 2.0 percent 2016 ,
+1.8 2.0 percent 2017 . central tendency
+forecast core inflation high
+headline measure 2014 2015 , reflect effect low oil price . central tendency
+two measure equal 2016 2017 . Factors
+cite participant likely contribute gradual
+rise inflation toward Committeeâs longer-run objective 2 percent include stable longer-term inflation
+expectation , steadily diminish resource slack ,
+pickup wage growth , wan effect decline oil
+price , still-accommodative monetary policy .
+Figures 3.C 3.D provide information diversity participantsâ view outlook inflation .
+addition move low , range participantsâ
+projection PCE inflation 2015 widen somewhat relative September , likely reflect part difference participantsâ assessment effect
+recent decline energy price outlook inflation . range core inflation narrow 2014
+2015 . year projection , range
+inflation projection relatively little change .
+range measure 2017 continued show
+substantial concentration near Committeeâs
+2 percent longer-run objective time .
+Appropriate Monetary Policy
+Participants judged would appropriate begin
+raise target range federal fund rate
+projection period labor market indicator inflation move back toward value Committee judge
+consistent attainment mandate objective maximum employment price stability .
+show figure 2 , two participant anticipate
+would appropriate begin raise target
+range federal fund rate 2015 . However ,
+project appropriate level federal
+fund rate would remain considerably longerrun normal level 2016 . participant expect appropriate level federal fund rate
+would near , already would reach , individual view longer-run normal level end
+2017 .
+participant project unemployment rate
+would 5.5 percent end year
+judged initial increase target
+range federal fund rate would warrant ,
+
+one anticipate inflation would Committeeâs 2 percent goal end
+year . participant project unemployment rate would somewhat estimate
+longer-run normal level time .
+Figure 3.E provide distribution participantsâ
+judgment regard appropriate level target
+federal fund rate , conditional assessment
+economic outlook , end calendar year
+2014 2017 longer run . participant judged economic condition would warrant
+maintain current exceptionally low level
+federal fund rate 2015 . median value
+federal fund rate end 2015 2016 fell
+25 basis point 38 basis point relative September ,
+1.13 percent 2.50 percent , respectively ,
+mean value fell 15 basis point year ,
+1.13 percent 2015 2.54 percent 2016 . dispersion projection appropriate level
+federal fund rate narrower 2014 2015
+little change 2016 2017 . participant judged would appropriate set federal fund rate near longer-run normal level
+2017 , although number project federal fund rate would still need set appreciably longer-run normal level time one anticipate would appropriate target level
+noticeably longer-run normal level . Participants provide number reason thought
+would appropriate federal fund rate remain
+longer-run normal level time inflation unemployment rate near mandateconsistent level . reason include assessment
+headwind hold back recovery continue exert restraint economic
+activity time , residual slack labor market still evident measure labor utilization , risk economic outlook
+asymmetric result constraint monetary
+policy associate effective low bound
+federal fund rate .
+September , estimate longer-run level
+federal fund rate range 3.25 4.25 percent .
+participant judged inflation longer run
+would equal Committeeâs inflation objective
+2 percent , imply individual judgment regard appropriate longer-run level real federal fund rate absence shock
+economy range 1.25 2.25 percent .
+
+Page 8
+Federal Open Market Committee
+_____________________________________________________________________________________________
+Figure 3.C . Distribution participantsâ projection PCE inï¬ation , 2014â17 longer run
+
+Number participant
+
+22
+20
+18
+16
+14
+12
+10
+8
+6
+4
+2
+
+2014
+December projection
+September projection
+
+0.9 1.0
+
+1.1 1.2
+
+1.3 1.4
+
+1.5 1.6
+
+1.7 1.8
+
+1.9 2.0
+
+2.1 2.2
+
+2.3 2.4
+
+Percent range
+Number participant
+
+22
+20
+18
+16
+14
+12
+10
+8
+6
+4
+2
+
+2015
+
+0.9 1.0
+
+1.1 1.2
+
+1.3 1.4
+
+1.5 1.6
+
+1.7 1.8
+
+1.9 2.0
+
+2.1 2.2
+
+2.3 2.4
+
+Percent range
+Number participant
+
+22
+20
+18
+16
+14
+12
+10
+8
+6
+4
+2
+
+2016
+
+0.9 1.0
+
+1.1 1.2
+
+1.3 1.4
+
+1.5 1.6
+
+1.7 1.8
+
+1.9 2.0
+
+2.1 2.2
+
+2.3 2.4
+
+Percent range
+Number participant
+
+22
+20
+18
+16
+14
+12
+10
+8
+6
+4
+2
+
+2017
+
+0.9 1.0
+
+1.1 1.2
+
+1.3 1.4
+
+1.5 1.6
+
+1.7 1.8
+
+1.9 2.0
+
+2.1 2.2
+
+2.3 2.4
+
+Percent range
+Number participant
+
+22
+20
+18
+16
+14
+12
+10
+8
+6
+4
+2
+
+Longer run
+
+0.9 1.0
+
+1.1 1.2
+
+1.3 1.4
+
+1.5 1.6
+
+1.7 1.8
+
+Percent range
+
+Note : Deï¬nitions variable general note table 1 .
+
+1.9 2.0
+
+2.1 2.2
+
+2.3 2.4
+
+Summary Economic Projections Meeting December 16â17 , 2014
+Page 9
+_____________________________________________________________________________________________
+Figure 3.D . Distribution participantsâ projection core PCE inï¬ation , 2014â17
+
+Number participant
+
+2014
+December projection
+September projection
+
+1.5 1.6
+
+1.7 1.8
+
+1.9 2.0
+
+2.1 2.2
+
+22
+20
+18
+16
+14
+12
+10
+8
+6
+4
+2
+
+2.3 2.4
+
+Percent range
+Number participant
+
+22
+20
+18
+16
+14
+12
+10
+8
+6
+4
+2
+
+2015
+
+1.5 1.6
+
+1.7 1.8
+
+1.9 2.0
+
+2.1 2.2
+
+2.3 2.4
+
+Percent range
+Number participant
+
+22
+20
+18
+16
+14
+12
+10
+8
+6
+4
+2
+
+2016
+
+1.5 1.6
+
+1.7 1.8
+
+1.9 2.0
+
+2.1 2.2
+
+2.3 2.4
+
+Percent range
+Number participant
+
+22
+20
+18
+16
+14
+12
+10
+8
+6
+4
+2
+
+2017
+
+1.5 1.6
+
+1.7 1.8
+
+1.9 2.0
+
+Percent range
+
+Note : Deï¬nitions variable general note table 1 .
+
+2.1 2.2
+
+2.3 2.4
+
+Page 10
+Federal Open Market Committee
+_____________________________________________________________________________________________
+Figure 3.E . Distribution participantsâ projection target federal fund rate , 2014â17 longer run
+
+Number participant
+
+2014
+December projection
+September projection
+
+0.00 0.37
+
+0.38 0.62
+
+0.63 0.87
+
+0.88 1.12
+
+1.13 1.37
+
+1.38 1.62
+
+1.63 1.87
+
+1.88 2.12
+
+2.13 2.37
+
+2.38 2.62
+
+2.63 2.87
+
+2.88 3.12
+
+3.13 3.37
+
+3.38 3.62
+
+3.63 3.87
+
+3.88 4.12
+
+4.13 4.37
+
+22
+20
+18
+16
+14
+12
+10
+8
+6
+4
+2
+
+4.38 4.62
+
+Percent range
+Number participant
+22
+20
+18
+16
+14
+12
+10
+8
+6
+4
+2
+
+2015
+
+0.00 0.37
+
+0.38 0.62
+
+0.63 0.87
+
+0.88 1.12
+
+1.13 1.37
+
+1.38 1.62
+
+1.63 1.87
+
+1.88 2.12
+
+2.13 2.37
+
+2.38 2.62
+
+2.63 2.87
+
+2.88 3.12
+
+3.13 3.37
+
+3.38 3.62
+
+3.63 3.87
+
+3.88 4.12
+
+4.13 4.37
+
+4.38 4.62
+
+Percent range
+Number participant
+22
+20
+18
+16
+14
+12
+10
+8
+6
+4
+2
+
+2016
+
+0.00 0.37
+
+0.38 0.62
+
+0.63 0.87
+
+0.88 1.12
+
+1.13 1.37
+
+1.38 1.62
+
+1.63 1.87
+
+1.88 2.12
+
+2.13 2.37
+
+2.38 2.62
+
+2.63 2.87
+
+2.88 3.12
+
+3.13 3.37
+
+3.38 3.62
+
+3.63 3.87
+
+3.88 4.12
+
+4.13 4.37
+
+4.38 4.62
+
+Percent range
+Number participant
+22
+20
+18
+16
+14
+12
+10
+8
+6
+4
+2
+
+2017
+
+0.00 0.37
+
+0.38 0.62
+
+0.63 0.87
+
+0.88 1.12
+
+1.13 1.37
+
+1.38 1.62
+
+1.63 1.87
+
+1.88 2.12
+
+2.13 2.37
+
+2.38 2.62
+
+2.63 2.87
+
+2.88 3.12
+
+3.13 3.37
+
+3.38 3.62
+
+3.63 3.87
+
+3.88 4.12
+
+4.13 4.37
+
+4.38 4.62
+
+Percent range
+Number participant
+22
+20
+18
+16
+14
+12
+10
+8
+6
+4
+2
+
+Longer run
+
+0.00 0.37
+
+0.38 0.62
+
+0.63 0.87
+
+0.88 1.12
+
+1.13 1.37
+
+1.38 1.62
+
+1.63 1.87
+
+1.88 2.12
+
+2.13 2.37
+
+2.38 2.62
+
+2.63 2.87
+
+2.88 3.12
+
+3.13 3.37
+
+3.38 3.62
+
+3.63 3.87
+
+3.88 4.12
+
+4.13 4.37
+
+4.38 4.62
+
+Percent range
+Note : target federal fund rate measure level target rate end calendar year
+longer run .
+
+Summary Economic Projections Meeting December 16â17 , 2014
+Page 11
+_____________________________________________________________________________________________
+
+Participantsâ view appropriate path monetary
+policy inform judgment state
+economy , include value unemployment rate labor market indicator would
+consistent maximum employment , extent
+economy currently fall short maximum employment , prospect inflation return
+Committeeâs longer-term objective 2 percent ,
+desire minimize potential disruption financial
+market avoid unusually rapid increase federal fund rate , balance risk around outlook . participant also mention prescription various monetary policy rule factor
+consider judging appropriate path federal fund rate .
+Uncertainty Risks
+Nearly participant continued judge level
+uncertainty attend projection real GDP
+growth unemployment rate broadly similar
+norm previous 20 year ( figure 4 ) .ï²
+participant continued see risk outlook
+real GDP growth broadly balance . participant view risk real GDP growth weight
+downside ; one view risk weight
+upside . participant view risk
+weight downside cite , example , concern
+limited ability monetary policy effective low bound respond negative shock
+economy trajectory economic
+growth abroad . September , nearly participant
+judged risk outlook unemployment
+rate broadly balance .
+September , participant generally agree
+level uncertainty associate inflation forecast broadly similar historical norm ,
+
+ï²
+
+Table 2 provide estimate forecast uncertainty
+change real GDP , unemployment rate , total consumer price inflation period 1994 2013 .
+end summary , box âForecast Uncertaintyâ
+discus source interpretation uncertainty
+economic forecast explains approach use ass
+uncertainty risk attend participantsâ projection .
+
+saw risk projection broadly balance .
+number participant , however , view risk
+inflation forecast tilt downside ; reason discuss include possibility recent
+low level inflation could prove persistent
+anticipate ; possibility upward pull price
+inflation expectation might weaker assume ; judgment that , current circumstance ,
+would difficult Committee respond effectively low-inflation outcome . Conversely , one
+participant saw upside risk inflation , cite uncertainty timing efficacy Committeeâs
+withdrawal monetary policy accommodation .
+Table 2 . Average historical projection error range
+Percentage point
+
+Variable
+Change real
+
+2014
+
+2015
+
+2016
+
+2017
+
+... ..
+
+Â±0.9
+
+Â±1.8
+
+Â±2.1
+
+Â±2.1
+
+... ..
+
+Â±0.2
+
+Â±0.8
+
+Â±1.4
+
+Â±1.8
+
+Â±0.2
+
+Â±0.9
+
+Â±1.0
+
+Â±1.0
+
+GDP1
+
+Unemployment
+
+rate1
+
+Total consumer
+
+prices2
+
+... .
+
+NOTE : Error range show measure plus minus
+root mean square error projection 1994 2013
+release winter various private government forecaster . described box âForecast Uncertainty , â certain
+assumption , 70 percent probability actual outcome real GDP , unemployment , consumer price
+range imply average size projection error make
+past . information , see David Reifschneider Peter Tulip
+( 2007 ) , âGauging Uncertainty Economic Outlook Historical Forecasting Errors , â Finance Economics Discussion Series
+2007-60 ( Washington : Board Governors Federal Reserve
+System , November ) , available www.federalreserve.gov/pubs/feds/
+2007/200760/200760abs.html ; Board Governors Federal Reserve System , Division Research Statistics ( 2014 ) , âUpdated Historical Forecast Errors , â memorandum , April 9 , www.federalreserve.gov/foia/files/20140409-historical-forecast-errors.pdf .
+1 . Definitions variable general note table 1 .
+2 . Measure overall consumer price index , price measure
+widely use government private economic
+forecast . Projection percent change , fourth quarter previous
+year fourth quarter year indicate .
+
+Page 12
+Federal Open Market Committee
+_____________________________________________________________________________________________
+Figure 4 . Uncertainty risk economic projection
+
+Number participant
+
+Uncertainty GDP growth
+
+22
+20
+18
+16
+14
+12
+10
+8
+6
+4
+2
+
+December projection
+September projection
+
+Lower
+
+Broadly
+similar
+
+Higher
+
+Number participant
+
+Risks GDP growth
+
+Weighted
+downside
+
+Broadly
+balance
+
+Number participant
+
+Uncertainty unemployment rate
+
+Lower
+
+Broadly
+similar
+
+22
+20
+18
+16
+14
+12
+10
+8
+6
+4
+2
+
+Higher
+
+Risks unemployment rate
+
+Weighted
+downside
+
+Lower
+
+Broadly
+similar
+
+22
+20
+18
+16
+14
+12
+10
+8
+6
+4
+2
+
+Higher
+
+Broadly
+balance
+
+Lower
+
+Broadly
+similar
+
+Higher
+
+Weighted
+upside
+
+Risks PCE inflation
+
+Weighted
+downside
+
+22
+20
+18
+16
+14
+12
+10
+8
+6
+4
+2
+
+22
+20
+18
+16
+14
+12
+10
+8
+6
+4
+2
+
+Number participant
+
+Broadly
+balance
+
+Number participant
+
+Uncertainty core PCE inflation
+
+Weighted
+upside
+Number participant
+
+Number participant
+
+Uncertainty PCE inflation
+
+22
+20
+18
+16
+14
+12
+10
+8
+6
+4
+2
+
+December projection
+September projection
+
+22
+20
+18
+16
+14
+12
+10
+8
+6
+4
+2
+
+Weighted
+upside
+Number participant
+
+Risks core PCE inflation
+
+Weighted
+downside
+
+Broadly
+balance
+
+22
+20
+18
+16
+14
+12
+10
+8
+6
+4
+2
+
+Weighted
+upside
+
+Note : deï¬nitions uncertainty risk economic projection , see box âForecast Uncertainty.â Deï¬nitions variable general note table 1 .
+
+Summary Economic Projections Meeting December 16â17 , 2014
+Page 13
+_____________________________________________________________________________________________
+
+Forecast Uncertainty
+economic projection provide
+member Board Governors
+president Federal Reserve Banks inform
+discussion monetary policy among policymakers aid public understand
+basis policy action . Considerable uncertainty attends projection , however .
+economic statistical model relationship use help produce economic forecast
+necessarily imperfect description
+real world , future path economy
+affected myriad unforeseen development event . Thus , set stance
+monetary policy , participant consider
+appear likely economic outcome embody projection , also range alternative possibility , likelihood occurring ,
+potential cost economy occur .
+Table 2 summarizes average historical
+accuracy range forecast , include
+report past Monetary Policy Reports
+prepared Federal Reserve
+Boardâs staff advance meeting
+Federal Open Market Committee . projection error range show table illustrate
+considerable uncertainty associate
+economic forecast . example , suppose
+participant project real gross domestic
+product ( GDP ) total consumer price
+rise steadily annual rate of , respectively ,
+3 percent 2 percent . uncertainty attend projection similar experienced past risk around
+projection broadly balance , number
+report table 2 would imply probability
+70 percent actual GDP would expand within range 2.1 3.9 percent
+
+current year , 1.2 4.8 percent second
+year , 0.9 5.1 percent third
+fourth year . correspond 70 percent
+confidence interval overall inflation would
+1.8 2.2 percent current year , 1.1
+2.9 percent second year , 1.0 3.0 percent third fourth year .
+current condition may differ
+prevail , average , history ,
+participant provide judgment whether
+uncertainty attach projection
+variable great than , small than ,
+broadly similar typical level forecast uncertainty past , show table 2 . Participants also provide judgment whether
+risk projection weight upside , weight downside ,
+broadly balance . be , participant judge
+whether variable likely
+projection likely outcome . judgment uncertainty
+risk attend participantâs projection distinct diversity participantsâ view likely outcome .
+Forecast uncertainty concerned risk
+associate particular projection rather
+divergence across number different projection .
+real activity inflation , outlook future path federal fund rate
+subject considerable uncertainty . uncertainty arises primarily participantâs assessment appropriate stance
+monetary policy depends importantly
+evolution real activity inflation time .
+economic condition evolve unexpected
+manner , assessment appropriate
+set federal fund rate would change
+point forward .
+
+

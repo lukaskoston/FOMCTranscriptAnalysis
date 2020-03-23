@@ -1,0 +1,1505 @@
+Page 1
+_____________________________________________________________________________________________
+
+Minutes Federal Open Market Committee
+January 26â27 , 2016
+joint meeting Federal Open Market Committee
+Board Governors held office
+Board Governors Federal Reserve System
+Washington , D.C. , Tuesday , January 26 , 2016 ,
+12:00 p.m . continued Wednesday , January 27 ,
+2016 , 9:00 a.m.1
+PRESENT :
+Janet L . Yellen , Chair
+William C . Dudley , Vice Chairman
+Lael Brainard
+James Bullard
+Stanley Fischer
+Esther L . George
+Loretta J . Mester
+Jerome H . Powell
+Eric Rosengren
+Daniel K . Tarullo
+Charles L . Evans , Patrick Harker , Robert S . Kaplan ,
+Neel Kashkari , Alternate Members
+Federal Open Market Committee
+Jeffrey M . Lacker , Dennis P . Lockhart , John C .
+Williams , Presidents Federal Reserve Banks
+Richmond , Atlanta , San Francisco ,
+respectively
+Brian F . Madigan , Secretary
+Matthew M . Luecke , Deputy Secretary
+David W . Skidmore , Assistant Secretary
+Michelle A . Smith , Assistant Secretary
+Scott G . Alvarez , General Counsel
+Thomas C . Baxter , Deputy General Counsel
+Steven B . Kamin , Economist
+Thomas Laubach , Economist
+David W . Wilcox , Economist
+Thomas A . Connors , Troy Davig , Michael P . Leahy ,
+Jonathan P . McCarthy , Stephen A . Meyer , Ellis W .
+Tallman , William Wascher , Associate
+Economists
+Simon Potter , Manager , System Open Market Account
+
+Federal Open Market Committee reference
+âFOMCâ âCommitteeâ minute .
+1
+
+Lorie K . Logan , Deputy Manager , System Open
+Market Account
+Robert deV . Frierson , Secretary Board , Office
+Secretary , Board Governors
+Michael S . Gibson , Director , Division Banking
+Supervision Regulation , Board Governors
+Nellie Liang , Director , Office Financial Stability
+Policy Research , Board Governors
+James A . Clouse William R . Nelson , Deputy
+Directors , Division Monetary Affairs , Board
+Governors ; Daniel M . Covitz , Deputy Director ,
+Division Research Statistics , Board
+Governors
+William B . English , Senior Special Adviser
+Board , Office Board Members , Board
+Governors
+Andrew Figura , Ann McKeehan,2 David Reifschneider ,
+Stacey Tevlin , Special Advisers Board ,
+Office Board Members , Board Governors
+Trevor A . Reeve , Special Adviser Chair , Office
+Board Members , Board Governors
+Linda Robertson , Assistant Board , Office
+Board Members , Board Governors
+Eric M . Engen , Senior Associate Director , Division
+Research Statistics , Board Governors ; Beth
+Anne Wilson , Senior Associate Director , Division
+International Finance , Board Governors
+Michael T . Kiley , Senior Adviser , Division Research
+Statistics , Senior Associate Director ,
+Office Financial Stability Policy Research ,
+Board Governors
+Ellen E . Meade Joyce K . Zickler , Senior Advisers ,
+Division Monetary Affairs , Board Governors ;
+
+2
+
+Attended Wednesday session only .
+
+Page 2
+Federal Open Market Committee
+_____________________________________________________________________________________________
+
+Jeremy B . Rudd , Senior Adviser , Division
+Research Statistics , Board Governors
+
+William Dupor , Assistant Vice President , Federal
+Reserve Bank St . Louis
+
+Gretchen C . Weinbach , Associate Director , Division
+Monetary Affairs , Board Governors
+
+Robert L . Hetzel , Senior Economist , Federal Reserve
+Bank Richmond
+
+Min Wei , Deputy Associate Director , Division
+Monetary Affairs , Board Governors
+
+Annual Organizational Matters5
+agenda meeting , report advice election follow member alternate member Federal Open Market Committee
+term begin January 26 , 2016 , receive
+individual execute oath office .
+
+Glenn Follette , Assistant Director , Division
+Research Statistics , Board Governors
+Eric C . Engstrom , Adviser , Division Research
+Statistics , Board Governors
+Penelope A . Beattie,2 Assistant Secretary , Office
+Secretary , Board Governors
+Etienne Gagnon , Section Chief , Division Monetary
+Affairs , Board Governors
+
+elect member alternate member follow :
+William C . Dudley , President Federal Reserve
+Bank New York , Michael Strine , First Vice President Federal Reserve Bank New York , alternate
+
+Katie Ross,3 Manager , Office Secretary , Board
+Governors
+
+Eric Rosengren , President Federal Reserve Bank
+Boston , Patrick Harker , President Federal
+Reserve Bank Philadelphia , alternate
+
+David H . Small , Project Manager , Division
+Monetary Affairs , Board Governors
+
+Loretta J . Mester , President Federal Reserve Bank
+Cleveland , Charles L . Evans , President
+Federal Reserve Bank Chicago , alternate
+
+Deepa Datta , Senior Economist , Division
+International Finance , Board Governors ;
+Jonathan E . Goldberg , Senior Economist , Division
+Monetary Affairs , Board Governors
+
+James Bullard , President Federal Reserve Bank
+St . Louis , Robert S . Kaplan , President Federal Reserve Bank Dallas , alternate
+
+Achilles Sangster II , Information Management Analyst ,
+Division Monetary Affairs , Board Governors
+David Altig , Jeff Fuhrer , Glenn D . Rudebusch ,
+Daniel G . Sullivan , Executive Vice Presidents ,
+Federal Reserve Banks Atlanta , Boston , San
+Francisco , Chicago , respectively
+Samuel Schulhofer-Wohl , Senior Vice President ,
+Federal Reserve Bank Minneapolis
+Todd E . Clark,4 Deborah L . Leonard , Keith Sill ,
+Mark A . Wynne , Vice Presidents , Federal Reserve
+Banks Cleveland , New York , Philadelphia ,
+Dallas , respectively
+
+Attended Tuesday session only .
+Attended discussion potential enhancement
+Summary Economic Projections .
+
+Esther L . George , President Federal Reserve Bank
+Kansas City , Neel Kashkari , President
+Federal Reserve Bank Minneapolis , alternate
+unanimous vote , follow officer Committee select serve selection
+successor first regularly schedule meeting
+Committee 2017 :
+Janet L . Yellen
+William C . Dudley
+Brian F . Madigan
+Matthew M . Luecke
+David W . Skidmore
+Michelle A . Smith
+Scott G . Alvarez
+Thomas C . Baxter
+Richard M . Ashton
+Steven B . Kamin
+
+Chairman
+Vice Chairman
+Secretary
+Deputy Secretary
+Assistant Secretary
+Assistant Secretary
+General Counsel
+Deputy General Counsel
+Assistant General Counsel
+Economist
+
+Committee organizational document available
+
+3
+
+5
+
+4
+
+www.federalreserve.gov/monetarypolicy/rules_authorizations.htm .
+
+Minutes Meeting January 26â27 , 2016
+Page 3
+_____________________________________________________________________________________________
+
+Thomas Laubach
+David W . Wilcox
+
+Economist
+Economist
+
+Thomas A . Connors
+Troy Davig
+Michael P . Leahy
+David E . Lebow
+Jonathan P . McCarthy
+Stephen A . Meyer
+Ellis W . Tallman
+Geoffrey Tootell
+Christopher J . Waller
+William Wascher
+
+Associate Economists
+
+unanimous vote , Federal Reserve Bank New
+York select execute transaction System
+Open Market Account ( SOMA ) .
+unanimous vote , Committee select Simon Potter Lorie K . Logan serve pleasure
+Committee manager deputy manager
+SOMA , respectively , understand selection subject satisfactory
+Federal Reserve Bank New York .
+Secretaryâs note : Advice subsequently receive manager deputy manager selection indicate satisfactory
+Federal Reserve Bank New York .
+unanimous vote , Authorization Domestic
+Open Market Operations approve nonsubstantive amendment change terminology use
+paragraph 4.B.ii , related provision intraday
+credit Foreign Accounts exchange security .
+Guidelines Conduct System Open Market
+Operations Federal-Agency Issues remain suspend .
+AUTHORIZATION DOMESTIC
+OPEN MARKET OPERATIONS
+( As amend effective January 26 , 2016 )
+1 . Federal Open Market Committee ( the âCommitteeâ ) authorizes directs Federal Reserve Bank
+select Committee execute open market transaction ( the âSelected Bankâ ) , extent necessary
+carry recent domestic policy directive
+adopt Committee :
+A . buy sell open market security
+direct obligation of , fully guaranteed principal interest by , United States , security
+direct obligation of , fully guaranteed
+principal interest by , agency United
+
+States , eligible purchase sale Section 14 ( b ) Federal Reserve Act ( âEligible Securitiesâ ) System Open Market Account
+( âSOMAâ ) :
+i .
+outright operation security dealer
+foreign international account maintain
+Selected Bank : same-day defer delivery basis ( include transaction commonly refer dollar roll coupon swap )
+market price ;
+ii . temporary operation : same-day
+defer delivery basis , purchase Eligible Securities subject agreement resell ( ârepo
+transactionsâ ) sell Eligible Securities subject agreement repurchase ( âreverse repo
+transactionsâ ) term 65 business day less ,
+rate that , unless otherwise authorize
+Committee , determine competitive bidding ,
+apply reasonable limitation volume
+agreement individual counterparties ;
+B . allow Eligible Securities SOMA mature without replacement ;
+C . exchange , market price , connection
+Treasury auction , mature Eligible Securities
+SOMA Treasury , case Eligible
+Securities direct obligation United
+States fully guaranteed principal
+interest United States ;
+D . exchange , market price , mature Eligible
+Securities SOMA agency United
+States , case Eligible Securities direct
+obligation agency fully guaranteed
+principal interest agency .
+2 . Committee authorizes Selected Bank
+undertake transaction type described paragraph 1 time time purpose test operational readiness , subject follow limitation :
+A . transaction authorize paragraph 2
+shall conduct prior notice Committee ;
+B . aggregate par value transaction authorize paragraph 2 type described paragraph 1.A.i shall exceed $ 5 billion
+per calendar year ;
+C . outstanding amount transaction described paragraph 1.A.ii shall exceed $ 5 billion
+give time .
+3 . order ensure effective conduct open
+market operation , Committee authorizes Selected Bank operate program lend Eligible Securities held SOMA dealer overnight basis
+
+Page 4
+Federal Open Market Committee
+_____________________________________________________________________________________________
+
+( except Selected Bank may lend Eligible Securities longer overnight term accommodate
+weekend , holiday , similar trading convention ) .
+A . security lending must be :
+i .
+rate determine competitive bidding ;
+ii . minimum lending fee consistent
+objective program ;
+iii . Subject reasonable limitation total
+amount specific issue Eligible Securities
+may auction ;
+iv . Subject reasonable limitation
+amount Eligible Securities borrower
+may borrow .
+B . Selected Bank may :
+i .
+Reject bid that , determine sole discretion , could facilitate bidderâs ability control
+single issue ;
+ii . Accept Treasury security cash collateral
+loan security authorize paragraph 3 ;
+iii . Accept agency security collateral
+loan agency security authorize paragraph 3 .
+4 . order ensure effective conduct open
+market operation , assist provision
+short-term investment authorize service
+foreign central bank international account maintain Federal Reserve Bank ( the âForeign Accountsâ ) account maintain Federal Reserve
+Bank fiscal agent United States pursuant section 15 Federal Reserve Act ( together
+Foreign Accounts , âCustomer Accountsâ ) , Committee authorizes follow undertaken
+term comparable available open market :
+A . Selected Bank , SOMA , undertake
+reverse repo transaction Eligible Securities held
+SOMA Customer Accounts term
+65 business day less ;
+B . Federal Reserve Bank maintains Customer Accounts , Customer Account ,
+appropriate subject necessary
+authorization approval , to :
+i .
+Undertake repo transaction Eligible Securities dealer correspond reverse repo
+transaction Eligible Securities Customer Accounts ;
+ii . Undertake intra-day repo transaction Eligible Securities Foreign Accounts .
+Transactions undertaken Customer Accounts provision paragraph 4 may provide
+service fee appropriate . Transactions undertaken
+Customer Accounts also subject authorization approval entity , include Board
+
+Governors Federal Reserve System and ,
+involve account maintain Federal Reserve
+Bank fiscal agent United States , United
+States Department Treasury .
+5 . Committee authorizes Chairman
+Committee , foster Committeeâs objective period meeting Committee ,
+instruct Selected Bank act behalf Committee to :
+A . Adjust somewhat exceptional circumstance
+stance monetary policy take action
+may result material change composition
+size asset SOMA ;
+B . Undertake transaction respect Eligible
+Securities order appropriately address temporary
+disruption operational highly unusual nature
+U.S . dollar funding market .
+adjustment described subparagraph
+paragraph 5 shall make context
+Committeeâs discussion decision stance
+policy recent meeting Committeeâs
+long-run objective foster maximum employment
+price stability , shall base economic , financial ,
+monetary development since recent meeting Committee . Chairman , whenever feasible , consult Committee make
+instruction paragraph 5 .
+manager note staff process
+evaluate current framework foreign reserve
+management consider possible restructuring
+document govern framework foreign operation . recommend change
+document postpone process complete . Committee vote unanimously reaffirm
+without change Authorization Foreign Currency
+Operations , Foreign Currency Directive ,
+Procedural Instructions Respect Foreign Currency Operations show below . vote reaffirm
+document include approval Systemâs
+warehouse agreement U.S . Treasury .
+AUTHORIZATION FOREIGN CURRENCY
+OPERATIONS
+( As reaffirm effective January 26 , 2016 )
+1 . Federal Open Market Committee ( the âCommitteeâ ) authorizes directs Federal Reserve Bank
+select Committee execute open market transaction ( the âSelected Bankâ ) , System Open Market Account , extent necessary carry
+Committeeâs foreign currency directive express authorization Committee pursuant thereto ,
+
+Minutes Meeting January 26â27 , 2016
+Page 5
+_____________________________________________________________________________________________
+
+conformity procedural instruction
+Committee may issue time time :
+A . purchase sell follow foreign currency form cable transfer spot
+forward transaction open market home
+abroad , include transaction U.S . Treasury ,
+U.S . Exchange Stabilization Fund establish
+section 10 Gold Reserve Act 1934 ,
+foreign monetary authority , Bank International Settlements , international financial institution :
+Australian dollar
+Brazilian reais
+Canadian dollar
+Danish krone
+euro
+Japanese yen
+Korean
+Mexican peso
+New Zealand dollar
+Norwegian krone
+Pounds sterling
+Singapore dollar
+Swedish kronor
+Swiss franc
+B . hold balance of , outstanding forward contract receive deliver , foreign currency list paragraph above .
+C . draw foreign currency permit foreign
+bank draw dollar arrangement list
+paragraph 2 below , accordance Procedural
+Instructions Respect Foreign Currency Operations .
+D . maintain overall open position foreign currency exceed $ 25.0 billion .
+purpose , overall open position foreign currency define sum ( disregard sign ) net
+position individual currency , exclude change
+dollar value due foreign exchange rate movement interest accrual . net position single foreign currency define holding balance
+currency , plus outstanding contract future
+receipt , minus outstanding contract future delivery currency , i.e. , sum element
+due regard sign .
+2 . Committee directs Selected Bank maintain System Open Market Account ( subject
+requirement section 214.5 Regulation N , Relations Foreign Banks Bankers ) :
+A . Reciprocal currency arrangement follow foreign bank :
+
+Foreign bank
+
+Amount arrangement
+( million dollar equivalent )
+
+Bank Canada
+Bank Mexico
+
+2,000
+3,000
+
+B . Standing dollar liquidity swap arrangement
+follow foreign bank :
+Bank Canada
+Bank England
+Bank Japan
+European Central Bank
+Swiss National Bank
+C . Standing foreign currency liquidity swap arrangement follow foreign bank :
+Bank Canada
+Bank England
+Bank Japan
+European Central Bank
+Swiss National Bank
+Dollar foreign currency liquidity swap arrangement
+pre-set size limit . new swap arrangement
+shall refer review approval Committee . swap arrangement subject annual review
+approval Committee .
+3 . transaction foreign currency undertaken
+paragraph 1.A shall , unless otherwise expressly authorize Committee , prevail
+market rate . purpose provide investment return System holding foreign currency
+purpose adjust interest rate paid receive connection swap drawing , transaction
+foreign central bank may undertaken nonmarket exchange rate .
+4 . shall normal practice arrange foreign central bank coordination foreign currency transaction . make operating arrangement
+foreign central bank System holding foreign
+currency , Selected Bank shall commit
+maintain specific balance , unless authorize
+Committee . agreement understanding concern administration account maintain
+Selected Bank foreign bank designate
+Board Governors section 214.5 Regulation N shall refer review approval
+Committee .
+5 . Foreign currency holding shall invest ensure adequate liquidity maintain meet anticipate need currency portfolio shall
+
+Page 6
+Federal Open Market Committee
+_____________________________________________________________________________________________
+
+generally average duration
+24 month ( calculate Macaulay duration ) . investment may include buying sell outright obligation of , fully guaranteed principal interest
+by , foreign government agency thereof ; buying
+security agreement repurchase security ; sell security agreement
+resale security ; hold various time
+deposit account foreign institution . addition , appropriate connection arrangement
+provide investment facility foreign currency
+holding , U.S . government security may purchase
+foreign central bank agreement repurchase security within 30 calendar day .
+6 . operation undertaken pursuant precede paragraph shall report promptly Foreign
+Currency Subcommittee ( the âSubcommitteeâ )
+Committee . Subcommittee consists Chairman Vice Chairman Committee , Vice
+Chairman Board Governors ,
+member Board Chairman may designate ( or
+absence member Board serve
+Subcommittee , Board member designate
+Chairman alternate , absence Vice
+Chairman Committee , Vice Chairmanâs alternate ) . Meetings Subcommittee shall call
+request member , request manager , System Open Market Account ( âmanagerâ ) ,
+purpose review recent contemplate operation consult manager matter relate managerâs responsibility . request member Subcommittee , question
+arise review consultation shall refer determination Committee .
+7 . Chairman authorize :
+A . approval Committee , enter
+need agreement understand
+Secretary Treasury division responsibility foreign currency operation
+System Treasury ;
+B . keep Secretary Treasury fully advise concern System foreign currency operation ,
+consult Secretary policy matter relate foreign currency operation ;
+C . time time , transmit appropriate report information National Advisory Council International Monetary Financial Policies .
+8 . Federal Reserve Banks shall participate
+foreign currency operation System Account accordance paragraph 3G ( 1 ) Board Governorsâ Statement Procedure Respect Foreign
+Relationships Federal Reserve Banks date January 1 ,
+1944 .
+
+9 . Committee authorizes Selected Bank
+undertake transaction type described paragraph 1 , 2 , 5 , foreign exchange investment
+transaction may otherwise authorize
+undertake time time purpose test
+operational readiness . aggregate amount
+transaction shall exceed $ 2.5 billion per calendar
+year . transaction shall conduct prior
+notice Committee .
+FOREIGN CURRENCY DIRECTIVE
+( As reaffirm effective January 26 , 2016 )
+1 . System operation foreign currency shall generally direct counter disorderly market condition , provide market exchange rate U.S .
+dollar reflect action behavior consistent IMF
+Article IV , Section 1 .
+2 . achieve end System shall :
+A . Undertake spot forward purchase sale
+foreign exchange .
+B . Maintain reciprocal currency arrangement
+foreign central bank accordance Authorization Foreign Currency Operations .
+C . Maintain stand dollar liquidity swap arrangement foreign bank accordance Authorization Foreign Currency Operations .
+D . Maintain stand foreign currency liquidity
+swap arrangement foreign bank accordance
+Authorization Foreign Currency Operations .
+E . Cooperate respect central bank
+country international monetary institution .
+3 . Transactions may also undertaken :
+A . adjust System balance light probable
+future need currency .
+B . provide mean meeting System Treasury commitment particular currency , facilitate operation Exchange Stabilization Fund .
+C . purpose may expressly authorize Committee .
+4 . System foreign currency operation shall conduct :
+A . close continuous consultation cooperation United States Treasury ;
+B . cooperation , appropriate , foreign
+monetary authority ;
+C . manner consistent obligation
+United States International Monetary Fund
+regard exchange arrangement IMF Article
+IV .
+
+Minutes Meeting January 26â27 , 2016
+Page 7
+_____________________________________________________________________________________________
+
+PROCEDURAL INSTRUCTIONS RESPECT
+FOREIGN CURRENCY OPERATIONS
+( As reaffirm effective January 26 , 2016 )
+conduct operation pursuant authorization direction Federal Open Market Committee ( the âCommitteeâ ) set forth Authorization
+Foreign Currency Operations Foreign Currency Directive , Federal Reserve Bank select
+Committee execute open market transaction ( the
+âSelected Bankâ ) , manager , System Open
+Market Account ( âmanagerâ ) , shall guide follow procedural understanding respect consultation clearance Committee , Foreign Currency Subcommittee ( the âSubcommitteeâ ) ,
+Chairman Committee , unless otherwise
+direct Committee . operation undertaken
+pursuant clearance shall report promptly
+Committee .
+1 . reciprocal currency arrangement authorize paragraph 2.A Authorization
+Foreign Currency Operations :
+A . Drawings must approve Subcommittee ( or Chairman , Chairman believe
+consultation Subcommittee feasible time available ) swap draw propose foreign bank exceed large
+( i ) $ 200 million ( ii ) 15 percent size
+swap arrangement .
+B . Drawings must approve Committee
+( or Subcommittee , Subcommittee believe consultation full Committee
+feasible time available , Chairman , Chairman believe consultation
+Subcommittee feasible time available ) swap draw propose foreign bank
+exceeds large ( i ) $ 200 million ( ii ) 15 percent size swap arrangement .
+C . manager shall also consult Subcommittee Chairman propose swap
+drawing System .
+D . change term exist swap arrangement shall refer review approval Chairman . Chairman shall keep
+Committee inform change term ,
+term shall consistent principle discuss guidance provide Committee .
+2 . dollar foreign currency liquidity swap
+arrangement authorize paragraph 2.B 2.C
+Authorization Foreign Currency Operations :
+
+A . Drawings must approve Chairman
+consultation Subcommittee . Chairman Subcommittee consult
+Committee prior initial draw dollar
+foreign currency liquidity swap line possible
+circumstance prevailing ; authority
+approve subsequent drawing either dollar
+foreign currency liquidity swap line may delegate manager Chairman .
+B . change term exist swap arrangement shall refer review approval Chairman . Chairman shall keep
+Committee inform change term ,
+term shall consistent principle discuss guidance provide Committee .
+3 . operation must approve by :
+A . Subcommittee ( or Chairman ,
+Chairman believe consultation Subcommittee feasible time available ) it :
+i .
+Would result change Systemâs
+overall open position foreign currency exceed $ 300 million day $ 600 million
+since recent regular meeting Committee .
+ii . Would result change day
+Systemâs net position single foreign currency
+exceed $ 150 million , $ 300 million
+operation associate repayment swap
+drawing .
+iii . Might generate substantial volume trading particular currency System , even
+though change Systemâs net position
+currency ( as define paragraph 1.D
+Authorization Foreign Currency Operations )
+might less limit specify 3.A.ii .
+B . Committee ( or Subcommittee ,
+Subcommittee believe consultation
+full Committee feasible time available , Chairman , Chairman believe
+consultation Subcommittee feasible time available ) would result
+change Systemâs overall open position foreign currency exceed $ 1.5 billion since
+recent regular meeting Committee .
+4 . Committee authorizes Selected Bank
+undertake transaction type described paragraph 1 , 2 , 5 Authorization Foreign
+Currency Operations foreign exchange investment transaction may otherwise authorize undertake time time purpose
+test operational readiness . aggregate
+
+Page 8
+Federal Open Market Committee
+_____________________________________________________________________________________________
+
+amount transaction shall exceed $ 2.5 billion per calendar year . transaction shall
+conduct prior notice Committee .
+unanimous vote , Committee amend Program Security FOMC Information ( Program )
+four set change . change consist ( 1 )
+clarification Federal Reserve person , include FOMC participant well staff member ,
+must receive , review , agree abide Program
+gain access confidential FOMC information , annually thereafter ; ( 2 ) change provide
+Chairman flexibility designate Board staff member make decision regard access FOMC information Board staff ; ( 3 ) technical change improve
+consistency accuracy Program language ;
+( 4 ) change Programâs provision handle potential breach Committeeâs information security
+rule . final set change codifies approach
+use recent year promptly refer material potential breach Boardâs inspector general ( IG ) .
+addition , incorporates revise language state
+prompt referral IG , would include request investigation , would make secretary Committeeâs general counsel , appropriate consultation Chairman , thereby vest
+referral responsibility one person thus
+reduce possibility apparent conflict interest make referral determination .
+end Committeeâs annual disposition organizational matter , participant consider revise
+Statement Longer-Run Goals Monetary Policy
+Strategy . propose revision would clarify
+Committee view 2 percent inflation goal symmetric . present revise statement behalf
+subcommittee communication , Governor
+Fischer point that , discussion statement
+October 2014 , participant express widespread
+agreement inflation moderately Committeeâs 2 percent goal inflation amount
+level equally costly . note propose language intend encompass situation
+deviation Committeeâs inflation objective expect continue time
+potential affect longer-term inflation expectation .
+addition explicit indication Committee
+view inflation objective symmetric , revise
+statement would update reference participantsâ estimate longer-run normal rate unemployment
+recent Summary Economic Projections ( SEP ) , use median projection rather
+central tendency .
+
+Participants note statement reflect exceptionally high degree consensus threshold
+amendment high ; judged revision important would clarify
+symmetry Committeeâs 2 percent inflation objective communicate public objective
+ceiling . Participants also note propose new language indicate Committee
+would âbe concerned inflation run persistently belowâ 2 percent objective would
+require participant hold similar view inflation dynamic ; addition , propose language would
+specify stance monetary policy circumstance would afford Committee appropriate
+flexibility tailor policy response persistent deviation inflation objective . Moreover , participant generally agree propose new language
+interpret apply situation
+inflation see likely remain
+2 percent sustain period . However , one participant judged propose language could read
+refer current past deviation inflation objective , argue statement
+clearly indicate Committeeâs policy decision base expect future inflation . couple
+others agree reason concern
+deviation 2 percent objective ,
+note reason for , degree of , concern could differ depend upon direction
+deviation broader macroeconomic condition .
+participant one support adopt propose amendment . Participants agree appropriate release amend statement , reproduce below , advance Monetary Policy Report
+testimony , schedule mid-February .
+STATEMENT LONGER-RUN GOALS
+MONETARY POLICY STRATEGY
+( As amend effective January 26 , 2016 )
+âThe Federal Open Market Committee ( FOMC )
+firmly commit fulfil statutory mandate
+Congress promote maximum employment , stable price , moderate long-term interest rate .
+Committee seek explain monetary policy decision public clearly possible . clarity
+facilitates well-informed decisionmaking household
+business , reduces economic financial uncertainty , increase effectiveness monetary policy ,
+enhances transparency accountability ,
+essential democratic society .
+
+Minutes Meeting January 26â27 , 2016
+Page 9
+_____________________________________________________________________________________________
+
+Inflation , employment , long-term interest rate
+fluctuate time response economic financial disturbance . Moreover , monetary policy action
+tend influence economic activity price lag .
+Therefore , Committeeâs policy decision reflect
+longer-run goal , medium-term outlook , assessment balance risk , include risk
+financial system could impede attainment
+Committeeâs goal .
+
+project return level judged consistent
+mandate .
+Committee intend reaffirm principle
+make adjustment appropriate annual organizational meeting January.â
+Committee member one vote adopt revise statement . Although Mr . Bullard support
+statement without change agree Committeeâs inflation goal symmetric , dissent
+judged amend language sufficiently
+focus expect future deviation inflation
+2 percent objective . addition , Committeeâs past behavior demonstrate emphasis
+place expect future inflation , Mr . Bullard view
+amend language potentially confuse
+public .
+
+inflation rate longer run primarily determine monetary policy , hence Committee
+ability specify longer-run goal inflation .
+Committee reaffirms judgment inflation
+rate 2 percent , measure annual change
+price index personal consumption expenditure , consistent longer run
+Federal Reserveâs statutory mandate . Committee
+would concerned inflation run persistently objective . Communicating
+symmetric inflation goal clearly public help
+keep longer-term inflation expectation firmly anchor ,
+thereby foster price stability moderate long-term
+interest rate enhance Committeeâs ability
+promote maximum employment face significant economic disturbance . maximum level employment largely determine nonmonetary factor
+affect structure dynamic labor market . factor may change time may
+directly measurable . Consequently , would
+appropriate specify fix goal employment ; rather , Committeeâs policy decision must inform
+assessment maximum level employment ,
+recognize assessment necessarily uncertain subject revision . Committee considers
+wide range indicator make assessment .
+Information Committee participantsâ estimate
+longer-run normal rate output growth unemployment publish four time per year
+FOMCâs Summary Economic Projections . example , recent projection , median
+FOMC participantsâ estimate longer-run normal
+rate unemployment 4.9 percent .
+
+Developments Financial Markets , Open Market
+Operations , Policy Normalization
+SOMA manager report development domestic foreign financial market , include change
+expectation market participant trajectory monetary policy . deputy manager follow
+briefing money market development System open market operation conduct Open
+Market Desk period since Committee met
+December 15â16 , 2015 . report include assessment response money market interest rate
+increase target range federal fund
+rate announce follow December meeting . Overall , rate increase implement smoothly
+money market respond anticipate . Take-up
+overnight reverse repurchase agreement ( ON RRP ) operation period consistent observe test phase operation second
+half last year . deputy manager also review
+plan reinvestment proceeds upcoming
+maturation SOMA holding Treasury security ,
+small-value test various System operation
+facility 2016 , quarterly test Term
+Deposit Facility .
+
+set monetary policy , Committee seek
+mitigate deviation inflation longer-run goal
+deviation employment Committeeâs assessment maximum level . objective
+generally complementary . However , circumstance Committee judge objective complementary , follow balance approach promote them , take account magnitude deviation potentially different
+time horizon employment inflation
+
+Committee resume consideration matter related Systemâs reverse repurchase agreement ( RRP ) facility , focus particular appropriate aggregate capacity RRP facility go forward . Previous communication indicate
+Committee intend allow aggregate capacity
+RRP facility temporarily elevate
+policy firm commenced support monetary
+policy implementation expect would appropriate reduce capacity fairly soon thereafter .
+
+Page 10
+Federal Open Market Committee
+_____________________________________________________________________________________________
+
+staff presentation meeting review broad strategy reintroduce aggregate cap RRP operation manage cap subsequently . discussion follow , participant reiterate
+Committee expect phase facility
+longer need help control federal fund rate ,
+unanimously express view would
+appropriate reintroduce aggregate cap RRP
+operation point . Regarding so , participant held varied view , nearly indicate preference wait couple month longer
+make operational adjustment facility , part
+Federal Reserve could gain additional experience policy implementation tool . Concerning
+strategy would use cap RRP facility time come , policymakers favor
+approach relatively high cap level would
+impose initiallyâthough one nonetheless would
+significantly reduce capacity relative current situationâwith intention periodically make
+reduction level cap appropriate .
+participant indicate preference initially impose
+somewhat low cap . note demand
+RRPs could reduce widen spread interest rate reserve offering rate
+RRPs . make judgment , policymakers emphasize primacy maintain monetary control set appropriate capacity
+RRP facility time be ; participant indicate
+Committeeâs future decision regard size
+ultimate longevity facility largely
+driven consideration monetary control , although
+factor , financial stability , also
+take account . Finally , policymakers also discuss
+appropriate management Federal Reserveâs
+RRP operation quarter-ends , private-sector
+cash investment option temporarily predictably decline result temporary downward pressure
+money market rate , include federal fund
+rate . Several participant indicate preference continue take account calendar effect conduct RRPs ; policymakers emphasize , however , view temporary decline
+federal fund rate materially adverse factor
+monetary control . Overall , participant agree that ,
+time least , Committee would continue
+provide ample RRPs form quarter-ends ,
+include March .
+unanimous vote , Committee ratify Deskâs
+domestic transaction intermeeting period .
+
+intervention operation foreign currency Systemâs account intermeeting period .
+Staff Review Economic Situation
+information review January 26â27 meeting indicate labor market condition continued
+improve fourth quarter last year even though
+growth real gross domestic product ( GDP ) appear
+slow . Consumer price inflation still run Committeeâs longer-run objective 2 percent ,
+restrain part decrease energy price
+price non-energy import . Recent survey-based
+measure longer-run inflation expectation little
+change , balance , market-based measure inflation compensation decline far .
+Total nonfarm payroll employment increase substantially December , monthly pace job gain
+fourth quarter whole faster third
+quarter . unemployment rate remain 5.0 percent December , labor force participation rate employment-to-population ratio increase little . share worker employ part time
+economic reason move bit December .
+rate private-sector job opening , hire , quits
+little change November . four-week move average initial claim unemployment insurance
+benefit somewhat high early January
+low level late last year . Average hourly earnings
+employee increase 2Â½ percent 12 month
+end December , Â½ percentage point
+period year earlier .
+Industrial production decrease November December , primarily reflect ongoing effect
+appreciation foreign exchange value dollar
+decline crude oil price since middle
+2014 . Manufacturing output decline , step-down
+production motor vehicle part
+high level see earlier last year , production outside motor vehicle sector roughly flat . Production mining sector continued fall ,
+output utility decline , weather unseasonably warm . Automakersâ assembly schedule
+broader indicator manufacturing production ,
+reading new order national regional
+manufacturing survey , mostly point slow pace
+gain factory output early year . Information
+drilling activity crude oil natural gas early January consistent decline mining output .
+Real personal consumption expenditure ( PCE ) appear increase slow rate fourth
+
+Minutes Meeting January 26â27 , 2016
+Page 11
+_____________________________________________________________________________________________
+
+quarter previous quarter . Although real PCE
+rise solidly November , spending flat October . Moreover , December component
+nominal retail sale data use Bureau Economic Analysis construct estimate PCE edge
+down , rate sale light motor vehicle ,
+remain high level , decline . However , recent
+reading key factor influence consumer spending generally favorable . Growth real disposable
+income continued solid November . Householdsâ net worth support strong gain
+home value November , although equity
+price decline recent month . Also , consumer sentiment University Michigan Surveys Consumers remain elevate level early January .
+Recent information housing activity consistent
+continued gradual recovery sector .
+start building permit new single-family home
+move high , balance , November December ,
+start multifamily unit also step up . New
+home sale increase modestly November . Sales
+exist home rise strongly December ,
+offset outsized decline November , likely
+reflect change mortgage regulation temporarily held exist home sale .
+Growth real private expenditure business equipment intellectual property product look
+slow fourth quarter third quarter .
+Nominal shipment nondefense capital good exclude aircraft move November . Forward-looking indicator equipment spending , new order nondefense capital good along recent
+reading national regional survey business
+condition , generally point soft business equipment
+spending come month . Firmsâ nominal spending nonresidential structure exclude drilling
+mining decline somewhat November . Indicators
+spending structure drilling mining sector ,
+number oil gas rig operation , continued fall early January . available information indicate inventory investment decrease
+fourth quarter , although little evidence inventory-to-sales ratio uncomfortably
+high outside energy sector .
+Total real government purchase appear
+flat fourth quarter . Federal government spending
+defense move roughly sideways . State local
+government payroll increase somewhat fourth
+quarter , nominal construction spending
+government decline October November .
+
+U.S . international trade deficit narrow November , import fell export . value export decline low level since begin
+2012 . decrease import widespread across
+category , particularly large decline import
+consumer good . available trade data suggest
+net export continued weigh real GDP growth
+fourth quarter .
+Total U.S . consumer price , measure PCE
+price index , increase Â½ percent
+12 month end November , partly restrain
+substantial decline consumer energy price . Core
+PCE price inflation , excludes change food
+energy price , 1Â¼ percent 12-month
+period , held part decrease price
+non-energy import pass-through decline
+energy price . 12 month end December ,
+total consumer price measure consumer
+price index ( CPI ) rise Â¾ percent , core CPI inflation around 2 percent . Recent survey measure
+longer-run inflation expectation little change
+balance . early January , Michigan survey measure
+median inflation expectation next 5
+10 year ticked continued run near low end
+typical range past 15 year . Survey
+Primary Dealers Survey Market Participants
+indicate median expectation CPI inflation
+5 10 year ahead essentially unchanged January .
+many foreign economy , real GDP growth
+fourth quarter appear continue pace roughly
+similar third quarter . contrast , economic
+growth weaken Canada , part investment
+spending continued weigh effect
+sharp decline oil price since middle
+2014 . Lower oil price slow U.S . manufacturing activity contribute step-down rate
+economic growth Mexico . Economic growth slow
+slightly China remain robust , support
+modest pickup growth Chinese manufacturing output . decline energy price pull inflation many foreign economy fourth quarter ,
+inflation fall near zero several advanced
+economy .
+Staff Review Financial Situation
+Domestic financial condition tighten intermeeting period , turmoil Chinese financial market
+low oil price contribute concern prospect global economic growth pullback
+risky asset . increase reluctance hold risky asset
+associate sharp decline equity price
+notable widen risk spread corporate bond .
+
+Page 12
+Federal Open Market Committee
+_____________________________________________________________________________________________
+
+Treasury yield decline across maturity , reflect
+downward revision expect path federal
+fund rate likely increase safe-haven demand amid market turbulence . dollar appreciate foreign currency .
+Committeeâs decision raise target range
+federal fund rate Â¼ Â½ percent December meeting widely anticipate financial market
+elicit little reaction Treasury interest rate
+future market . expect path federal fund
+rate imply market quote interest-rate derivative
+move notably year-end ; turbulence
+global financial market evidently lead investor expect
+gradual increase target range federal
+fund rate previously anticipate . line
+interpretation , result Deskâs January
+Survey Primary Dealers Survey Market Participants indicate that , average , respondent expect
+few increase target range year
+project December .
+Consistent decline expect path
+federal fund rate , yield nominal Treasury security
+move low intermeeting period . Part
+decline likely also reflect increase safe-haven demand low-risk highly liquid asset amid turbulence financial market . Measures forward inflation compensation base Treasury Inflation-Protected Securities inflation swap fell far .
+Broad U.S . equity price index decline sharply
+intermeeting period , exhibit high correlation
+movement crude oil price foreign equity index . Domestic equity index quite volatile
+January , one-month-ahead option-implied volatility
+S & P 500 index climbed upper end
+range past year . Spreads corporate bond
+comparable-maturity Treasury security widen
+intermeeting period , reportedly reflect increase concern corporate credit quality , particularly energy sector , decline investorsâ willingness assume risk .
+Financing condition nonfinancial business remain accommodative firm high credit quality
+tighten somewhat riskier firm . Investmentgrade bond issuance stayed robust , speculativegrade bond issuance weak . growth commercial industrial ( C & I ) loan banksâ book continued strong , although modest net percentage
+bank report tighten standard C & I loan
+large middle-market firm fourth quarter
+recent Senior Loan Officer Opinion Survey
+
+( SLOOS ) . Issuance syndicate leveraged loan decrease fourth quarter amid high spread ,
+pronounce slow relatively risky loan
+earmark leveraged buyout .
+Credit continued broadly available commercial real estate ( CRE ) sector . growth CRE loan
+banksâ balance sheet remain strong fourth
+quarter , issuance commercial mortgage-backed
+security ( CMBS ) continued robust pace December . However , moderate net percentage bank report recent SLOOS tighten standard CRE loan fourth quarter ,
+credit spread CMBS market continued widen
+intermeeting period .
+Credit condition residential mortgage little
+change intermeeting period . Credit remain
+tight borrower low credit score , hard-todocument income , high debt-to-income ratio . According January SLOOS , moderate net fraction
+bank ease standard several type home mortgage past three month expect ease
+standard year .
+Financing condition consumer credit market
+little change intermeeting period remain
+accommodative balance . Consumer loan balance
+continued rise robust pace fourth quarter ,
+reflect expansion credit card , auto ,
+student loan balance . Student auto loan remain
+broadly available , even borrower subprime
+credit history , availability credit card loan
+subprime borrower still tight . Respondents
+January SLOOS indicate that , past three
+month , ease standard term auto
+loan tighten standard term credit card
+loan .
+Global financial market condition deteriorate sharply
+January , recent development Chinese financial
+market decrease crude oil price appear increase concern global economic
+growth . Equity price emerge market economy
+( EMEs ) advanced foreign economy ( AFEs ) fell
+sharply , 10-year sovereign yield AFEs decrease substantially . Market expectation policy
+rate major foreign central bank , risen
+somewhat December FOMC meeting , end
+period low . Credit spread EMEs widen .
+foreign exchange value U.S . dollar appreciate currency , large increase relative currency commodity-exporting country .
+
+Minutes Meeting January 26â27 , 2016
+Page 13
+_____________________________________________________________________________________________
+
+staff provide late report potential risk
+financial stability judged financial vulnerability
+U.S . financial system moderate balance .
+assessment reflect strong capital liquidity
+position bank , moderate leverage nonbank financial sector , subdue borrowing household .
+Risk premium increase spread widen
+estimate necessary compensate
+expect loss , suggest decline willingness investor bear credit risk . However , leverage
+continued increase nonfinancial business sector , particularly among energy-related relatively risky firm . high leverage nonfinancial corporation liquidity mismatch high-yield bond
+mutual fund suggest elevate risk bond investor lower-rated borrower .
+Staff Economic Outlook
+economic projection prepared staff
+January FOMC meeting , real GDP growth fourth
+quarter last year estimate markedly
+slow forecast December meeting .
+However , medium-term projection real GDP
+growth slightly low , balance , previous forecast . staff estimate negative effect low project path equity price
+high assume trajectory foreign exchange value
+dollar would mostly offset positive effect low path crude oil price slightly
+stimulus aggregate demand change fiscal policy assume previous forecast .
+particular , federal legislation enact December unexpectedly include multiyear extension bonus depreciation tax credit business investment
+delay introduction several tax increase related
+Affordable Care Act . staff continued project real GDP would expand somewhat faster
+pace potential output 2016 2018 , support primarily increase consumer spending .
+unemployment rate expect gradually decline run somewhat staffâs estimate longer-run natural rate period .
+staffâs forecast inflation near term revise slightly , reflect recent data consumer
+price decline price crude oil ;
+projection inflation medium term
+little revise . Energy price price non-energy
+import good expect begin steadily rise
+later year . staff continued project inflation would increase gradually next several year
+reach Committeeâs longer-run objective 2 percent end 2018 .
+
+staff view uncertainty around January projection real GDP growth , unemployment rate ,
+inflation similar average past
+20 year . risk forecast real GDP
+see tilt downside , reflect staffâs assessment neither monetary fiscal policy well
+position help economy withstand substantial
+adverse shock ; downside risk forecast
+economic activity see pronounce
+December , mainly reflect great uncertainty
+global economic prospect financial market turbulence United States abroad . Consistent downside risk aggregate demand ,
+staff view risk outlook unemployment rate skewed upside . risk projection inflation see weight downside , reflect possibility longer-term inflation
+expectation may edge foreign
+exchange value dollar could rise substantially far , would put downward pressure inflation .
+Participantsâ Views Current Conditions
+Economic Outlook
+discussion economic situation
+outlook , meeting participant saw information receive intermeeting period suggest
+labor market condition improve late
+2015 even economic growth slow . Household
+business spending increase moderate rate ;
+however , net export soft inventory investment slow . range labor market indicator point additional decline underutilization labor resource . Inflation continued run Committeeâs 2 percent longer-run objective ,
+partly reflect decline energy price price
+non-energy import . Market-based measure inflation compensation decline intermeeting period ; survey-based measure longer-term inflation expectation little change , balance , recent month .
+consider outlook economic activity , participant weigh divergent signal recent
+strength labor market modest increase
+real GDP suggest available data spending
+production . part , project slow growth
+real GDP fourth quarter 2015 appear
+cause reduce inventory investment weatherrelated slow consumer spending energy servicesâdevelopments would likely reverse
+current quarter . Moreover , participant note
+preliminary spending data initial estimate
+GDP often revise substantially , judged
+labor market indicator tend provide
+
+Page 14
+Federal Open Market Committee
+_____________________________________________________________________________________________
+
+reliable early reading economyâs underlie
+strength .
+assess medium-term outlook , participant discuss extent recent turbulence
+global financial market might restrain U.S . economic
+activity . acknowledge possible adverse effect tighten financial condition
+occur , policymakers thought extent
+tighter condition would persist
+might imply outlook unclear ,
+therefore judged premature alter appreciably assessment medium-term economic outlook . continued anticipate economic activity would expand moderate pace medium
+term labor market would continue
+strengthen . Inflation expect remain low
+near term , part decline energy price . However , participant continued
+anticipate inflation would rise 2 percent
+medium term transitory effect decline energy import price dissipate labor market
+strengthen far . Given increase uncertainty
+global economic financial development
+might evolve , participant emphasize importance
+closely monitoring development assess implication labor market inflation , balance risk outlook .
+Growth consumer spending appear slow
+fourth quarter , December data show
+decline nominal retail sale step-down purchase new motor vehicle elevate level
+precede three month . Moreover , householdsâ
+spending energy service evidently held
+unseasonably warm weather many part country . Although participant receive mixed report
+District contact consumer spending ,
+heard retail activity generally positive
+year-end , number participant relayed indication spending service Districts remain solid . Regarding outlook consumer
+spending , number participant note recent
+moderation spending seem inconsistent continued strong gain householdsâ real income rise employment fall energy price
+relatively elevate level consumer sentiment .
+favorable fundamental , many participant indicate still expect consumer spending contribute importantly economic growth come
+year . However , several concerned rise
+save rate since middle 2015 might suggest
+elevate degree caution economic out-
+
+look recent retreat equity value , sustain , might damp spending . Nonetheless , couple
+others point information survey
+consumer sentiment suggest household , date ,
+appear particularly sensitive change
+financial market condition .
+Housing sale construction continued trend
+though end 2015 , extend gradual recovery
+housing sector . participantsâ report economic condition Districts , highlight
+sector one activity improve
+contact upbeat . couple participant
+note new mortgage lending regulation appear
+slow mortgage origination process
+temporarily reduce home sale .
+Manufacturing activity continued weaken late 2015 .
+Production continued contract industriesâsuch
+steel heavy machineryâin demand
+negatively affect , either directly indirectly ,
+appreciation dollar , slow economic growth
+abroad , decline oil price . Participants
+Reserve Banks conduct survey manufacturing
+activity report weakness extend January . Nonetheless , several participant point aerospace , auto , consumer product area strength
+manufacturing sector , comment
+manufacturer survey Districts still relatively optimistic outlook 2016 . Information business activity outside manufacturing
+sector mixed . Commercial construction report strong couple Districts ,
+participant comment government spending
+likely provide boost business activity come year . Several participant report moderate growth
+service industry , couple note slow
+activity . participant report deterioration
+business sentiment among contact wake
+recent global economic financial development ,
+could result more-cautious capital spending
+plan .
+Downward pressure domestic energy activity intensified intermeeting period oil price drop
+far . imbalance supply crude oil relative
+demand remain high appear unlikely
+resolve quickly , evidence downshift oil future price . Participantsâ contact
+energy sector report firm still adjust
+low price contraction business ,
+firm expect would need cut investment employment far . addition , note
+energy firm continued face tighten financial
+
+Minutes Meeting January 26â27 , 2016
+Page 15
+_____________________________________________________________________________________________
+
+condition financial stress building
+high level debt . agriculture , depressed
+level crop price weak global demand continued
+weaken farm income .
+broad range indicator show ongoing improvement labor market condition . notably , increase nonfarm payroll employment quite
+strong final three month 2015 . Although
+unemployment rate , 5.0 percent , unchanged
+period , level close
+participantsâ estimate longer-run normal rate .
+Moreover , labor force participation rate employment-to-population rate move toward year-end .
+Many view labor market underutilization
+substantially reduce past year ,
+saw slack largely eliminate .
+comment labor market condition , participant cite
+strong employment gain , low level unemployment
+Districts , report shortage worker various industry , firm wage increase . anticipate employment would expand solid rate
+year ahead , although several saw prospect
+moderation employment gain particularly large increase fourth quarter 2015 .
+Participants discuss implication decline price oil commodity
+additional appreciation dollar since previous
+FOMC meeting outlook inflation .
+agree development would keep inflation low
+near term offer range view effect medium-term outlook risk attend outlook . continued anticipate
+price energy exchange value dollar
+stabilize , effect factor inflation would
+fade . Several saw outlook depend importantly
+continued strengthen labor market
+above-trend pace economic activity . Moreover ,
+emphasize need longer-run inflation expectation remain well anchor . regard ,
+participant interpret recent reading
+survey-based measure inflation expectation
+market-based measure inflation compensation
+suggest long-term inflation expectation
+still relatively well anchor , others express concern decline inflation compensation
+recently historically low level survey
+measure longer-run inflation expectation .
+note difficulty distinguish decline expect inflation embed market-based
+measure change risk liquidity premium
+interpret current high correlation far-forward measure inflation compensation oil price .
+
+Although participant continued expect inflation would rise Committeeâs 2 percent objective
+medium term , number participant indicate that , light recent development , view
+outlook inflation somewhat uncertain
+saw risk downside . Several participant reiterate importance monitoring inflation
+development closely confirm inflation
+evolve along path anticipate Committee .
+Regarding foreign economic outlook , note
+slowdown Chinaâs industrial sector
+decline global commodity price could restrain economic activity EMEs commodityproducing country time . Participants discuss recent development China , include possibility structural change financial imbalance
+Chinese economy might lead sharper deceleration economic growth country generally anticipate . downshift , occur , could
+increase economic financial stress
+EMEs commodity producer , include Canada
+Mexico . Moreover , global financial market could
+continue affected uncertainty Chinaâs exchange rate regime . exposure United
+States Chinese economy direct trade tie
+limit , number participant concerned
+potential drag U.S . economy
+broader effect greater-than-expected slowdown
+China EMEs .
+Participants also discuss range issue related
+financial market development . Almost participant
+cite number recent event indicative tighter
+financial condition United States ; event include decline equity price , widen credit
+spread , rise exchange value dollar ,
+increase financial market volatility . participant also point significantly tighter financing
+condition speculative-grade firm small business , report tighter standard bank
+C & I CRE loan . effect financial development , persist , may roughly
+equivalent firm monetary
+policy . Participants mention several apparent factor
+underlie recent financial market turbulence , include economic financial development China
+foreign country , spillover financial market stress firm country producer energy commodity , increase
+concern among market participant regard
+prospect domestic economic growth . However ,
+number participant note large magnitude
+change domestic financial market condition
+
+Page 16
+Federal Open Market Committee
+_____________________________________________________________________________________________
+
+difficult reconcile incoming information U.S .
+economic development . couple participant
+point recent decline equity price could
+view bring equity valuation line
+historical norm . Additionally , participant caution valuation CRE market closely
+monitor . effect relatively flat yield curve
+low interest rate reduce banksâ net interest margin
+also note .
+Participants discuss whether current assessment
+economic condition medium-term outlook
+warrant either increase target range federal fund rate meeting alter earlier
+view appropriate path target range
+federal fund rate . Participants agree incoming indicator regard labor market development
+encouraging , also data release since December meeting spending production disappointing . Furthermore , development commodity
+financial market well possibility significant weaken foreign economy
+potential restrain domestic economic activity ,
+partly large cumulative decline energy
+commodity price could pronounce adverse effect firm country important producer commodity . However ,
+note potential positive effect low energy cost economic activity mitigate factor .
+Participants judged overall implication
+development outlook domestic economic
+activity unclear , agree uncertainty
+increase , many saw development increase downside risk outlook .
+expect , inflation continued run 2 percent , decline energy price additional appreciation dollar likely imply inflation would take somewhat longer previously anticipate rise Committeeâs objective .
+note although generally appropriate
+monetary policy respond substantially temporary shock inflation , prescription depend
+part assumption longer-term inflation expectation remain well anchor . Participants point
+market-based measure longer-term inflation compensation decline historically low
+level , increase concern whether inflation
+expectation could move low . participant ,
+however , note survey-based measure longerterm inflation expectation remain fairly steady ,
+participant characterize measure underlie inflation rate , core trim mean
+PCE inflation , stayed relatively stable .
+
+participant still expect inflation increase gradually
+energy price price non-energy import
+stabilize labor market strengthen far .
+However , participant note direct evidence
+inflation rise toward 2 percent would
+important element assessment outlook
+appropriate path policy .
+Participants express range view regard
+balance risk medium-term economic outlook
+implication conduct monetary policy .
+participant indicate difficult judge
+point whether outlook inflation economic growth change materially , thought
+uncertainty surround outlook increase
+result recent financial economic development . participant view
+yet enough evidence indicate whether balance
+risk medium-term outlook change materially , others judged recent development
+increase level downside risk risk
+longer balance .
+Several participant note monetary policy less
+well position respond effectively shock reduce inflation real activity upside shock ,
+wait additional information regard underlie strength economic activity prospect
+inflation take next step reduce policy accommodation would prudent . participant
+continued expect gradual adjustment
+stance monetary policy would appropriate ,
+emphasize timing pace adjustment
+depend future economic financial market development implication medium-term
+economic outlook . couple participant question
+whether financial market participant fully appreciate monetary policy data dependent ,
+number participant emphasize importance
+continue communicate aspect monetary policy .
+Committee Policy Action
+discussion monetary policy period
+ahead , member judged information receive since
+Committee met December suggest labor
+market condition improve even economic growth slow late last year . Members note
+range recent labor market indicator , include
+strong job gain , point additional decline
+underutilization labor resource . Members also
+agree household spending business fix investment increase moderate rate recent
+month , housing sector improve far ;
+
+Minutes Meeting January 26â27 , 2016
+Page 17
+_____________________________________________________________________________________________
+
+however , net export soft inventory investment slow . Members note inflation
+continued run Committeeâs 2 percent
+longer-run objective , partly reflect decline energy
+price price non-energy import . Marketbased measure inflation compensation decline
+far ; survey-based measure longer-term inflation
+expectation little change , balance , recent
+month . Members expect that , gradual adjustment stance monetary policy , economic activity would expand moderate pace labor market
+condition would continue strengthen .
+assess whether economic condition improve sufficiently warrant increase
+target range federal fund rate meeting ,
+member agree labor market data generally
+strong anticipate time December meeting , member note wage growth
+picked up . However , spending production
+data generally disappointingâin particular , information regard indicator manufacturing activity , consumption expenditure , inventory investment . Regarding outlook inflation , additional
+sharp decline energy price strengthen
+exchange value dollar since December meeting likely hold inflation longer
+previously anticipate , inflation expect increase gradually energy price price nonenergy import stabilize labor market strengthen far . couple member emphasize direct evidence inflation rise toward 2 percent
+would important element assessment
+appropriate timing policy firming .
+discuss appropriate path target range
+federal fund rate medium term , member agree would important closely monitor
+global economic financial development continue ass implication labor market
+inflation , balance risk outlook .
+Members express range view regard implication recent economic financial development degree uncertainty mediumterm outlook , many member judging uncertainty increase . Members generally agree
+implication available information sufficiently clear allow member ass balance
+risk economic outlook Committeeâs
+postmeeting statement . However , member observe
+recent tighten global financial condition
+sustain , could factor amplify downside
+risk .
+
+assess outlook economic activity , labor market , inflation , weigh uncertainty associate outlook , member agree
+leave target range federal fund rate unchanged Â¼ Â½ percent . Committee also maintain policy reinvesting principal payment
+agency debt agency mortgage-backed security
+roll mature Treasury security auction ,
+anticipate would appropriate continue reinvestment policy normalization
+level federal fund rate well way .
+policy , keep Committeeâs holding longerterm security sizable level , help maintain accommodative financial condition .
+conclusion discussion , Committee
+vote authorize direct Federal Reserve Bank
+New York , instruct otherwise , execute transaction SOMA accordance
+follow domestic policy directive , release
+2:00 p.m. :
+âEffective January 28 , 2016 , Federal Open
+Market Committee directs Desk undertake
+open market operation necessary maintain
+federal fund rate target range Â¼
+Â½ percent , include overnight reverse repurchase operation ( and reverse repurchase operation maturity one day
+necessary accommodate weekend , holiday ,
+similar trading convention ) offering rate
+0.25 percent , amount limited value
+Treasury security held outright System
+Open Market Account available
+operation per-counterparty limit
+$ 30 billion per day .
+Committee directs Desk continue roll mature Treasury security auction
+continue reinvesting principal payment
+agency debt agency mortgage-backed
+security agency mortgage-backed security .
+Committee also directs Desk engage
+dollar roll coupon swap transaction
+necessary facilitate settlement Federal
+Reserveâs agency mortgage-backed security
+transactions.â
+vote also encompass approval statement
+release 2:00 p.m. :
+âInformation receive since Federal Open
+Market Committee met December suggests
+labor market condition improve
+even economic growth slow late last year .
+
+Page 18
+Federal Open Market Committee
+_____________________________________________________________________________________________
+
+Household spending business fix investment increase moderate rate
+recent month , housing sector improve far ; however , net export
+soft inventory investment slow . range
+recent labor market indicator , include
+strong job gain , point additional decline underutilization labor resource . Inflation continued run Committeeâs
+2 percent longer-run objective , partly reflect
+decline energy price price non-energy import . Market-based measure inflation
+compensation decline far ; survey-based
+measure longer-term inflation expectation
+little change , balance , recent month .
+Consistent statutory mandate , Committee seek foster maximum employment
+price stability . Committee currently expect
+that , gradual adjustment stance
+monetary policy , economic activity expand
+moderate pace labor market indicator
+continue strengthen . Inflation expect
+remain low near term , part
+decline energy price , rise
+2 percent medium term transitory
+effect decline energy import price
+dissipate labor market strengthens far . Committee closely monitoring global
+economic financial development assess implication labor market
+inflation , balance risk outlook .
+Given economic outlook , Committee decide maintain target range federal
+fund rate Â¼ Â½ percent . stance monetary policy remains accommodative , thereby
+support improvement labor market
+condition return 2 percent inflation .
+determine timing size future adjustment target range federal fund
+rate , Committee ass realize expect economic condition relative objective maximum employment 2 percent inflation . assessment take account
+wide range information , include measure
+labor market condition , indicator inflation
+pressure inflation expectation , reading
+financial international development .
+light current shortfall inflation
+2 percent , Committee carefully monitor
+actual expect progress toward inflation
+
+goal . Committee expect economic condition evolve manner warrant
+gradual increase federal fund rate ;
+federal fund rate likely remain ,
+time , level expect prevail
+longer run . However , actual path
+federal fund rate depend economic
+outlook inform incoming data .
+Committee maintain exist policy
+reinvesting principal payment holding agency debt agency mortgage-backed
+security agency mortgage-backed security
+roll mature Treasury security
+auction , anticipates normalization level federal fund rate well
+way . policy , keep Committeeâs holding longer-term security sizable
+level , help maintain accommodative financial conditions.â
+Voting action : Janet L . Yellen , William C .
+Dudley , Lael Brainard , James Bullard , Stanley Fischer ,
+Esther L . George , Loretta J . Mester , Jerome H . Powell ,
+Eric Rosengren , Daniel K . Tarullo .
+Voting action : None .
+Consistent Committeeâs decision leave
+target range federal fund rate unchanged ,
+Board Governors take action change
+interest rate reserve discount rate .
+Potential Enhancements Summary
+Economic Projections
+Next , participant consider proposal subcommittee communication add SEP several
+chart would illustrate uncertainty attends
+participantsâ macroeconomic projection . staff briefing review subcommitteeâs proposal , note
+so-called fan chart could construct largely
+information historical error government
+private-sector forecast already provide
+SEP , thereby make easy explain new chart
+public ; addition , inclusion fan chart
+federal fund rate could help convey public
+future path monetary policy uncertain
+depend economic financial development .
+subcommittee consider approach
+opt recommend simple method similar follow foreign central bank .
+Participants express range view regard advantage disadvantage include fan chart
+SEP . one hand , chart would enhance
+
+Minutes Meeting January 26â27 , 2016
+Page 19
+_____________________________________________________________________________________________
+
+Committeeâs communication provide visual representation uncertainty surround median
+projection variable , although note
+meeting minute SEP already provide information participantsâ assessment uncertainty regard economic outlook . addition , fan
+chart would help illustrate dispersion participantsâ projection usually modest relative uncertainty attends macroeconomic forecast . Moreover , number participant note simple approach subcommittee recommend
+would straightforward explain public
+option consider subcommittee
+could modify time incorporate great
+complexityâfor instance , show magnitude uncertainty median projection
+necessarily equal magnitude uncertainty
+it . hand , participant thought
+propose fan chart still could challenge
+general public interpret . also note
+central bank employ fan chart typically display uncertainty around staff forecast policymakersâ consensus forecast , median SEP projection
+necessarily represent Committeeâs collective
+view . Moreover , typical magnitude historical
+forecast error use construct propose fan chart
+could well differ participantsâ judgment uncertainty go forwardâinformation already include SEPâand difference could difficult
+explain .
+regard include fan chart illustrate uncertainty surround path policy interest rate ,
+
+fan chart federal fund rate might helpful
+explain future monetary policy necessarily uncertain depend upon economic financial development . However , participant raise several question , include whether band around federal
+fund rate path extend zero , future forward guidance would represent
+framework , whether would appropriate include fan chart federal fund rate light
+Committeeâs role set policy target .
+end discussion , Chair note
+work might helpful address participantsâ concern
+ask subcommittee communication continue investigate possibility incorporate
+graphical depiction uncertainty SEP .
+agree next meeting Committee
+would held TuesdayâWednesday , March 15â16 ,
+2016 . meeting adjourn 12:25 p.m .
+January 27 , 2016 .
+Notation Vote
+notation vote complete January 5 , 2016 ,
+Committee unanimously approve minute
+Committee meeting held December 16â17 , 2015 .
+
+_____________________________
+Brian F . Madigan
+Secretary
+
+
